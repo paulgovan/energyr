@@ -1,5 +1,5 @@
 # energyr
-An R data package containing Federal Energy Regularity Commission (FERC) data
+An R package containing Federal Energy Regularity Commission (FERC) data
 
 # Data
 * electric: Electric Company Financial Data
@@ -11,9 +11,10 @@ An R data package containing Federal Energy Regularity Commission (FERC) data
 * storage: Natural Gas Storage Field Data
 
 # Overview
-energyr is an [R](https://www.r-project.org) containing data from [www.ferc.gov](https://www.ferc.gov). energyr is also the package used for [paulgovan.github.io/eAnalytics/](http://paulgovan.github.io/eAnalytics/). To learn more about our project, see this [publication](http://ascelibrary.org/doi/abs/10.1061/9780784413012.143).
+energyr is an [R](https://www.r-project.org) package containing data from [www.ferc.gov](https://www.ferc.gov). energyr is also the package used for [eAnalytics](http://paulgovan.github.io/eAnalytics/). To learn more about our project, see this [publication](http://ascelibrary.org/doi/abs/10.1061/9780784413012.143).
 
 # Getting Started
+You can install energyr in R with:
 
 ```S
 require(devtools)
