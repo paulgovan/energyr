@@ -1,0 +1,29 @@
+#' Pipeline Project Information
+#'
+#' Natural Gas Pipeline Project Information as reported by FERC.
+#'
+#' @source http://www.ferc.gov/industries/gas/indus-act/pipelines.asp
+#' @format Data frame with columns
+#' \describe{
+#' \item{Name}{Name of Pipeline Project}
+#' \item{Operator}{Name of the Pipeline Operator}
+#' \item{Type}{Type of Pipeline Project}
+#' \item{Pipeline}{Type of Pipeline}
+#' \item{Status}{Status of the Pipeline Project}
+#' \item{States}{State(s) of the Pipeline Project}
+#' \item{Region}{FERC Region of the Pipeline Project}
+#' \item{Authority}{Regulatory Authority for the Project}
+#' \item{Docket}{FERC Docket Number}
+#' \item{Updated}{Date of Docket Update}
+#' \item{Completed}{Date of Completion}
+#' \item{Year}{Year of Completion}
+#' \item{Cost}{Cost of the Pipeline Project in USD}
+#' \item{Status}{Current Status of the Plant}
+#' \item{Miles}{Miles of Pipeline}
+#' \item{Capacity}{Capacity of the Pipeline in MMcf/d}
+#' \item{Diameter}{Diameter(s) of the Pipeline in Inches}
+#' \item{Compression}{Compression of the Pipeline in HP}
+#' }
+#' @examples
+#'   pipeline
+"pipeline"
