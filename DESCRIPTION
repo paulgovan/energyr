@@ -1,5 +1,8 @@
-Title: energyr
-Author: Paul Govan
-AuthorUrl: http://github.com/paulgovan/energyr/
-License: Apache
+Package: energyr
 Type: Package
+Title: An R package containing Federal Energy Regularity Commission (FERC) data
+Version: 0.1
+Date: 2016-02-19
+Authors@R: person("Paul", "Govan", email = "pgovan1@aggienetwork.com", role = c("aut", "cre"))
+License: Apache
+LazyData: TRUE
