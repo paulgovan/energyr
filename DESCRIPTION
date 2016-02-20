@@ -1,4 +1,5 @@
 Package: energyr
+Type: Package
 Title: An R Package of Federal Energy Regulatory Commission (FERC) Data
 Version: 0.0.0.9000
 Authors@R: person("Paul", "Govan", email = "pgovan1@aggienetwork.com.com", role = c("aut", "cre"))
