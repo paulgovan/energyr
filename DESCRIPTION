@@ -1,8 +1,8 @@
 Package: energyr
-Type: Package
-Title: An R package containing Federal Energy Regularity Commission (FERC) data
 Version: 0.1
-Date: 2016-02-19
+Title: An R package containing Federal Energy Regularity Commission (FERC) data
+Description: 
 Authors@R: person("Paul", "Govan", email = "pgovan1@aggienetwork.com", role = c("aut", "cre"))
+Depends: R (>= 2.10.0)
 License: Apache
 LazyData: TRUE
