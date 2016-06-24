@@ -1,6 +1,3 @@
-# energyr
-An R package containing Federal Energy Regularity Commission (FERC) data
-
 # Data
 * electric: Electric Company Financial Data
 * gas: Natural Gas Company Financial Data
