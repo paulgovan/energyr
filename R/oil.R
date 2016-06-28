@@ -11,5 +11,6 @@
 #' \item{Year}{Reporting Year}
 #' }
 #' @examples
-#'   oil
+#'   dim(oil)
+#'   head(oil)
 "oil"

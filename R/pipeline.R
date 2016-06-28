@@ -25,5 +25,6 @@
 #' \item{Compression}{Compression of the Pipeline in HP}
 #' }
 #' @examples
-#'   pipeline
+#'   dim(pipeline)
+#'   head(pipeline)
 "pipeline"

@@ -11,5 +11,6 @@
 #' \item{Year}{Reporting Year}
 #' }
 #' @examples
-#'   gas
+#'   dim(gas)
+#'   head(gas)
 "gas"

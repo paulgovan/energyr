@@ -11,5 +11,6 @@
 #' \item{Year}{Reporting Year}
 #' }
 #' @examples
-#'   electric
+#'   dim(electric)
+#'   head(electric)
 "electric"

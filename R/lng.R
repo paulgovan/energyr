@@ -14,5 +14,6 @@
 #' \item{Status}{Status of Plant}
 #' }
 #' @examples
-#'   lng
+#'   dim(lng)
+#'   head(lng)
 "lng"

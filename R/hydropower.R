@@ -17,5 +17,6 @@
 #' \item{Expiration}{Expiration Date of the License}
 #' }
 #' @examples
-#'   hydropower
+#'   dim(hydropower)
+#'   head(hydropower)
 "hydropower"

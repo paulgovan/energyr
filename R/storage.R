@@ -16,5 +16,6 @@
 #' \item{Working}{Working Capacity in Mcf}
 #' }
 #' @examples
-#'   storage
+#'   dim(storage)
+#'   head(storage)
 "storage"

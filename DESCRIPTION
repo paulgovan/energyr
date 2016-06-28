@@ -1,8 +1,11 @@
 Package: energyr
 Version: 0.1
 Title: An R package containing Federal Energy Regulatory Commission (FERC) data
-Description: energyr is an R package containing data from the Federal Energy Regulatory Commission (FERC). 
+Description: energyr is an R package containing data from the Federal Energy
+    Regulatory Commission (FERC).
 Authors@R: person("Paul", "Govan", email = "pgovan1@aggienetwork.com", role = c("aut", "cre"))
-Depends: R (>= 2.10.0)
+Depends:
+    R (>= 2.10.0)
 License: Apache
 LazyData: TRUE
+RoxygenNote: 5.0.1
