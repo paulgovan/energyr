@@ -1,3 +1,6 @@
+# Overview
+energyr is an [R](https://www.r-project.org) package containing data from [www.ferc.gov](https://www.ferc.gov). energyr is also the package used for [eAnalytics](http://paulgovan.github.io/eAnalytics/). To learn more about our project, see this [publication](http://ascelibrary.org/doi/abs/10.1061/9780784413012.143).
+
 # Data
 * electric: Electric Company Financial Data
 * gas: Natural Gas Company Financial Data
@@ -7,15 +10,11 @@
 * pipeline: Natural Gas Pipeline Project Data
 * storage: Natural Gas Storage Field Data
 
-# Overview
-energyr is an [R](https://www.r-project.org) package containing data from [www.ferc.gov](https://www.ferc.gov). energyr is also the package used for [eAnalytics](http://paulgovan.github.io/eAnalytics/). To learn more about our project, see this [publication](http://ascelibrary.org/doi/abs/10.1061/9780784413012.143).
-
 # Getting Started
 To install energyr in R:
 
 ```S
-require(devtools)
-install_github('paulgovan/energyr')
+devtools::install_github('paulgovan/energyr')
 ```
 
 # License
