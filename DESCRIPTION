@@ -8,6 +8,6 @@ BugReports: https://github.com/paulgovan/energyr/issues
 Authors@R: person("Paul", "Govan", email = "pgovan1@aggienetwork.com", role = c("aut", "cre"))
 Depends:
     R (>= 2.10.0)
-License: Apache License
+License: Apache License | file LICENSE
 LazyData: TRUE
 RoxygenNote: 5.0.1
