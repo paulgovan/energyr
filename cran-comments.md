@@ -13,3 +13,8 @@ New submission
   
 ## Downstream dependencies
 There are currently no downstream dependencies for this package.
+
+## Resubmission
+This is a resubmission. In this version I have:
+
+* Removed "An R Package Containing" from the DESCRIPTION title.
