@@ -14,10 +14,10 @@ ANR Storage Company,Cold Springs 31,Cold Springs 31,Depleted Field,Kalkaska,MI,C
 ANR Storage Company,Excelsior 6,Excelsior 6,Depleted Field,Kalkaska,MI,Consuming East,10810000,12310000,200000
 ANR Storage Company,Rapid River 35,Rapid River 35,Depleted Field,Kalkaska,MI,Consuming East,15051000,17327000,250000
 "Arlington Storage Company, LLC",Thomas Corner,Thomas Corners,Depleted Field,Steuben,NY,Consuming East,7000000,10000000,140000
-"Atmos Pipeline and Storage, LLC",Fort Necessity,--,Salt Dome,Franklin,LA,--,--,--,--
-"BCR Holdings, Inc.",Bully Camp,--,Salt Dome,Lafourche,LA,--,--,--,--
+"Atmos Pipeline and Storage, LLC",Fort Necessity,--,Salt Dome,Franklin,LA,,,,
+"BCR Holdings, Inc.",Bully Camp,--,Salt Dome,Lafourche,LA,,,,
 Bear Creek Storage Company,Bear Creek,Pettit,Depleted Field,Bienville,LA,Producing,59200000,107900000,900000
-Black Bayou Gas Storage,Black Bayou,--,Salt Dome,Cameron,LA,--,--,--,--
+Black Bayou Gas Storage,Black Bayou,--,Salt Dome,Cameron,LA,,,,
 Blue Lake Gas Storage Co.,Blue Lake 18-A,Blue Lake 18A,Depleted Field,Kalkaska,MI,Consuming East,47086000,54119000,700000
 "Bluewater Gas Storage, LLC",Bluewater Gas Storage,Columbus Iii,Depleted Field,"St. Clair, Macomb",MI,Consuming East,26512000,33500000,800000
 Bobcat Gas Storage,Port Barre Salt Dome,Port Barre Salt Dome,Salt Dome,St. Landry,LA,Producing,23640000,32050000,600000
@@ -30,7 +30,7 @@ CenterPoint Energy Gas Transmission Company,Ruston,James,Depleted Field,Lincoln,
 CenterPoint Energy Gas Transmission Company,Ada,Upper Cromwell,Depleted Field,Pontotoc,OK,Producing,13000000,21414000,295000
 CenterPoint Energy Gas Transmission Company,Chiles Dome,Wapanucka,Depleted Field,Coal,OK,Producing,13500000,24500000,309000
 Central New York Oil and Gas Company,Stagecoach,Widell Barnhart Owen,Depleted Field,Tioga,NY,Consuming East,24787815,30537815,500000
-"Chestunut Ridge Storage, LLC",Junction,--,Depleted Field,"Fayette, Magnolia, Preston",PA,--,--,--,--
+"Chestunut Ridge Storage, LLC",Junction,--,Depleted Field,"Fayette, Magnolia, Preston",PA,,,,
 Clear Creek Storage Company,Clear Creek,Nugget,Depleted Field,Unita,WY,Consuming West,4000000,8000000,50000
 Colorado Interstate Gas Company,Flank,Morrow And Cherokee,Depleted Field,Baca,CO,Consuming West,7182777,18620319,164104
 Colorado Interstate Gas Company,Fort Morgan,Dakota D,Depleted Field,Morgan,CO,Consuming West,8496000,14858000,450000
@@ -73,7 +73,7 @@ Columbia Gas Tranmission Corporation,Terra Alta,Chert Oriskany,Depleted Field,Pr
 Columbia Gas Tranmission Corporation,Terra Alta South,Chert Oriskany,Depleted Field,Preston,WV,Consuming East,4540000,17400000,66700
 Columbia Gas Tranmission Corporation,Victory A,Maxton,Depleted Field,Wetzel,WV,Consuming East,2919000,7150000,67700
 Columbia Gas Tranmission Corporation,Victory B,Maxton Big Injun,Depleted Field,"Marshall, Wetzel",WV,Consuming East,10494711,25100000,166800
-Copiah County Storage Company,Copiah,--,Salt Dome,Copiah,MS,--,--,--,--
+Copiah County Storage Company,Copiah,--,Salt Dome,Copiah,MS,,,,
 "Dominion Transmission, Inc.",Quinlan,Onondoga Reef,Depleted Field,Cattaraugas,NY,Consuming East,4000000,7900000,300000
 "Dominion Transmission, Inc.",Woodhull,Oriskany,Depleted Field,Steuben,NY,Consuming East,20597000,35904000,357000
 "Dominion Transmission, Inc.",Ellisburg,Oriskany,Depleted Field,Potter,PA,Consuming East,43314000,76776000,815880
@@ -92,7 +92,7 @@ Copiah County Storage Company,Copiah,--,Salt Dome,Copiah,MS,--,--,--,--
 "East Cheyenne Gas Storage, LLC",Peetz West,West Peetz,Depleted Field,Logan,CO,Consuming West,14500000,25300000,268519
 "Egan Hub Partners, LP",Egan Storage Dome,N A,Salt Dome,Acadia,LA,Producing,25510000,33200000,2300000
 El Paso Natural Gas Company,Washington Ranch,Morrow,Depleted Field,Edd,NM,Producing,44037872,68600000,250000
-"Enstor Houston Hub Storage and Transportation, LP",Houston Hub,--,Salt Dome,Liberty,TX,--,--,--,--
+"Enstor Houston Hub Storage and Transportation, LP",Houston Hub,--,Salt Dome,Liberty,TX,,,,
 "Equitrans, LP",Bunola,Bunola,Depleted Field,"Allegheny, Washington",PA,Consuming East,4450870,7300000,180000
 "Equitrans, LP",Finleyville,Finleyville,Depleted Field,Washington,PA,Consuming East,520253,800000,38000
 "Equitrans, LP",Hunters Cave,Hunters Cave,Depleted Field,Greene,PA,Consuming East,3750208,6700000,36000
@@ -107,7 +107,7 @@ El Paso Natural Gas Company,Washington Ranch,Morrow,Depleted Field,Edd,NM,Produc
 "Equitrans, LP",Rhodes,Rhodes,Depleted Field,"Taylor, Doddridge",WV,Consuming East,5534013,9700000,86000
 "Equitrans, LP",Shirley,Shirley,Depleted Field,"Tyler, Doddridge",WV,Consuming East,2256322,3800000,29000
 "Equitrans, LP",Skin Creek,Skin Creek,Depleted Field,Lewis,WV,Consuming East,1323250,2165000,37000
-"Free Bird Gas Storage, LLC",Free Bird Storage/East Detroit,--,Depleted Field,Lamar,AL,--,--,--,--
+"Free Bird Gas Storage, LLC",Free Bird Storage/East Detroit,--,Depleted Field,Lamar,AL,,,,
 "Golden Triangle Storage, Inc.",Spindletop,Louann Salt Dome,Salt Dome,"Jefferson, Orange",TX,Producing,13600000,21100000,500000
 "Gulf South Gas Pipeline Company, LP",Bistineau Gas Storage,Pettit,Depleted Field,"Bossier, Bienville ",LA,Producing,85746000,141000000,1200000
 "Gulf South Gas Pipeline Company, LP",Jackson Gas Storage,Selma Chalk,Depleted Field,"Rankin, Hinds",MS,Producing,5803077,7730000,303000
@@ -115,12 +115,12 @@ Hampshire Gas Company,Augusta,Oriskany Sand,Depleted Field,Hampshire,WV,Consumin
 "Hardy Gas Storage, LLC",Hardy,Oriskany,Depleted Field,Hardy,WV,Consuming East,12300000,29600000,170900
 Honeoye Storage Corporation,Honeoye,Honeoye,Depleted Field,Ontario,NY,Consuming East,6769470,11450000,70000
 "Kinder Morgan Gas Transmission, LLC",Huntsman,Third Dakota J Sand,Depleted Field,Cheyenne,NE,Consuming East,14819082,34850000,210000
-Leader One Energy,Deer Trail,--,Depleted Field,Adams,CO,--,--,--,--
-Leaf River Energy Center,Leaf River,--,Salt Dome,Smith,MS,--,--,--,--
-"Liberty Gas Storage, LLC",Liberty,--,Salt Dome,"Calcasieu, Cameron",LA,--,--,--,--
-"Magnum Gas Storage, LLC",Magnum,--,Salt Dome,"MillardJuab",UT,--,--,--,--
+Leader One Energy,Deer Trail,--,Depleted Field,Adams,CO,,,,
+Leaf River Energy Center,Leaf River,--,Salt Dome,Smith,MS,,,,
+"Liberty Gas Storage, LLC",Liberty,--,Salt Dome,"Calcasieu, Cameron",LA,,,,
+"Magnum Gas Storage, LLC",Magnum,--,Salt Dome,"MillardJuab",UT,,,,
 "Mississippi Hub, LLC",Bond Salt Dome,,Salt Dome,Simpson,MS,Producing,23221849,32556159,900000
-"MoBay Gas Storage Hub, Inc.",MoBay,--,Depleted Field,Mobile Bay,AL,--,--,--,--
+"MoBay Gas Storage Hub, Inc.",MoBay,--,Depleted Field,Mobile Bay,AL,,,,
 "Monroe Gas Storage Company, LLC",Four Mile Creek,Carter B Sandstone,Depleted Field,Monroe,MS,Producing,7000000,19562000,269360
 National Fuel Gas Supply Corporation,Beech Hill Storage,Oriskany,Depleted Field,Allegany,NY,Consuming East,9900000,23000000,66000
 National Fuel Gas Supply Corporation,Bennington Storage,Medina,Depleted Field,"Reie, Wyoming",NY,Consuming East,1800000,5130000,75300
@@ -154,9 +154,9 @@ National Fuel Gas Supply Corporation,Wharton Storage,Oriskany,Depleted Field,"Ca
 Natural Gas Pipeline Company of America,Cairo,Galesville Mt Simon St Peter,Aquifer,Louisa,IA,Consuming East,28415000,94059427,378000
 Natural Gas Pipeline Company of America,Columbus City,Galesville Mt Simon St Peter,Aquifer,Louisa,IA,Consuming East,16685000,54400193,175000
 Natural Gas Pipeline Company of America,Keota,St Peter,Aquifer,Washington,IA,Consuming East,2814000,6000000,100000
-Natural Gas Pipeline Company of America,Cook Mills,--,Depleted Field,"Douglas, Cole",IL,--,--,--,--
-Natural Gas Pipeline Company of America,HERSalt DomeHER,--,Aquifer,Kankakee,IL,--,--,--,--
-Natural Gas Pipeline Company of America,HERSalt DomeHER Northwest,--,Aquifer,Kankakee,IL,--,--,--,--
+Natural Gas Pipeline Company of America,Cook Mills,--,Depleted Field,"Douglas, Cole",IL,,,,
+Natural Gas Pipeline Company of America,HERSalt DomeHER,--,Aquifer,Kankakee,IL,,,,
+Natural Gas Pipeline Company of America,HERSalt DomeHER Northwest,--,Aquifer,Kankakee,IL,,,,
 Natural Gas Pipeline Company of America,Loudon,Devonian,Depleted Field,Fayette,IL,Consuming East,40000000,80000000,510000
 Natural Gas Pipeline Company of America,Sayre,Panhandle Dolomate,Depleted Field,Beckham,OK,Producing,62227000,90400000,667000
 Natural Gas Pipeline Company of America,North Lansing,Rodessa Young,Depleted Field,Harrison,TX,Producing,96000000,156000000,1240000
@@ -166,11 +166,11 @@ Natural Gas Pipeline Company of America,North Lansing,Rodessa Young,Depleted Fie
 Northern Natural Gas Company,Redfield,St Peter Elgin Mt Simon,Aquifer,Dallas,IA,Consuming East,42399000,133750000,600000
 Northern Natural Gas Company,Cunningham,Viola Simpson,Depleted Field,"Pratt, Kingman",KS,Producing,40916000,62000000,720000
 Northern Natural Gas Company,Lyons,Arbuckle,Depleted Field,Rice,KS,Producing,8000000,24000000,130000
-Orbit Gas Storage Inc.,White Plains,--,Depleted Field,Hopkins,KY,--,--,--,--
+Orbit Gas Storage Inc.,White Plains,--,Depleted Field,Hopkins,KY,,,,
 "Perryville Gas Storage, LLC",Perryville,Crowville,Salt Dome,Franklin,LA,Producing,8500000,11000000,600000
 "Petal Gas Storage, LLC",Hattiesburg,Petal Salt Dome,Salt Dome,Forrest,MS,Producing,2100000,3200000,765000
 "Petal Gas Storage, LLC",Petal,Petal Salt Dome,Salt Dome,Forrest,MS,Producing,26509000,42518000,2665000
-"PetroLogistics Natural Gas Storage, LLC",PetroLogistics,--,Salt Dome,Iberville,LA,--,--,--,--
+"PetroLogistics Natural Gas Storage, LLC",PetroLogistics,--,Salt Dome,Iberville,LA,,,,
 Pine Prairie Energy Center,Pine Prairie,Pine Prairie Salt Dome,Salt Dome,"Evangeline, Acadia, Rapila",LA,Producing,56000000,71800000,3200000
 "Puget Sound Energy, Inc.",Jackson Prairie,Zones 2 9,Aquifer,Lewis,WA,Consuming West,24600000,46900000,1150000
 Questar Pipeline Company,Chalk Creek,Kelvin,Aquifer,Summit,UT,Consuming West,256000,1280709,35000
@@ -178,7 +178,7 @@ Questar Pipeline Company,Clay Basin,Dakota,Depleted Field,Duggett,UT,Consuming W
 Questar Pipeline Company,Coalville,Longwall,Aquifer,Summit,UT,Consuming West,692000,2983827,65000
 Questar Pipeline Company,LeRoy,Thaynes,Aquifer,Unita,WY,Consuming West,836000,6705113,75000
 "Ryckman Creek Resources, LLC",Ryckman Creek,Nuggett Sand,Depleted Field,Unita,WY,Consuming West,35000000,53048000,240000
-Saltville Gas Storage Company,Saltville,--,Salt Dome,"Smyth, Washington",VA,--,--,--,--
+Saltville Gas Storage Company,Saltville,--,Salt Dome,"Smyth, Washington",VA,,,,
 SG Resources,Southern Pines Energy Center,Byrd Salt Dome,Salt Dome,Greene,LA/MS,Producing,40000000,51200000,2400000
 Southern Natural Gas Company,Muldon,Chester Gas Pool,Depleted Field,Monroe,MS,Producing,36000000,92820000,750000
 "Southern Star Central Pipeline, Inc.",Alden,Misener,Depleted Field,Rice,KS,Producing,4200000,14700000,134000
@@ -186,18 +186,18 @@ Southern Natural Gas Company,Muldon,Chester Gas Pool,Depleted Field,Monroe,MS,Pr
 "Southern Star Central Pipeline, Inc.",Elk City,Burgess,Depleted Field,Elk,KS,Producing,11800000,33300000,269000
 "Southern Star Central Pipeline, Inc.",McLouth,Mclouth,Depleted Field,"Leavenworth, Jefferson",KS,Producing,2200000,14100000,224000
 "Southern Star Central Pipeline, Inc.",Piqua,Colony,Depleted Field,Woodson,KS,Producing,300000,3200000,16000
-"Southern Star Central Pipeline, Inc.",Welda North,--,Depleted Field,Anderson,KS,--,--,--,--
-"Southern Star Central Pipeline, Inc.",Welda South,--,Depleted Field,Anderson,KS,--,--,--,--
+"Southern Star Central Pipeline, Inc.",Welda North,--,Depleted Field,Anderson,KS,,,,
+"Southern Star Central Pipeline, Inc.",Welda South,--,Depleted Field,Anderson,KS,,,,
 "Southern Star Central Pipeline, Inc.",Webb,Chat,Depleted Field,Grant,OK,Producing,12500000,42400000,203000
 Southwest Gas Storage Company,Waverly,St Peter,Aquifer,"Morgan, Sangamon",IL,Consuming East,4479919,51100000,70000
 Southwest Gas Storage Company,Borchers North,Morrow,Depleted Field,Meade,KS,Producing,28372187,63453413,350000
 Southwest Gas Storage Company,Howell,Guelph,Depleted Field,Livingston,MI,Consuming East,17685776,31100000,410000
 Southwest Gas Storage Company,North Hopeton,Hunton,Depleted Field,Woods,OK,Producing,3500000,18100000,50000
-"Starks Gas Storage, LLC",Starks 1 & 2,--,Salt Dome,Calcasieu,LA,--,--,--,--
+"Starks Gas Storage, LLC",Starks 1 & 2,--,Salt Dome,Calcasieu,LA,,,,
 "Steckman Ridge, LP",Steckman Ridge,Oriskany,Depleted Field,Bedford,PA,Consuming East,12000000,17700000,300000
 Steuben Gas Storage Company,Adrian,Adrian,Depleted Field,Steuben,NY,Consuming East,6200000,9000000,59486
-"Tallulah Gas Storage, LLC",Tallulah,--,Salt Dome,Madison,LA,--,--,--,--
-"Tarpon Whitetail Gas Storage, LLC",Tarpon Whitetail,--,Depleted Field,Monroe,MS,--,--,--,--
+"Tallulah Gas Storage, LLC",Tallulah,--,Salt Dome,Madison,LA,,,,
+"Tarpon Whitetail Gas Storage, LLC",Tarpon Whitetail,--,Depleted Field,Monroe,MS,,,,
 Tennessee Gas Pipeline Company,Hebron,Oriskany,Depleted Field,Potter,PA,Consuming East,17300000,29300000,485000
 Texas Eastern Tranmission,Accident,Oriskany,Depleted Field,Garett,MD,Consuming East,18300000,64000000,400000
 Texas Gas Transmission Corporation,Alford,Cypress,Depleted Field,Pike,IN,Consuming East,918753,2518753,16900
@@ -209,14 +209,14 @@ Texas Gas Transmission Corporation,Graham Lake,Tar Springs,Depleted Field,Muhlen
 Texas Gas Transmission Corporation,Hanson,Tar Springs,Depleted Field,Hopkins,KY,Consuming East,5587322,12087322,156000
 Texas Gas Transmission Corporation,Midland,Bethel,Depleted Field,Muhlenberg,KY,Consuming East,65182677,136323530,1030000
 Texas Gas Transmission Corporation,West Greenville,Bethel,Depleted Field,Muhlenberg,KY,Consuming East,4184441,8300000,85000
-Transcontinental Gas Pipeline Company,Hester,--,Depleted Field,St. James,LA,--,--,--,--
+Transcontinental Gas Pipeline Company,Hester,--,Depleted Field,St. James,LA,,,,
 Transcontinental Gas Pipeline Company,Washington,Cockfield D Sand,Depleted Field,St. James,LA,Producing,75000000,120000098,790000
 Transcontinental Gas Pipeline Company,Eminence,Eminence Salt Dome,Salt Dome,Covington,MS,Producing,10048000,15025000,1198068
 "Tres Palacios Gas Storage, LLC",Markham,Trull 2,Salt Dome,"MatagordaWharton",TX,Producing,36600000,53500000,1500000
-"Tricor Ten Storage Hub, LLC",Ten Section,--,Depleted Field,Kern,CA,--,--,--,--
+"Tricor Ten Storage Hub, LLC",Ten Section,--,Depleted Field,Kern,CA,,,,
 "Trunkline Gas Company, LLC",Epps,Monroe Gas Rock,Depleted Field,Caroll,LA,Producing,13000000,43000000,150000
 UGI Storage Company,Meeker,Oriskany,Depleted Field,"Tioga, Potter, Cameron",PA,Consuming East,3700000,5200000,60000
-"Unocal Windy Hill Gas Storage, LLC",Windy Hill,--,Salt Dome,Morgan,CO,--,--,--,--
+"Unocal Windy Hill Gas Storage, LLC",Windy Hill,--,Salt Dome,Morgan,CO,,,,
 Williston Basin Interstate Pipeline Company,Baker,Judith River,Depleted Field,Fallen,MT,Consuming West,164427000,287200000,149815
 Williston Basin Interstate Pipeline Company,Billy Creek,Frontier,Depleted Field,Johnson,WY,Consuming West,542200,2943500,5000
 Williston Basin Interstate Pipeline Company,Elk Basin,Cloverly,Depleted Field,Park,WY,Consuming West,28379400,63205100,134985

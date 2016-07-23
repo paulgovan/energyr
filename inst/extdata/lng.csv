@@ -1,40 +1,40 @@
 Location,Company,Capacity,Type,Status
-Gulf of Mexico,Main Pass McMoran Exp,1,Import,Not under construction
-Gulf of Mexico,TORP Technology - Bienville LNG,1.4,Import,Not under construction
-"Corpus Christi, TX",Cheniere - Corpus Christi LNG,0.4,Import,Under construction
-"Sabine, TX",Cheniere/Sabine Pass LNG,2.1,Export,Under construction
-"Hackberry, LA",Sempra - Cameron LNG,2.1,Export,Under construction
-"Freeport, TX",Freeport LNG Dev/Freeport LNG Expansion/FLNG Liquefaction,1.8,Export,Under construction
+Gulf of Mexico,Main Pass McMoran Exp,1.00,Import,Not under construction
+Gulf of Mexico,TORP Technology - Bienville LNG,1.40,Import,Not under construction
+"Corpus Christi, TX",Cheniere - Corpus Christi LNG,0.40,Import,Under construction
+"Sabine, TX",Cheniere/Sabine Pass LNG,2.10,Export,Under construction
+"Hackberry, LA",Sempra - Cameron LNG,2.10,Export,Under construction
+"Freeport, TX",Freeport LNG Dev/Freeport LNG Expansion/FLNG Liquefaction,1.80,Export,Under construction
 "Cove Point, MD",Dominion - Cove Point LNG,0.82,Export,Under construction
 "Corpus Christi, TX",Cheniere - Corpus Christi LNG,2.14,Export,Under construction
-"Sabine Pass, LA",Sabine Pass Liquefaction,1.4,Export,Under construction
-"Lake Charles, LA",Southern Union - Lake Charles LNG,2.2,Export,Not under construction
+"Sabine Pass, LA",Sabine Pass Liquefaction,1.40,Export,Under construction
+"Lake Charles, LA",Southern Union - Lake Charles LNG,2.20,Export,Not under construction
 "Lake Charles, LA",Magnolia LNG,1.08,Export,Not under construction
 "Hackberry, LA",Sempra - Cameron LNG,1.41,Export,Not under construction
 "Elba Island, GA",Southern LNG Company,0.35,Export,Not under construction
 "Freeport, TX",Freeport LNG Dev,0.34,Export,Not under construction
 "Everett, MA",GDF SUEZ - DOMAC,1.04,Import,Existing
-"Cove Point, MD",Dominion - Cove Point LNG,1.8,Import,Existing
-"Elba Island, GA",El Paso - Southern LNG,1.6,Import,Existing
-"Lake Charles, LA",Southern Union - Trunkline LNG,2.1,Import,Existing
-Offshore Boston,Excelerate Energy - Northeast Gateway,0.8,Import,Existing
-"Freeport, TX",Cheniere/Freeport LNG Dev,1.5,Import,Existing
-"Sabine, LA",Cheniere/Sabine Pass LNG,4,Import,Existing
-"Hackberry, LA",Sempra - Cameron LNG,1.8,Import,Existing
-Offshore Boston,GDF SUEZ - DOMAC,0.4,Import,Existing
-"Sabine Pass, TX",ExxonMobil - Golden Pass,2,Import,Existing
-"Pascagoula, MS",El Paso/Crest/Sonangol - Gulf LNG Energy LLC,1.5,Import,Existing
-"Saint John, NB",Repsol/Fort Reliance - Canaport LNG,1,Import,Existing
-"Altamira, Tamulipas",Shell/Total/Mitsui - Altamira LNG,0.7,Import,Existing
-"Baja California, MX",Sempra - Energia Costa Azul,1,Import,Existing
-"Manzanillo, MX",KMS GNL de Marizanillo,0.5,Import,Existing
-"Kenai, AK",ConocoPhillips,0.2,Export,Existing
-"Sabine, LA",Cheniere/Sabine Pass LNG,0.7,Export,Existing
-"Robbinston, ME",Kestrel Energy - Downeast LNG,0.5,Import,Proposed
-"Offshore, NY",Liberty Natural - Port Ambrose,0.4,Import,Proposed
-"Sabine Pass, TX",ExxonMobil - Golden Pass,2.1,Export,Proposed
-"Pascagoula, MS",Gulf LNG Liquefaction,1.5,Export,Proposed
+"Cove Point, MD",Dominion - Cove Point LNG,1.80,Import,Existing
+"Elba Island, GA",El Paso - Southern LNG,1.60,Import,Existing
+"Lake Charles, LA",Southern Union - Trunkline LNG,2.10,Import,Existing
+Offshore Boston,Excelerate Energy - Northeast Gateway,0.80,Import,Existing
+"Freeport, TX",Cheniere/Freeport LNG Dev,1.50,Import,Existing
+"Sabine, LA",Cheniere/Sabine Pass LNG,4.00,Import,Existing
+"Hackberry, LA",Sempra - Cameron LNG,1.80,Import,Existing
+Offshore Boston,GDF SUEZ - DOMAC,0.40,Import,Existing
+"Sabine Pass, TX",ExxonMobil - Golden Pass,2.00,Import,Existing
+"Pascagoula, MS",El Paso/Crest/Sonangol - Gulf LNG Energy LLC,1.50,Import,Existing
+"Saint John, NB",Repsol/Fort Reliance - Canaport LNG,1.00,Import,Existing
+"Altamira, Tamulipas",Shell/Total/Mitsui - Altamira LNG,0.70,Import,Existing
+"Baja California, MX",Sempra - Energia Costa Azul,1.00,Import,Existing
+"Manzanillo, MX",KMS GNL de Marizanillo,0.50,Import,Existing
+"Kenai, AK",ConocoPhillips,0.20,Export,Existing
+"Sabine, LA",Cheniere/Sabine Pass LNG,0.70,Export,Existing
+"Robbinston, ME",Kestrel Energy - Downeast LNG,0.50,Import,Proposed
+"Offshore, NY",Liberty Natural - Port Ambrose,0.40,Import,Proposed
+"Sabine Pass, TX",ExxonMobil - Golden Pass,2.10,Export,Proposed
+"Pascagoula, MS",Gulf LNG Liquefaction,1.50,Export,Proposed
 "Cameron Parish, MS",Venture Global Calcasieu Pass,1.41,Export,Proposed
 "Brownsville, TX",Texas LNG Brownsville,0.55,Export,Proposed
-"Brownsville, TX",Rio Grande LNG - NextDecade,3.6,Export,Proposed
-Gulf of Mexico,Delfin LNG,1.8,Export,Proposed
+"Brownsville, TX",Rio Grande LNG - NextDecade,3.60,Export,Proposed
+Gulf of Mexico,Delfin LNG,1.80,Export,Proposed
