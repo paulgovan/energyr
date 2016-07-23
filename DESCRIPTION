@@ -1,5 +1,5 @@
 Package: energyr
-Version: 0.1
+Version: 0.1.0
 Title: An R Package Containing Data from the Federal Energy Regulatory Commission
 Description: Data from the Federal Energy Regulatory Commission.
 URL: https://github.com/paulgovan/energyr
