@@ -18,3 +18,5 @@ There are currently no downstream dependencies for this package.
 This is a resubmission. In this version I have:
 
 * Removed "An R Package Containing" from the DESCRIPTION title.
+* Included additional details about the data in the DESCRIPTION description including the country of origin (United States)
+* Removed "Apache License |" from DESCRIPTION license
