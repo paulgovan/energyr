@@ -9,7 +9,13 @@ There was 1 NOTE:
 
 * NOTE Maintainer: 'Paul Govan <pgovan1@aggienetwork.com>'
 
-New submission
+  New submission
+
+  Possibly mis-spelled words in DESCRIPTION:
+    hydropower (7:5)
+    liquified (7:28)
+  
+  These words describe different types of energy industries.
   
 ## Downstream dependencies
 There are currently no downstream dependencies for this package.
