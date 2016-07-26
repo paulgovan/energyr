@@ -14,6 +14,12 @@ energyr is an [R](https://www.r-project.org) package containing data published b
 To install energyr in R:
 
 ```S
+install.packages("energyr")
+```
+
+Or to install the developmental version:
+
+```S
 devtools::install_github('paulgovan/energyr')
 ```
 
