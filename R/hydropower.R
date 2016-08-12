@@ -2,6 +2,7 @@
 #'
 #' Hydropower Plant Information as reported by FERC.
 #'
+#' @import RgoogleMaps
 #' @source http://www.ferc.gov/industries/hydropower.asp
 #' @format Data frame with columns
 #' \describe{
