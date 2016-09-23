@@ -7,22 +7,13 @@ There were no ERRORs or WARNINGs.
 
 There was 1 NOTE:
 
-* NOTE Maintainer: 'Paul Govan <pgovan1@aggienetwork.com>'
-
-  New submission
-
-  Possibly mis-spelled words in DESCRIPTION:
+* Possibly mis-spelled words in DESCRIPTION:
     hydropower (7:5)
     liquified (7:28)
   
   These words describe different types of energy industries.
   
 ## Downstream dependencies
-There are currently no downstream dependencies for this package.
-
-## Resubmission
-This is a resubmission. In this version I have:
-
-* Removed "An R Package Containing" from the DESCRIPTION title.
-* Included additional details about the data in the DESCRIPTION description including the country of origin (United States)
-* Removed "| file LICENSE" from DESCRIPTION license
+I have also run R CMD check on downstream dependencies of energyr 
+(https://github.com/wch/checkresults/blob/master/energyr/r-release). 
+All packages passed.

@@ -4,3 +4,5 @@
 ^\.Rprofile$
 ^cran-comments\.md$
 ^\.travis\.yml$
+^revdep$
+^NEWS\.md$
