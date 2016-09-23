@@ -14,6 +14,5 @@ There was 1 NOTE:
   These words describe different types of energy industries.
   
 ## Downstream dependencies
-I have also run R CMD check on downstream dependencies of energyr 
-(https://github.com/wch/checkresults/blob/master/energyr/r-release). 
+I have also run R CMD check on downstream dependencies of energyr. 
 All packages passed.
