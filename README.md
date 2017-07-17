@@ -1,3 +1,9 @@
+![](http://www.r-pkg.org/badges/version/energyr)
+![](http://cranlogs.r-pkg.org/badges/grand-total/energyr)
+![](https://travis-ci.org/paulgovan/energyr.svg?branch=master)
+[![Rdoc](http://www.rdocumentation.org/badges/version/energyr)](http://www.rdocumentation.org/packages/energyr) 
+
+
 # Overview
 energyr is an [R](https://www.r-project.org) package containing data published by the United States Federal Energy Regulatory Commission (FERC) [www.ferc.gov](https://www.ferc.gov). energyr is also the package used for [eAnalytics](http://paulgovan.github.io/eAnalytics/). To learn more about our project, see this [publication](http://ascelibrary.org/doi/abs/10.1061/9780784413012.143).
 
