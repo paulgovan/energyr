@@ -1,9 +1,5 @@
-# energyr 0.1.1
+# energyr 0.1.2
 
-## Major changes
+## Minor updates
 
-* Updated database with 2015 energy data
-
-## Bug Fixes
-
-* Fixed namespace issue with RgoogleMaps
+* Added orcid
