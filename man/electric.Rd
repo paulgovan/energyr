@@ -25,4 +25,3 @@ Electric Company Financial Information as reported by FERC.
   head(electric)
 }
 \keyword{datasets}
-

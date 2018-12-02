@@ -34,4 +34,3 @@ Natural Gas Storage Field Information as reported by FERC.
   head(storage)
 }
 \keyword{datasets}
-

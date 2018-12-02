@@ -37,4 +37,3 @@ Natural Gas Pipeline Project Information as reported by FERC.
   head(pipeline)
 }
 \keyword{datasets}
-

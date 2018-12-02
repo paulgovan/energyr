@@ -25,4 +25,3 @@ Natural Gas Company Financial Information as reported by FERC.
   head(gas)
 }
 \keyword{datasets}
-

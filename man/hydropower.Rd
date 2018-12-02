@@ -31,4 +31,3 @@ Hydropower Plant Information as reported by FERC.
   head(hydropower)
 }
 \keyword{datasets}
-

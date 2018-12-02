@@ -28,4 +28,3 @@ LNG Plant Information as reported by FERC.
   head(lng)
 }
 \keyword{datasets}
-

@@ -25,4 +25,3 @@ Oil Company Financial Information as reported by FERC.
   head(oil)
 }
 \keyword{datasets}
-

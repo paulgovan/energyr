@@ -14,4 +14,4 @@ Imports:
     RgoogleMaps
 License: Apache License
 LazyData: TRUE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
