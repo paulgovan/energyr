@@ -1,5 +1,6 @@
 ![](http://www.r-pkg.org/badges/version/energyr)
 ![](http://cranlogs.r-pkg.org/badges/grand-total/energyr)
+![](http://cranlogs.r-pkg.org/badges/energyr)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1145429.svg)](https://doi.org/10.5281/zenodo.1145429)
 
 # Overview
