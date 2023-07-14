@@ -4,13 +4,15 @@
 \name{gas}
 \alias{gas}
 \title{Natural Gas Company Rates}
-\format{Data frame with columns
+\format{
+Data frame with columns
 \describe{
 \item{Company}{Natural Gas Company}
 \item{Revenue}{Annual Revenue in USD}
 \item{Bill}{Annual Bill in USD}
 \item{Year}{Reporting Year}
-}}
+}
+}
 \source{
 http://www.ferc.gov/industries/gas/annual-charges.asp
 }

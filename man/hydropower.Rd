@@ -4,7 +4,8 @@
 \name{hydropower}
 \alias{hydropower}
 \title{Hydropower Plant Information}
-\format{Data frame with columns
+\format{
+Data frame with columns
 \describe{
 \item{Number}{FERC Hydropower Plant Number}
 \item{Name}{Name of Hydropower Plant}
@@ -16,7 +17,8 @@
 \item{Waterway}{Name of the Waterway}
 \item{lat}{Approximate Latitude of the Plant}
 \item{lon}{Approximate Longitude of the Plant}
-}}
+}
+}
 \source{
 http://www.ferc.gov/industries/hydropower.asp
 }

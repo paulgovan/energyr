@@ -4,13 +4,15 @@
 \name{oil}
 \alias{oil}
 \title{Oil Company Rates}
-\format{Data frame with columns
+\format{
+Data frame with columns
 \describe{
 \item{Company}{Oil Company}
 \item{Revenue}{Annual Revenue in USD}
 \item{Bill}{Annual Bill in USD}
 \item{Year}{Reporting Year}
-}}
+}
+}
 \source{
 http://www.ferc.gov/industries/oil/annual-charges.asp
 }

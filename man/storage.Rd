@@ -4,7 +4,8 @@
 \name{storage}
 \alias{storage}
 \title{Natural Gas Storage Field Information}
-\format{Data frame with columns
+\format{
+Data frame with columns
 \describe{
 \item{Company}{Name of the Storage Company}
 \item{Field}{Name of the Storage Field}
@@ -19,7 +20,8 @@
 \item{address}{Location of the Field}
 \item{lat}{Approximate Latitude of the Field}
 \item{lon}{Approximate Longitude of the Field}
-}}
+}
+}
 \source{
 http://www.ferc.gov/industries/gas/indus-act/storage.asp
 }

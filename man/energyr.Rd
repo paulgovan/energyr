@@ -3,7 +3,6 @@
 \docType{package}
 \name{energyr}
 \alias{energyr}
-\alias{energyr-package}
 \title{An R package containing Federal Energy Regularity Commission (FERC) data}
 \description{
 energyr is an R package containing data from http://www.ferc.gov.

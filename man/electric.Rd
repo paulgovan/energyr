@@ -4,13 +4,15 @@
 \name{electric}
 \alias{electric}
 \title{Electric Company Rates}
-\format{Data frame with columns
+\format{
+Data frame with columns
 \describe{
 \item{Company}{Electric Company}
 \item{Revenue}{Annual Revenue in USD}
 \item{Bill}{Annual Bill in USD}
 \item{Year}{Reporting Year}
-}}
+}
+}
 \source{
 http://www.ferc.gov/industries/electric/annual-charges.asp
 }

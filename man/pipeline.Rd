@@ -4,7 +4,8 @@
 \name{pipeline}
 \alias{pipeline}
 \title{Pipeline Project Information}
-\format{Data frame with columns
+\format{
+Data frame with columns
 \describe{
 \item{Name}{Name of the Pipeline Project}
 \item{Operator}{Name of the Pipeline Operator}
@@ -22,7 +23,8 @@
 \item{Pipeline}{Intrastate or Interstate Pipeline}
 \item{Authority}{Regulatory Authority for the Project}
 \item{Docket}{FERC Docket Number}
-}}
+}
+}
 \source{
 http://www.ferc.gov/industries/gas/indus-act/pipelines.asp
 }

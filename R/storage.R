@@ -2,7 +2,6 @@
 #'
 #' Natural Gas Storage Field Information as reported by FERC.
 #'
-#' @import RgoogleMaps
 #' @source http://www.ferc.gov/industries/gas/indus-act/storage.asp
 #' @format Data frame with columns
 #' \describe{

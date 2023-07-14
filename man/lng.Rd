@@ -4,7 +4,8 @@
 \name{lng}
 \alias{lng}
 \title{LNG Plant Information}
-\format{Data frame with columns
+\format{
+Data frame with columns
 \describe{
 \item{Location}{Location of the LNG Plant}
 \item{Company}{Name of the LNG Company}
@@ -13,7 +14,8 @@
 \item{Status}{Status of Plant}
 \item{lat}{Approximate Latitude of the Plant}
 \item{lon}{Approximate Longitude of the Plant}
-}}
+}
+}
 \source{
 http://www.ferc.gov/industries/gas/indus-act/lng.asp
 }

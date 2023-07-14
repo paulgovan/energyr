@@ -2,7 +2,6 @@
 #'
 #' LNG Plant Information as reported by FERC.
 #'
-#' @import RgoogleMaps
 #' @source http://www.ferc.gov/industries/gas/indus-act/lng.asp
 #' @format Data frame with columns
 #' \describe{
