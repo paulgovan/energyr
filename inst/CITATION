@@ -8,7 +8,7 @@ Commission}",
   year     = "2018",
   note     = "R package version 0.1.2",
   url      = "https://CRAN.R-project.org/package=energyr",
-  doi      = "0.5281/zenodo.1145429",
+  doi      = "10.32614/CRAN.package.energyr",
   textVersion = paste(
 
   )
