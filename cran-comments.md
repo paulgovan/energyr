@@ -1,18 +1,19 @@
-## Test environments
-* local OS X install, R 3.3.1
-* win-builder (devel and release)
-
 ## R CMD check results
-There were no ERRORs or WARNINGs.
 
-There was 1 NOTE:
+0 errors | 0 warnings | 1 note
 
-* Possibly mis-spelled words in DESCRIPTION:
-    hydropower (7:5)
-    liquified (7:28)
+* Maintainer: ‘Paul Govan <paul.govan2@gmail.com>’
   
-  These words describe different types of energy industries.
-  
-## Downstream dependencies
-I have also run R CMD check on downstream dependencies of energyr. 
-All packages passed.
+  New maintainer:
+    Paul Govan <paul.govan2@gmail.com>
+  Old maintainer(s):
+    Paul Govan <pgovan1@aggienetwork.com>
+    
+The old email address is inactive.
+
+## revdepcheck results
+
+We checked 1 reverse dependencies, comparing R CMD check results across CRAN and dev versions of this package.
+
+ * We saw 0 new problems
+ * We failed to check 0 packages

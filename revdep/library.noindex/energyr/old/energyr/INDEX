@@ -1,0 +1,9 @@
+electric                Electric Company Rates
+energyr                 An R package containing Federal Energy
+                        Regularity Commission (FERC) data
+gas                     Natural Gas Company Rates
+hydropower              Hydropower Plant Information
+lng                     LNG Plant Information
+oil                     Oil Company Rates
+pipeline                Pipeline Project Information
+storage                 Natural Gas Storage Field Information

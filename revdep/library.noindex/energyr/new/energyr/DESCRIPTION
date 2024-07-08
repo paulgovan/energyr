@@ -1,18 +1,24 @@
 Package: energyr
 Version: 0.1.3
-Title: Data Published by the United States Federal Energy Regulatory Commission
+Title: Data Published by the United States Federal Energy Regulatory
+        Commission
 Description: Data published by the United States Federal Energy Regulatory Commission including
     electric company financial data, natural gas company financial data, 
     hydropower plant data, liquified natural gas plant data, oil company financial data
     natural gas company financial data, and natural gas storage field data.
 URL: https://github.com/paulgovan/energyr,
-    http://paulgovan.github.io/energyr/
+        http://paulgovan.github.io/energyr/
 BugReports: https://github.com/paulgovan/energyr/issues
 Authors@R: person("Paul", "Govan", email = "paul.govan2@gmail.com", role = c("aut", "cre", "cph"), comment = c(ORCID = "0000-0002-1821-8492"))
-Depends:
-    R (>= 2.10.0)
-Suggests:
-    RgoogleMaps
+Depends: R (>= 2.10.0)
+Suggests: RgoogleMaps
 License: Apache License
 LazyData: TRUE
 RoxygenNote: 7.2.3
+RemoteType: local
+RemoteUrl: /Users/paulgovan/Documents/GitHub/energyr
+NeedsCompilation: no
+Packaged: 2024-07-08 20:12:50 UTC; paulgovan
+Author: Paul Govan [aut, cre, cph] (<https://orcid.org/0000-0002-1821-8492>)
+Maintainer: Paul Govan <paul.govan2@gmail.com>
+Built: R 4.4.0; ; 2024-07-08 20:12:50 UTC; unix

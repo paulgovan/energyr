@@ -1,0 +1,1031 @@
+Number,Name,Expiration,Issued,Status,Capacity,Company,Waterway,State
+2088,SOUTH FEATHER POWER                ,3/31/09,7/21/52,Expired,104100,SOUTH FEATHER WATER AND POWER AGENC,SOUTH FORK FEATHER RIVER           ,CA
+2086,VERMILION VALLEY                   ,8/31/03,9/29/53,Expired,0,SOUTHERN CALIFORNIA EDISON CO  (CA),MONO CREEK                         ,CA
+2107,POE                                ,9/30/03,10/26/53,Expired,142830,PACIFIC GAS AND ELECTRIC CO      (C,NORTH FORK FEATHER RIVER           ,CA
+2082,KLAMATH                            ,2/28/06,1/28/54,Expired,161338,PACIFICORP                     (OR),KLAMATH RIVER                      ,OR
+2105,UPPER NORTH FORK FEATHER RIVER     ,10/31/04,1/24/55,Expired,342628,PACIFIC GAS AND ELECTRIC CO      (C,NORTH FORK FEATHER RIVER           ,CA
+2174,PORTAL                             ,3/31/05,4/19/55,Expired,10800,SOUTHERN CALIFORNIA EDISON CO  (CA),RANCHERIA CREEK                    ,CA
+1971,HELLS CANYON                       ,7/31/05,8/4/55,Expired,1166900,IDAHO POWER CO                 (ID),SNAKE RIVER                        ,OR
+2100,FEATHER RIVER (PS&CON)             ,1/31/07,2/11/57,Expired,762850,CALIFORNIA DEPT-WTR RESOURCES  (CA),FEATHER RIVER                      ,CA
+2085,MAMMOTH POOL                       ,11/30/07,12/30/57,Expired,150938,SOUTHERN CALIFORNIA EDISON CO  (CA),SAN JOAQUIN RIVER                  ,CA
+2197,YADKIN                             ,4/30/08,5/1/58,Expired,221440,ALCOA POWER GENERATING INC.        ,YADKIN RIVER                       ,NC
+2225,SULLIVAN LAKE (STORAGE)            ,9/30/08,11/25/58,Expired,0,PUD NO 1 OF PEND OREILLE CNTY  (WA),SULLIVAN CREEK                     ,WA
+2242,CARMEN-SMITH                       ,11/30/08,1/8/59,Expired,91995,EUGENE WATER & ELECTRIC BOARD      ,MCKENZIE RIVER                     ,OR
+2175,BIG CREEK NO.1 & NO.2              ,2/28/09,3/27/59,Expired,150150,SOUTHERN CALIFORNIA EDISON CO  (CA),SAN JOAQUIN RIVER                  ,CA
+2244,PACKWOOD LAKE                      ,2/28/10,7/7/60,Expired,26125,ENERGY NORTHWEST                   ,LAKE CREEK                         ,WA
+2106,MCCLOUD-PIT                        ,7/31/11,8/18/61,Expired,340500,PACIFIC GAS AND ELECTRIC CO      (C,PIT RIVER                          ,CA
+2079,MIDDLE FORK AMERICAN RIVER         ,2/28/13,3/1/63,Expired,223753,PLACER COUNTY WATER AGENCY     (CA),MIDDLE FORK AMERICAN R             ,CA
+2246,YUBA RIVER                         ,4/30/16,5/16/63,Active,361900,YUBA COUNTY WATER AGENCY       (CA),OREGON CREEK                       ,CA
+2310,DRUM-SPAULDING                     ,4/30/13,6/24/63,Expired,181205,PACIFIC GAS AND ELECTRIC CO      (C,SOUTH YUBA RIVER                   ,CA
+2266,YUBA-BEAR                          ,4/30/13,6/24/63,Expired,79920,NEVADA IRRIGATION DISTRICT     (CA),SOUTH YUBA RIVER                   ,CA
+2312,GREAT WORKS                        ,3/31/02,12/9/63,Expired,7655,PENOBSCOT RIVER RESTORATION TRUST  ,PENOBSCOT RIVER                    ,ME
+2299,NEW DON PEDRO                      ,4/30/16,3/10/64,Active,168015,TURLOCK IRRIGATION DISTRICT    (CA),TUOLUMNE R                         ,CA
+2179,MERCED RIVER                       ,2/28/14,4/8/64,Expired,89100,MERCED IRRIGATION DISTRICT     (CA),MERCED RIVER                       ,CA
+2464,WEED DAM                           ,6/30/15,7/13/65,Expired,620,GRESHAM VILLAGE OF             (WI),RED RIVER                          ,WI
+2203,HOLT LOCK AND DAM                  ,8/31/15,10/7/65,Expired,46944,ALABAMA POWER CO               (AL),BLACK WARRIOR RIVER                ,AL
+2503,KEOWEE -TOXAWAY (PS&CON)           ,8/31/16,9/26/66,Active,867600,"DUKE ENERGY CAROLINAS, LLC.        ",LITTLE RIVER                       ,SC
+2485,NORTHFIELD MOUNTAIN PUMPED STORAGE ,4/30/18,5/14/68,Active,1119200,FIRSTLIGHT HYDRO GENERATING CO.    ,CONNECTICUT RIVER                  ,MA
+2684,ARPIN                              ,4/30/19,6/3/69,Active,1450,FLAMBEAU HYDRO LLC.                ,CHIPPEWA EAST FORK                 ,WI
+2685,BLENHEIM GILBOA PUMPED STORAGE     ,4/30/19,6/6/69,Active,1160000,NEW YORK POWER AUTHORITY           ,SCH0HARIE CREEK                    ,NY
+2467,MERCED FALLS                       ,2/28/14,7/28/69,Expired,3440,PACIFIC GAS AND ELECTRIC CO      (C,MERCED RIVER                       ,CA
+2680,LUDINGTON PUMPED STORAGE           ,6/30/19,7/30/69,Active,1657500,CONSUMERS ENERGY CO           (MI) ,LAKE MICHIGAN                      ,MI
+2413,WALLACE  (PS&CON)                  ,5/31/20,8/6/69,Active,324000,GEORGIA POWER CO               (GA),OCONEE                             ,GA
+2669,BEAR SWAMP (PS&CON)                ,3/31/20,4/28/70,Active,677250,"BEAR SWAMP POWER COMPANY, LLC      ",DEERFIELD RIVER                    ,MA
+2639,CORNELL                            ,11/30/23,12/26/73,Active,30750,NORTHERN STATES POWER CO       (WI),CHIPPEWA RIVER                     ,WI
+2628,R L HARRIS                         ,11/30/23,12/27/73,Active,135000,ALABAMA POWER CO               (AL),TALLAPOOSA RIVER                   ,AL
+2570,RACINE                             ,11/30/23,12/27/73,Active,47500,"AEP GENERATION RESOURCES, INC.     ",OHIO RIVER                         ,WV
+1894,PARR SHOALS ((PS&CON)              ,6/30/20,8/28/74,Active,526080,SOUTH CAROLINA ELECTRIC&GAS CO (SC),BROAD RIVER                        ,SC
+619,BUCKS CREEK                        ,12/31/18,12/19/74,Active,84800,PACIFIC GAS AND ELECTRIC CO      (C,NOTTH FORK FEATHER RIVER           ,CA
+2736,AMERICAN FALLS                     ,2/28/25,3/31/75,Active,92400,IDAHO POWER CO                 (ID),SNAKE RIVER                        ,ID
+2614,GREENUP                            ,2/28/26,3/29/76,Active,70560,HAMILTON CITY OF               (OH),OHIO RIVER                         ,OH
+2735,HELMS PUMPED STORAGE               ,4/30/26,5/18/76,Active,1053000,PACIFIC GAS AND ELECTRIC CO      (C,NORTH FORK KINGS RIVER             ,CA
+1121,BATTLE CREEK                       ,7/31/26,8/13/76,Active,36100,PACIFIC GAS AND ELECTRIC CO      (C,SOUTH FORK BATTLE CREEK            ,CA
+2716,BATH COUNTY PUMPED STORAGE         ,12/31/26,1/10/77,Active,2484000,ALLEGHENY GENERATING CO        (VA),LITTLE BACK CREEK                  ,VA
+2725,ROCKY MOUNTAIN PUMPED STORAGE      ,12/31/26,1/21/77,Active,904000,GEORGIA POWER CO               (GA),OOSTANAULA                         ,GA
+2740,BAD CREEK PUMPED STORAGE           ,7/31/27,8/1/77,Active,1065000,"DUKE ENERGY CAROLINAS, LLC.        ",WHITEWATER RIVER                   ,SC
+120,BIG CREEK NO 3                     ,2/28/09,9/7/77,Expired,165375,SOUTHERN CALIFORNIA EDISON CO  (CA),SAN JOAQUIN RIVER                  ,CA
+2615,BRASSUA                            ,3/31/12,9/16/77,Expired,4180,BRASSUA HYDROELECTRIC LTD PART (ME),MOOSE RIVER                        ,ME
+2426,SOUTH SWP HYDROPOWER (PS&CON)      ,1/31/22,3/22/78,Active,1679100,CALIFORNIA DEPT-WTR RESOURCES  (CA),CALIFORNIA AQUEDUCT                ,CA
+2596,STATION 160                        ,12/31/93,4/13/78,Expired,340,ROCHESTER GAS & ELECTRIC CORP  (NY),GENESEE RIVER                      ,NY
+2742,SOLOMON GULCH                      ,5/31/28,6/21/78,Active,12000,COPPER VALLEY ELECTRIC ASSN.       ,SOLOMON GULCH                      ,AK
+2829,LOVELAND                           ,3/8/16,6/30/78,Active,900,LOVELAND CITY OF               (CO),BIG THOMPSON RIVER                 ,CO
+67,"BIG CR NOS 2A,8 & EASTWOOD (PS&CON)",2/28/09,8/9/78,Expired,373320,SOUTHERN CALIFORNIA EDISON CO  (CA),SOUTH FORK SAN JOAQUIN RIVER       ,CA
+2781,NEW MELONES T.L.                   ,8/31/28,9/18/78,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+2800,LAWRENCE                           ,11/30/28,12/4/78,Active,16800,"ESSEX COMPANY, LLC                 ",MERRIMACK RIVER                    ,MA
+2842,IDAHO FALLS                        ,1/31/29,2/8/79,Active,27000,IDAHO FALLS CITY OF            (ID),SNAKE RIVER                        ,ID
+2284,BRUNSWICK                          ,2/28/29,2/9/79,Active,19000,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",ANDROSCOGGIN RIVER                 ,ME
+2808,BARKER'S MILL                      ,1/31/19,2/23/79,Active,1500,KEI (MAINE) POWER MGMT (III) LLC   ,LITTLE ANDROSCOGGIN RIVER          ,ME
+2788,COLLIERSVILLE                      ,2/28/19,3/13/79,Active,1450,"GOODYEAR LAKE HYDRO, LLC           ",NORTH BRANCH SUSQUEHANNA RIVER     ,NY
+2821,PORTLAND NO 1 & 2                  ,2/28/29,3/22/79,Active,35625,CITY OF PORTLAND WATER BUREAU      ,BULL RUN RIVER                     ,OR
+2818,GREEN LAKE                         ,3/31/29,4/5/79,Active,18540,SITKA CITY OF & BOROUGH OF     (AK),VODOPAD R                          ,AK
+199,SANTEE-COOPER                      ,3/31/06,5/9/79,Expired,134520,SOUTH CAROLINA PUB SERV AUTH   (SC),SANTEE RIVER                       ,SC
+2809,AMERICAN TISSUE                    ,4/30/19,5/9/79,Active,1000,KEI (MAINE) POWER MGMT (III) LLC   ,COBBOSSEECONTEE STREAM             ,ME
+1904,VERNON                             ,4/30/19,6/25/79,Active,32400,TRANSCANADA HYDRO NORTHEAST INC.   ,CONNECTICUT RIVER                  ,VT
+2839,GREAT FALLS                        ,5/31/19,6/29/79,Active,2050,LYNDONVILLE VILLAGE OF         (VT),PASSUMPSIC RIVER                   ,VT
+1855,BELLOWS FALLS                      ,4/30/19,8/3/79,Active,40800,TRANSCANADA HYDRO NORTHEAST INC.   ,CONNECTICUT RIVER                  ,VT
+2741,PINE FLAT                          ,8/31/29,9/25/79,Active,165000,KINGS RIVER CONSERVATION DIST  (CA),KINGS RIVER                        ,CA
+2823,LOWER BEAVER FALLS                 ,9/30/19,10/18/79,Active,1000,"ALGONQUIN POWER, LLC.              ",BEAVER RIVER                       ,NY
+96,KERCKHOFF                          ,11/30/22,11/8/79,Active,162720,PACIFIC GAS AND ELECTRIC CO      (C,SAN JOAQUIN R                      ,CA
+1892,WILDER                             ,4/30/19,12/10/79,Active,35600,TRANSCANADA HYDRO NORTHEAST INC.   ,CONNECTICUT RIVER                  ,VT
+1869,THOMPSON FALLS                     ,12/31/25,12/28/79,Active,92600,NORTHWESTERN CORPORATION           ,CLARK FORK                         ,MT
+2894,BLACK BROOK DAM                    ,12/31/20,1/22/80,Active,650,FLAMBEAU HYDRO LLC.                ,APPLE RIVER                        ,WI
+606,KILARC - COW CREEK                 ,3/27/07,2/8/80,Expired,4440,PACIFIC GAS AND ELECTRIC CO      (C,SOUTH COW CREEK                    ,CA
+2876,PINE FLAT T.L.                     ,8/31/29,3/24/80,Active,0,CALIFORNIA DEPT-WTR RESOURCES  (CA),,CA
+2804,GOOSE RIVER                        ,2/29/20,3/24/80,Active,375,GOOSE RIVER HYDRO INC          (ME),GOOSE RIVER                        ,ME
+2926,RUSSEL D SMITH PEC 22.7            ,2/28/30,3/27/80,Active,6100,EAST COLUMBIA BASIN IRR DIST   (WA),POTHOLES EAST CANAL                ,WA
+2837,GRANBY                             ,3/31/20,4/7/80,Active,10080,"ERIE BOULEVARD HYDROPOWER, L.P.    ",OSWEGO RIVER                       ,NY
+175,BALCH                              ,4/30/26,4/18/80,Active,130500,PACIFIC GAS AND ELECTRIC CO      (C,NORTH FORK KINGS RIVER             ,CA
+1889,TURNERS FALLS                      ,4/30/18,5/5/80,Active,67709,FIRSTLIGHT HYDRO GENERATING CO.    ,CONNECTICUT RIVER                  ,VT
+2987,CORNWELL                           ,4/30/30,5/7/80,Active,12,CORNWELL HOWARD W & VERNA J        ,MERRILL CREEK                      ,CA
+2883,FRIES                              ,5/31/20,6/10/80,Active,5213,"AQUENERGY SYSTEMS, LLC             ",NEW RIVER                          ,VA
+2832,LUCKY PEAK                         ,5/31/30,6/10/80,Active,101250,BIG BEND IRRIGATION DISTRICT   (OR),BOISE RIVER                        ,ID
+803,DESABLA-CENTERVILLE                ,10/11/09,6/12/80,Expired,26650,PACIFIC GAS AND ELECTRIC CO      (C,WEST BRANCH FEATHER RIVER          ,CA
+2911,SWAN LAKE                          ,6/30/30,7/17/80,Active,22000,SOUTHEAST ALASKA POWER AGENCY      ,FALLS CREEK                        ,AK
+3017,JETTY LAKE                         ,6/30/30,7/17/80,Active,249,ARMSTRONG KETA INC             (AK),JETTY LAKE                         ,AK
+1881,HOLTWOOD                           ,8/31/30,8/14/80,Active,195500,"HOLTWOOD,LLC                       ",SUSQUEHANNA RIVER                  ,PA
+405,CONOWINGO                          ,9/1/14,8/14/80,Expired,574540,EXELON GENERATING COMPANY LLC.     ,SUSQUEHANNA RIVER                  ,PA
+1025,SAFE HARBOR                        ,4/22/30,8/14/80,Active,380390,SAFE HARBOR WATER POWER CORP   (PA),SUSQUEHANNA R                      ,PA
+2960,GONZALES                           ,7/31/20,8/25/80,Active,1140,GONZALES CITY OF               (TX),GUADALUPE RIVER                    ,TX
+2721,HOWLAND                            ,9/30/00,9/12/80,Expired,1875,PENOBSCOT RIVER RESTORATION TRUST  ,PISCATAQUIS RIVER                  ,ME
+3023,TUPPERWARE                         ,9/30/20,10/24/80,Active,2000,BLACKSTONE HYDRO INC           (MD),BLACKSTONE RIVER                   ,RI
+2972,WOONSOCKET FALLS                   ,10/31/20,11/6/80,Active,1100,WOONSOCKET CITY OF             (RI),BLACKSTONE RIVER                   ,RI
+2322,SHAWMUT                            ,1/31/21,1/5/81,Active,8740,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",KENNEBEC RIVER                     ,ME
+2780,MONTICELLO                         ,12/31/30,1/29/81,Active,11500,SOLANO IRRIGATION DISTRICT     (CA),PUTAH CREEK                        ,CA
+2848,CASCADE                            ,1/31/31,2/17/81,Active,12420,IDAHO POWER CO                 (ID),PAYETTE RIVER  NORTH FORK          ,ID
+2916,LOWER MOKELUMNE RIVER              ,3/31/31,3/10/81,Active,33048,EAST BAY MUNICIPAL UTIL DIST   (CA),MOKELUMNE R                        ,CA
+2814,GREAT FALLS                        ,2/28/21,3/11/81,Active,10950,GREAT FALLS HYDROELECTRIC CO   (MN),PASSAIC RIVER                      ,NJ
+2934,UPPER MECHANICVILLE                ,3/31/21,4/23/81,Active,18500,NEW YORK STATE ELEC & GAS CORP (NY),HUDSON RIVER                       ,NY
+2985,WILLOW MILL                        ,4/30/11,5/1/81,Expired,100,"ONYX SPECIALTY PAPERS, INC.        ",HOUSATONIC RIVER                   ,MA
+3074,UPRIVER                            ,5/31/31,6/4/81,Active,17700,SPOKANE CITY OF                (WA),SPOKANE RIVER                      ,WA
+3273,CHITTENDEN FALLS                   ,5/31/21,6/29/81,Active,845,CHITTENDEN FALLS DAM CORP      (NY),KINDERHOOK CR                      ,NY
+3104,LUCKY PEAK T. L.                   ,5/31/30,6/30/81,Active,0,IDAHO POWER CO                 (ID),BOISE RIVER                        ,ID
+2997,CAMP FAR WEST                      ,6/30/21,7/2/81,Active,6800,SOUTH SUTTER WATER DISTRICT    (CA),BEAR RIVER                         ,CA
+3452,OAK ORCHARD                        ,6/30/21,7/15/81,Active,350,"ERIE BOULEVARD HYDROPOWER, L.P.    ",OAK ORCHARD CREEK                  ,NY
+3251,CORNELL UNIVERSITY                 ,6/30/21,7/28/81,Active,1718,CORNELL UNIVERSITY             (NY),FALL CREEK                         ,NY
+2880,CHEROKEE FALLS                     ,7/31/21,8/3/81,Active,4140,"CHEROKEE FALLS HYDRO PROJECT, LLC  ",BROAD RIVER                        ,SC
+3015,TYEE LAKE                          ,7/31/31,8/5/81,Active,20000,SOUTHEAST ALASKA POWER AGENCY      ,TYEE CREEK                         ,AK
+3102,HIGH SHOALS                        ,8/30/21,8/7/81,Active,1027,BRACEWELL GAYNOR L                 ,APALACHEE RIVER                    ,GA
+3295,SUMMER FALLS                       ,7/31/31,8/14/81,Active,92000,EAST COLUMBIA BASIN IRR DIST   (WA),MAIN CANAL                         ,WA
+3063,CENTRAL FALLS                      ,7/31/21,8/28/81,Active,818,BRUNER/COTT INC       (MA)         ,CENTRAL FALLS                      ,RI
+2629,MORRISVILLE                        ,4/30/15,8/28/81,Expired,5100,MORRISVILLE VILLAGE OF         (VT),LAMOILLE RIVER                     ,VT
+3777,ROLLINSFORD                        ,8/31/21,9/18/81,Active,1500,ROLLINSFORD TOWN OF            (NH),SALMON FALLS RIVER                 ,NH
+3820,SOMERSWORTH                        ,8/31/21,9/29/81,Active,2220,"ACLARA METERS, LLC                 ",SALMON FALLS RIVER                 ,NH
+4025,SHINGLE CREEK                      ,8/31/31,9/30/81,Active,224,DEVENY WILLIS & BETTY              ,"SHINGLE CREEK,NORTH & SOUTH FORK   ",ID
+2861,PONTOOK                            ,9/30/31,10/2/81,Active,9600,N H DEPT-ENIR SERV-WTR RES DIV (NH),ANDROSCOGGIN RIVER                 ,NH
+2743,TERROR LAKE                        ,10/31/31,10/5/81,Active,36000,KODIAK ELECTRIC ASSN INC       (AK),TERROR RIVER                       ,AK
+3031,GARLAND CANAL                      ,9/30/31,10/9/81,Active,2610,SHOSHONE IRRIGATION DISTRICT   (WY),SHOSHONE RIVER                     ,WY
+3107,NEWFOUND                           ,10/31/31,11/6/81,Active,1500,"KTZ HYDRO, LLC                     ",NEWFOUND RIVER                     ,NH
+2849,MAIN CANAL HEADWORKS               ,11/30/31,11/16/81,Active,26000,EAST COLUMBIA BASIN IRR DIST   (WA),MAIN CANAL                         ,WA
+2816,NORTH HARTLAND                     ,11/30/21,11/24/81,Active,4137,"NORTH HARTLAND,LLC                 ",OTTAUQUECHEE RIVER                 ,VT
+3843,POTHOLES EAST CANAL                ,12/31/31,12/9/81,Active,2400,EAST COLUMBIA BASIN IRR DIST   (WA),POTHOLES EAST CANAL                ,WA
+3842,ELTOPIA BRANCH CANAL               ,12/31/31,12/9/81,Active,2200,EAST COLUMBIA BASIN IRR DIST   (WA),ELTOPIA BRANCH CANAL               ,WA
+2854,SIDNEY A. MURRAY (OLD RIVER)       ,12/31/31,1/27/82,Active,192000,CATALYST OLD RIVER H/E L P     (NY),OLD RIVER                          ,LA
+2879,BOLTON FALLS                       ,1/31/22,2/5/82,Active,7550,GREEN MOUNTAIN POWER CORP      (VT),WINOOSKI RIVER                     ,VT
+2409,NORTH FORK STANISLAUS RIVER        ,1/31/32,2/8/82,Active,258726,CALAVERAS COUNTY WATER DIST    (CA),N FORK STANISLAUS R                ,CA
+3409,BOYNE RIVER DAM                    ,1/31/22,2/22/82,Active,250,BOYNE USA INC                  (MI),BOYNE RIVER                        ,MI
+2955,NORMANSKILL                        ,2/28/22,3/5/82,Active,1250,WATERVLIET CITY OF             (NY),NORMANS KILL                       ,NY
+2841,LAKE MENDOCINO                     ,3/31/32,4/1/82,Active,3500,UKIAH CITY OF                  (CA),EAST FORK RUSSIAN RIVER            ,CA
+5362,LOWER MOUSAM                       ,3/31/22,4/16/82,Active,600,KENNEBUNK LIGHT & POWER DIST   (ME),MOUSAM RIVER                       ,ME
+3267,BALLARD MILL                       ,3/31/22,4/19/82,Active,405,"CHASM HYDRO, INC                   ",SALMON RIVER                       ,NY
+4451,LOWER GREAT FALLS                  ,4/30/22,4/22/82,Active,1280,SOMERSWORTH CITY OF            (NH),SALMON FALLS RIVER                 ,NH
+2966,CLEMENT DAM                        ,4/30/32,5/17/82,Active,2600,"CLEMENT DAM HYDROELECTRIC,LLC      ",WINNIPESAUKE RIVER                 ,NH
+3472,WYRE-WYND                          ,4/30/22,5/19/82,Active,2780,SUMMIT HYDROPOWER              (CT),QUINEBAUG R                        ,CT
+3511,GROVEVILLE                         ,5/31/22,6/4/82,Active,927,"LOWER SARANAC HYDRO, LLC           ",HUDSON RIVER                       ,NY
+5536,PARDEE TAP NO 2 & CAMANCHE TAP T. L,3/31/31,6/8/82,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+2958,MADERA CANAL                       ,5/31/32,6/8/82,Active,3645,MADERA-CHOWCHILLA POWER AUTH   (CA),USBR MADERA CANAL                  ,CA
+4428,WALDEN                             ,5/31/22,6/15/82,Active,2824,"WALDEN HYDRO, LLC                  ",WALLKILL RIVER                     ,NY
+3207,CONEMAUGH                          ,5/31/32,6/16/82,Active,15000,PENNSYLVANIA RENEWABLE RESOUR  (NY),CONEMAUGH RIVER                    ,PA
+2891,JACKSON BLUFF                      ,6/30/22,7/14/82,Active,10900,TALLAHASSEE CITY OF            (FL),OCHLOCKONEE RIVER                  ,FL
+5702,BARNET                             ,7/31/32,8/6/82,Active,530,"BARNET HYDRO COMPANY, LLC          ",STEVENS RIVER                      ,VT
+3211,HINCKLEY(GREGORY B. JARVIS)        ,7/31/22,8/12/82,Active,9000,NEW YORK POWER AUTHORITY           ,WEST CANADA CREEK                  ,NY
+2937,QUINCY CHUTE                       ,7/31/32,8/20/82,Active,9367,EAST COLUMBIA BASIN IRR DIST   (WA),WEST CANAL                         ,WA
+5828,MONTICELLO POWERHOUSE T. L.        ,12/31/31,8/24/82,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+3193,STONY GORGE                        ,7/31/32,8/31/82,Active,4900,SANTA CLARA CITY OF            (CA),STONY CREEK                        ,CA
+4784,PEJEPSCOT                          ,8/31/22,9/16/82,Active,13880,TOPSHAM HYDRO PARTNERS LTD PT  (MN),ANDROSCOGGIN RIVER                 ,ME
+2840,POTHOLES EAST CANAL HEADWORKS      ,9/30/32,9/21/82,Active,6200,EAST COLUMBIA BASIN IRR DIST   (WA),POTHOLES EAST CANAL                ,WA
+2892,FRIANT                             ,8/31/32,9/30/82,Active,27360,FRIANT POWER AUTHORITY         (CA),SAN JOAQUIN RIVER                  ,CA
+5891,OPAL SPRINGS                       ,10/31/32,11/2/82,Active,4300,DESCHUTES VALLEY WATER DIST    (OR),CROOKED RIVER                      ,OR
+3253,CAMPTON                            ,10/31/22,11/9/82,Active,639,MAD RIVER POWER ASSOCIATES (NH)    ,MAD RIVER                          ,NH
+2769,RAYSTOWN                           ,10/31/32,11/10/82,Active,20300,ALLEGHENY ELECTRIC COOP INC    (PA),RAYSTOWN LAKE DAM AND RESERVOIR    ,PA
+3342,PENACOOK LOWER FALLS               ,10/31/22,11/17/82,Active,4110,BRIAR-HYDRO ASSOCIATES         (MA),CONTOOCOOK RIVER                   ,NH
+3819,SUGARLOAF                          ,10/31/32,11/18/82,Active,3830,STS HYDROPOWER LTD             (IL),MT. ELBERT CONDUIT (SUGARLOAF)     ,CO
+2903,NEW HOGAN                          ,10/31/32,11/22/82,Active,2650,CALAVERAS COUNTY WATER DIST    (CA),NEW HOGAN DAM                      ,CA
+5124,NORTH BRANCH NO 3                  ,10/31/22,11/23/82,Active,933,WASHINGTON ELECTRIC COOP INC   (VT),WINOOSKI RIVER                     ,VT
+5944,MORETOWN NO 8                      ,11/30/22,12/7/82,Active,1250,"AMPERSAND MORETOWN HYDRO, LLC.     ",MAD RIVER                          ,VT
+4718,COCHECO FALLS DAM                  ,12/31/22,12/8/82,Active,714,COCHECO FALLS ASSOCIATES (NH)      ,COCHECO RIVER                      ,NH
+2530,HIRAM                              ,11/30/22,12/22/82,Active,10500,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",SACO RIVER                         ,ME
+1256,LOUP RIVER                         ,4/15/14,12/29/82,Expired,47700,LOUP RIVER PUBLIC POWER DIST   (NE),LOUP RIVER                         ,NE
+6120,CAMP CREEK                         ,11/30/32,12/29/82,Active,990,LASSEN STATION HYDROELEC L P   (WA),CAMP CREEK                         ,CA
+4796,GLEN PARK                          ,11/30/32,12/29/82,Active,32650,"NORTHBROOK NEW YORK, LLC.          ",BLACK RIVER                        ,NY
+3309,NASH MILL DAM                      ,11/30/22,12/30/82,Active,225,"MARLOW HYDRO, LLC.                 ",ASHUELOT RIVER                     ,NH
+5313,DEWEY'S MILLS                      ,12/31/32,1/20/83,Active,2900,HYDRO ENERGIES CORP            (VT),OTTAUQUECHEE RIVER                 ,VT
+3131,BROCKWAYS MILLS                    ,12/31/32,1/20/83,Active,803,"AMPERSAND BROCKWAY MILLS HYDRO, LLC",WILLIAMS RIVER                     ,VT
+3011,ARCTIC                             ,12/31/22,1/25/83,Active,478,NATCO PRODUCTS CORP            (RI),PAWTUXET RIVER                     ,RI
+4334,PHILADELPHIA                       ,1/31/23,2/17/83,Active,3645,FORTISUS ENERGY CORP               ,INDIAN RIVER                       ,NY
+2888,WHISKEYTOWN                        ,2/28/33,3/10/83,Active,3530,REDDING CITY OF                (CA),CLEAR CREEK                        ,CA
+2701,WEST CANADA CREEK                  ,2/28/23,3/18/83,Active,39750,"ERIE BOULEVARD HYDROPOWER, L.P.    ",WEST CANADA CREEK                  ,NY
+3255,LYONSDALE                          ,2/28/23,3/22/83,Active,3000,"LYONSDALE ASSOCIATES, LLC          ",MOOSE RIVER                        ,NY
+5728,SANDY HOLLOW                       ,2/28/23,3/22/83,Active,825,SANDY HOLLOW POWER CO INC      (NY),INDIAN R                           ,NY
+2790,LOWELL                             ,4/30/23,4/13/83,Active,24823,BOOTT HYDROPOWER LLC               ,MERRIMACK RIVER                    ,MA
+3189,ROCK CREEK                         ,3/31/33,4/29/83,Active,3544,"ROCK CREEK HYDRO, LLC.             ",SOUTH FORK AMERICAN RIVER          ,CA
+3190,BLACK BUTTE                        ,4/30/33,5/5/83,Active,6200,SANTA CLARA CITY OF            (CA),STONY CREEK                        ,CA
+344,SAN GORGONIO                       ,4/26/03,5/18/83,Expired,2250,SOUTHERN CALIFORNIA EDISON CO  (CA),SAN GORGONIO RIVER                 ,CA
+5596,BEDFORD                            ,4/30/23,5/20/83,Active,5772,BEDFORD CITY OF                (VA),JAMES RIVER                        ,VA
+4306,MISSISSIPPI LOCK & DAM NO 2        ,6/30/33,7/11/83,Active,4400,HASTINGS CITY OF               (MN),MISSISSIPPI RIVER                  ,MN
+2905,ENOSBURG FALLS                     ,4/30/23,7/12/83,Active,975,ENOSBURG FALLS VILLAGE OF      (VT),MISSISQUOI RIVER                   ,VT
+3044,LOCK & DAM NO 9                    ,6/30/33,7/20/83,Active,32400,ARKANSAS ELECTRIC COOP CORP    (AR),ARKANSAS  RIVER                    ,AR
+3442,MINE FALLS                         ,7/31/23,8/4/83,Active,3000,MINE FALLS LTD PARTNERSHIP     (ME),NASHUA RIVER                       ,NH
+3033,DAM NO 2                           ,7/31/33,8/10/83,Active,102600,ARKANSAS ELECTRIC COOP CORP    (AR),ARKANSAS RIVER                     ,AR
+3449,MURRAY LOCK & DAM                  ,7/31/33,8/17/83,Active,39000,NORTH LITTLE ROCK CITY OF      (AR),ARKANSAS RIVER                     ,AR
+3038,SUCCESS                            ,7/31/33,8/22/83,Active,1400,LOWER TULE RIVER IRR DISTRICT  (CA),TULE RIVER                         ,CA
+3562,BARKER MILL UPPER                  ,7/31/23,8/22/83,Active,950,KEI (MAINE) POWER MGMT (III) LLC   ,LITTLE ANDROSCOGGIN RIVER          ,ME
+3133,ERROL                              ,7/31/23,8/29/83,Active,2031,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",UMBAGOG LAKE                       ,NH
+6470,WINOOSKI 8                         ,7/31/23,8/29/83,Active,810,WINOOSKI HYDROELECTRIC CO (VT)     ,WINOOSKI RIVER                     ,VT
+5261,NEWBURY                            ,8/31/23,9/8/83,Active,340,"NEWBURY HYDRO COMPANY, LLC         ",WELLS RIVER                        ,VT
+6240,WATSON DAM                         ,8/31/23,9/8/83,Active,265,WATSON ASSOCIATES              (NH),COCHECO RIVER                      ,NH
+6440,LAKEPORT                           ,8/31/23,9/8/83,Active,705,"LAKEPORT HYDROELECTRIC ONE, LLC    ",WINNIPESAUKEE RIVER                ,NH
+5765,MADERA CANAL                       ,8/31/33,9/8/83,Active,440,MADERA-CHOWCHILLA POWER AUTH   (CA),USBR MADERA IRRIGATION CANAL       ,CA
+3603,RUEDI                              ,8/31/33,9/8/83,Active,5052,CITY OF ASPEN       (CO)           ,RUEDI DAM                          ,CO
+2975,SAND BAR                           ,8/31/33,9/8/83,Active,16200,TRI-DAM POWER AUTHORITY        (CA),STANISLAUS R MIDDLE FORK           ,CA
+5089,FELT                               ,8/31/23,9/9/83,Active,7450,FALL RIVER RURAL ELEC COOP INC (ID),TETON RIVER                        ,ID
+3509,LITTLE FALLS                       ,8/31/23,9/19/83,Active,13600,LITTLE FALLS HYDROELEC ASSOC   (NY),NY STATE BARGE CANAL               ,NY
+4129,RIO BRAVO                          ,8/31/33,9/20/83,Active,14000,OLCESE WATER DISTRICT          (CA),KERN RIVER                         ,CA
+6115,PYRITES                            ,8/31/23,9/23/83,Active,8200,"PYRITES HYDRO, LLC                 ",GRASS RIVER                        ,NY
+77,POTTER VALLEY                      ,4/14/22,10/4/83,Active,9959,PACIFIC GAS AND ELECTRIC CO      (C,EEL RIVER                          ,CA
+3174,VALLECITO                          ,9/30/33,10/5/83,Active,5844,PTARMIGAN RESOURCES&ENERGY INC (CO),LOS PINOS RIVER                    ,CO
+5867,ALICE FALLS                        ,9/30/23,10/5/83,Active,1942,"ALICE FALLS HYDRO, LLC             ",AUSABLE RIVER                      ,NY
+3043,LOCK AND DAM NUMBER 13             ,9/30/33,10/18/83,Active,33200,ARKANSAS ELECTRIC COOP CORP    (AR),ARKANSAS RIVER                     ,AR
+4639,CHRISTINE FALLS                    ,9/30/23,10/18/83,Active,850,AMPERSAND CHRISTINE FALLS HYDRO LLC,SACANDAGA RIVER                    ,NY
+6951,TALLASSEE SHOALS                   ,9/30/23,10/24/83,Active,1900,FALL LINE HYDRO COMPANY INC.   (GA),MIDDLE OCONEE RIVER                ,GA
+4202,LOWELL TANNERY                     ,9/30/23,10/31/83,Active,1000,KEI (MAINE) POWER MGMT (II) LLC    ,PASSADUMKEAG R                     ,ME
+2952,GEM STATE                          ,11/30/33,12/12/83,Active,22600,IDAHO FALLS CITY OF            (ID),SNAKE RIVER                        ,ID
+4881,BARBER DAM                         ,11/30/23,12/23/83,Active,3700,ADA COUNTY                     (ID),SNAKE RIVER                        ,ID
+6916,STRONTIA SPRINGS                   ,12/31/23,1/13/84,Active,1087,DENVER CITY & COUNTY OF        (CO),SOUTH PLATTE RIVER                 ,CO
+5073,BENTON FALLS                       ,2/28/34,3/8/84,Active,4330,BENTON FALLS ASSOCIATES        (NY),SEBASTICOOK                        ,ME
+4597,PINE VIEW                          ,2/28/34,3/16/84,Active,1800,BOUNTIFUL CITY CITY OF         (UT),OGDEN RIVER                        ,UT
+4117,COLEBROOK                          ,2/28/34,3/27/84,Active,3000,METROPOLITAN DIST OF HARTFORD  (CT),WEST BRANCH FARMINGTON RIVER       ,CT
+3940,LEWISVILLE DAM                     ,2/28/34,3/27/84,Active,2700,"CITY OF GARLAND, TX                ",ELM FORK OF THE TRINITY RIVER      ,TX
+2959,TOLT RIVER - SOUTH FORK            ,7/19/29,3/29/84,Active,16700,SEATTLE CITY OF                (WA),SOUTH FORK TOLT RIVER              ,WA
+7189,GREEN LAKE                         ,3/31/24,4/5/84,Active,500,GREEN LAKE WATER POWER CO      (ME),REEDS BROOK                        ,ME
+2853,BROADWATER                         ,7/1/24,4/23/84,Active,9660,MONTANA DEPT-NATURAL RESOURCES (MT),MISSOURI RIVER                     ,MT
+3025,KELLEY'S FALLS                     ,3/31/24,4/24/84,Active,450,"KELLEY'S FALLS, LLC                ",PISCATAQUOG RIVER                  ,NH
+4354,OWYHEE DAM                         ,4/30/34,5/9/84,Active,4930,GEM IRRIGATION DISTRICT        (ID),OWYHEE RIVER                       ,OR
+7153,VICTORY MILLS                      ,4/30/24,5/15/84,Active,1656,"CONSOLIDATED HYDRO NEW YORK, LLC   ",FISH CREEK                         ,NY
+2547,HIGHGATE FALLS                     ,4/30/24,5/24/84,Active,11510,SWANTON VILLAGE OF             (VT),MISSISQUOI R                       ,VT
+516,SALUDA                             ,8/31/10,6/1/84,Expired,207300,SOUTH CAROLINA ELECTRIC&GAS CO (SC),SALUDA RIVER                       ,SC
+3206,NEW MARTINSVILLE                   ,5/31/34,6/4/84,Active,35720,"NEW MARTINSVILLE, CITY OF (WV)     ",OHIO RIVER                         ,WV
+2600,WEST ENFIELD                       ,5/31/24,6/26/84,Active,13000,BANGOR-PACIFIC HYDRO ASSOCIATE (ME),PENOBSCOT RIVER                    ,ME
+4679,VISCHER FERRY                      ,5/31/24,6/26/84,Active,11800,NEW YORK POWER AUTHORITY           ,MOHAWK RIVER                       ,NY
+4678,CRESCENT                           ,5/31/24,6/26/84,Active,11800,NEW YORK POWER AUTHORITY           ,MOHAWK RIVER                       ,NY
+7161,GALESVILLE                         ,5/31/34,6/29/84,Active,1660,DOUGLAS COUNTY                 (OR),COW CREEK                          ,OR
+7337,COWICHE                            ,6/30/34,7/6/84,Active,1470,YAKIMA-TIETON IRRIGATION DIST  (WA),USBR IRRIGATION SYSTEM             ,WA
+7338,ORCHARD AVENUE                     ,6/30/34,7/6/84,Active,1441,YAKIMA-TIETON IRRIGATION DIST  (WA),USBR IRRIGATION SYSTEM             ,WA
+7252,HIGH LINE CANAL                    ,6/30/34,7/17/84,Active,530,SANTA CLARA CITY OF            (CA),HIGH LINE CANAL                    ,CA
+3494,ALLEGHENY LOCK & DAM NO 6          ,6/30/34,7/19/84,Active,8560,"ALL DAMS GENERATION, LLC           ",ALLEGHENY RIVER                    ,PA
+2491,JIM FALLS                          ,9/30/33,7/24/84,Active,49200,NORTHERN STATES POWER CO       (WI),CHIPPEWA RIVER                     ,WI
+4472,SARANAC                            ,6/30/24,7/27/84,Active,4865,"ERIE BOULEVARD HYDROPOWER, L.P.    ",SARANAC RIVER                      ,NY
+7009,FRIANT T. L.                       ,8/31/32,8/2/84,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+7410,PETERBOROUGH                       ,7/31/34,8/15/84,Active,623,AMERICAN HYDRO INC             (PA),NUBANUSIT BROOK                    ,NH
+3451,TOWNSEND                           ,7/31/24,8/17/84,Active,5000,BEAVER FALLS MUNICIPAL AUTH    (PA),BEAVER RIVER                       ,PA
+5679,M.S.C.                             ,7/31/24,8/30/84,Active,520,"ENERGY STREAM, LLC.                ",QUINEBAUG RIVER                    ,CT
+6398,HACKETT MILLS                      ,8/31/24,9/12/84,Active,485,HACKETT MILLS HYDRO ASSOCIATES (MD),LITTLE ANDROSCOGGIN RIVER          ,ME
+5000,KAYUTA LAKE                        ,8/31/24,9/12/84,Active,400,"AMPERSAND KAYUTA LAKE HYDRO, LLC   ",BLACK RIVER                        ,NY
+3633,BRIGHTON                           ,8/31/24,9/21/84,Active,400,"KC BRIGHTON, LLC                   ",PATUXENT RIVER                     ,MD
+4285,LOGAN NO. 2                        ,8/31/34,9/21/84,Active,7720,LOGAN CITY OF                  (UT),LOGAN RIVER                        ,UT
+7214,SPRING CREEK                       ,8/31/34,9/28/84,Active,1,SMITH LANE                         ,WHITE SALMON RIVER                 ,WA
+3671,ALLEGHENY L & D NO 5               ,9/30/34,10/15/84,Active,9500,"ALL DAMS GENERATION, LLC           ",ALLEGHENY RIVER                    ,PA
+7186,SHELDON SPRINGS                    ,9/30/24,11/2/84,Active,24965,"MISSISQUOI, LLC                    ",MISSISQUOI RIVER                   ,VT
+3083,KAW                                ,10/31/34,11/27/84,Active,31433,OKLAHOMA MUNICIPAL POWER AUTH  (OK),ARKANSAS RIVER                     ,OK
+4108,ST CLOUD                           ,11/30/24,12/5/84,Active,8860,ST CLOUD CITY OF               (MN),MISSISSIPPI RIVER                  ,MN
+3240,ROLFE CANAL                        ,11/30/24,12/5/84,Active,4283,BRIAR-HYDRO ASSOCIATES         (MA),CONTOOCOOK RIVER                   ,NH
+6689,PENACOOK UPPER FALLS               ,11/30/24,12/5/84,Active,3020,BRIAR-HYDRO ASSOCIATES         (MA),CONTOOCOOK RIVER                   ,NH
+3755,ECHO                               ,11/30/34,12/7/84,Active,4500,BOUNTIFUL CITY CITY OF         (UT),WEBER RIVER                        ,UT
+5357,MITCHELL BUTTE LATERAL             ,11/30/34,12/14/84,Active,1880,OWYHEE IRRIGATION DISTRICT     (OR),OWYHEE RESERVOIR                   ,OR
+3351,WARM SPRINGS                       ,11/30/34,12/18/84,Active,2790,SONOMA COUNTY WATER AGENCY     (CA),RUSSIAN RIVER                      ,CA
+7373,MARTINSVILLE                       ,11/30/34,12/28/84,Active,250,BOERI JOHN L 'JAY' JR              ,LULL BROOK                         ,VT
+7282,ROARING CREEK                      ,11/30/34,12/28/84,Active,2000,MEGA RENEWABLES                (CA),ROARING CREEK                      ,CA
+7961,PETTYBORO BROOK                    ,12/31/34,1/11/85,Active,58,ROBERT MCHUGH/ELLYSON CO INC   (MA),PETTYBORO BROOK                    ,NH
+2744,MENOMINEE & PARK MILL              ,2/28/15,3/11/85,Expired,4615,"N.E.W. HYDRO, LLC.                 ",MENOMINEE RIVER                    ,WI
+8315,SARTELL DAM                        ,2/28/25,3/13/85,Active,9500,"EAGLE CREEK SARTELL HYDRO, LLC     ",MISSISSIPPI RIVER                  ,MN
+3939,RAY ROBERTS DAM                    ,2/28/35,3/20/85,Active,1200,DENTON CITY OF                 (TX),ELM FORK TRINITY RIVER             ,TX
+3021,ALLEGHENY RIVER LOCKS/DAMS NOS 8&9 ,2/28/35,3/27/85,Active,30400,"ALLEGHENY HYDRO, LLC               ",ALLEGHENY RIVER                    ,PA
+4026,AZISCOHOS                          ,3/31/25,4/17/85,Active,5311,ANDROSCOGGIN RESERVOIR CO      (ME),MAGALLOWAY RIVER                   ,ME
+2593,BEAVER FALLS                       ,12/31/17,4/19/85,Active,1500,"ALGONQUIN POWER, LLC.              ",BEAVER RIVER                       ,NY
+7563,WEEKS FALLS                        ,3/31/35,4/25/85,Active,4772,SOUTH FORK II ASSOCIATES       (WA),SOUTH FORK SNOQUALMIE RIVER        ,WA
+4885,TWIN FALLS                         ,4/30/35,5/6/85,Active,24000,TWIN FALLS HYDRO ASSOCIATES LP (CT),SOUTH FORK SNOQUALMIE RIVER        ,WA
+5931,HATCHET CREEK                      ,4/30/35,5/9/85,Active,6890,MEGA RENEWABLES                (CA),HATCHET CREEK                      ,CA
+8278,CEDAR DRAW CREEK                   ,4/30/35,5/24/85,Active,2878,CRYSTAL SPRINGS HYDROELECTRIC LP   ,CEDAR DRAW CREEK                   ,ID
+8357,PONDEROSA/BAILEY                   ,5/31/35,6/14/85,Active,1100,SNOW MOUNTAIN HYDRO LLC            ,BAILEY CREEK                       ,CA
+6154,MILL AND SULPHUR CREEKS            ,5/31/35,6/28/85,Active,995,MILL & SULFUR CREEK POWER PLT  (WA),SULPHUR CREEK                      ,CA
+5,S_li_ Ksanka Qisp_                ,9/4/35,7/17/85,Active,188250,CONF SALISH & KOOTENAI TRIBES  (MT),FLATHEAD RIVER                     ,MT
+7242,KANAKA                             ,7/31/35,8/15/85,Active,1200,STS HYDROPOWER LTD             (IL),SUCKER RUN CR                      ,CA
+3623,YOUGHIOGHENY LAKE                  ,7/31/35,8/23/85,Active,12200,YOUGHIOGHENY HYDROELEC AUTH    (PA),YOUGHIOGHENY RIVER                 ,PA
+1940,TOMAHAWK                           ,4/1/18,8/26/85,Active,2600,WISCONSIN PUBLIC SERVICE CORP  (WI),WISCONSIN RIVER                    ,WI
+7274,LAKE ALGONQUIN                     ,7/31/25,8/28/85,Active,663,WELLS TOWN OF                  (NY),SACANDAGA RIVER                    ,NY
+7178,ARBUCKLE MT                        ,8/31/35,9/20/85,Active,400,"ARBUCKLE MOUNTAIN HYDRO, LLC.      ",MIDDLE FORK COTTONWOOD CREEK       ,CA
+6461,MORSE CREEK                        ,8/31/35,9/20/85,Active,500,PORT ANGELES CITY OF           (WA),MORSE CREEK                        ,WA
+7883,WESTON                             ,9/30/25,10/15/85,Active,474,POWER HOUSE SYSTEMS INC        (NH),UPPER AMMONOOSUC RIVER             ,NH
+4720,NAVAJO                             ,9/30/35,10/15/85,Active,30000,FARMINGTON CITY OF             (NM),SAN JUAN RIVER                     ,NM
+8047,WILLIMANTIC #2                     ,9/30/25,10/17/85,Active,770,WILLIMANTIC POWER CORP         (VT),WILLIMANTIC RIVER                  ,CT
+7518,HOGANSBURG                         ,9/30/15,10/25/85,Expired,485,"ERIE BOULEVARD HYDROPOWER, L.P.    ",ST. REGIS RIVER                    ,NY
+5226,EL VADO                            ,9/30/35,10/31/85,Active,8000,LOS ALAMOS COUNTY              (NM),RIO CHAMA                          ,NM
+4660,WHITE RIVER L & D NO 2             ,10/31/35,11/8/85,Active,6307,INDEPENDENCE COUNTY OF         (AR),WHITE RIVER                        ,AR
+8498,L & M ANGUS RANCH                  ,10/31/35,11/21/85,Active,860,"SHILOH WARM SPRINGS RANCH, LLC.    ",WARM SPRINGS CREEK                 ,ID
+8615,FISKE MILL                         ,11/30/25,12/4/85,Active,810,FISKE HYDRO INC                (NY),ASHUELOT RIVER                     ,NH
+8051,WILLIMANTIC #1                     ,11/30/25,12/10/85,Active,770,WILLIMANTIC POWER CORP         (VT),WILLIMANTIC RIVER                  ,CT
+7804,NORTH WILLOW CREEK                 ,11/30/35,12/13/85,Active,400,OHS GERALD & GLENDA                ,NORTH WILLOW CREEK                 ,MT
+6552,NORTH FORK SPRAGUE RIVER           ,11/30/35,12/20/85,Active,1230,"SPRAGUE HYDRO, LLC                 ",NORTH FORK SPRAGUE RIVER           ,OR
+3428,WORUMBO                            ,11/30/25,12/24/85,Active,19100,"BROWN BEAR II HDYRO, INC.          ",ANDROSCOGGIN RIVER                 ,ME
+7828,NEW LAHONTAN                       ,11/30/35,12/26/85,Active,4000,TRUCKEE-CARSON IRRIGATION DIST (NV),CARSON RIVER                       ,NV
+8660,LITTLE GOLD                        ,11/30/35,12/31/85,Active,450,BOULDER HYDRO                  (MT),LITTLE GOLD CREEK                  ,MT
+8221,BRADLEY LAKE                       ,11/30/35,12/31/85,Active,119700,ALASKA ENERGY AUTHORITY        (AK),BRADLEY RIVER                      ,AK
+8396,COLUMBIA DAM                       ,12/31/25,1/15/86,Active,530,GREAT BEAR HYDROPOWER INC      (CA),PAULINS KILL                       ,NJ
+7986,FORD                               ,12/31/35,1/17/86,Active,1497,FORD HYDRO LTD PARTNERSHIP     (ID),JIM FORD CREEK                     ,ID
+5698,CHATEAUGAY HIGH FALLS              ,12/31/25,1/22/86,Active,1706,TRITON POWER CO                (NY),HIGH FALLS DAM                     ,NY
+8936,POWER CANAL                        ,4/14/22,1/23/86,Active,400,BES HYDRO CO                   (CA),TAILRACE CANAL OF PROJECT 77       ,CA
+4659,WHITE RIVER LOCK & DAM NO. 3       ,1/31/36,2/28/86,Active,10500,INDEPENDENCE COUNTY OF         (AR),WHITE RIVER                        ,AR
+4204,WHITE RIVER LOCK & DAM NO. 1       ,1/31/36,2/28/86,Active,6029,BATESVILLE CITY OF             (AR),WHITE RIVER                        ,AR
+6904,UPPER GREENWICH                    ,1/31/26,2/28/86,Active,574,BATTEN KILL HYDRO ASSOCIATES   (MD),BATTEN KILL                        ,NY
+4359,OWYHEE TUNNEL NO. 1                ,1/31/36,2/28/86,Active,8120,GEM IRRIGATION DISTRICT        (ID),SNAKE RIVER                        ,OR
+8865,STEVENSON NO. 1                    ,6/30/24,3/18/86,Active,115,STANLEY N. STANDAL JR. & LORETTA M.,UNNAMED TRIBUTARY OF SNAKE RIVER   ,ID
+8866,STEVENSON NO. 2                    ,2/29/24,3/18/86,Active,85,"BLACK CANYON BLISS, LLC.           ",UNNAMED TRIBUTARY OF SNAKE RIVER   ,ID
+6066,DERBY                              ,2/28/26,3/25/86,Active,8500,MCCALLUM ENTERPRISES I&SHELTON (CT),HOUSATONIC RIVER                   ,CT
+8093,METHUEN FALLS                      ,2/28/26,3/27/86,Active,357,METHUEN FALLS HYDROELECTRIC CO (MA),SPICKETT RIVER                     ,MA
+4113,PHOENIX                            ,2/28/26,3/28/86,Active,3380,OSWEGO HYDRO PARTNERS L P      (NY),OSWEGO RIVER                       ,NY
+2715,COMBINED LOCKS                     ,7/29/24,3/31/86,Active,6200,KAUKAUNA CITY OF               (WI),FOX RIVER                          ,WI
+7396,ABIQUIU                            ,3/31/36,4/16/86,Active,16800,LOS ALAMOS COUNTY              (NM),RIO CHAMA                          ,NM
+9044,BIGG'S CREEK                       ,3/31/36,4/29/86,Active,15,PICKERING FREDERIC EARL        (WA),BIGG'S CREEK                       ,WA
+4349,MOOSE RIVER                        ,4/30/26,5/6/86,Active,12200,FORTISUS ENERGY CORP               ,MOOSE RIVER                        ,NY
+2548,LYONS FALLS                        ,5/31/26,5/6/86,Active,14250,"NORTHBROOK LYONS FALLS, LLC.       ",MOOSE RIVER                        ,NY
+4627,BAKER CREEK                        ,4/30/36,5/8/86,Active,1495,BAKER STATION ASSOCIATES L.P.  (WA),BAKER CREEK                        ,CA
+6903,MIDDLE GREENWICH                   ,4/30/26,5/9/86,Active,300,BATTEN KILL HYDRO ASSOCIATES   (MD),BATTON KILL                        ,NY
+7194,BIRCH                              ,4/30/36,5/21/86,Active,2650,BIRCH POWER COMPANY                ,BIRCH CREEK                        ,ID
+6972,HOLLOW DAM                         ,4/30/26,5/30/86,Active,1060,"AMPERSAND HOLLOW DAM HYDRO, LLC.   ",WEST BRANCH OSWEGATCHIE RIVER      ,NY
+8492,MCGEE CREEK DAM                    ,5/31/36,6/23/86,Active,85,MC GEE CREEK AUTHORITY         (OK),MCGEE CREEK                        ,OK
+7656,BUTTERMILK FALLS                   ,6/30/26,6/24/86,Active,79,DODSON JOHN A                  (NY),BUTTERMILK FALLS BROOK             ,NY
+2833,COWLITZ FALLS                      ,5/31/36,6/30/86,Active,70200,PUD NO 1 OF LEWIS COUNTY       (WA),COWLITZ RIVER                      ,WA
+8646,MINK CREEK                         ,5/31/36,6/30/86,Active,3075,"MINK CREEK HYDRO, LLC              ",MINK CREEK                         ,ID
+7887,MINNEWAWA                          ,6/30/26,7/14/86,Active,1000,"ASHUELOT RIVER HYDRO, INC.         ",MINNEWAWA BROOK                    ,NH
+9650,GILMAN DAM                         ,6/30/26,7/18/86,Active,125,FACTORY FALLS INC.   (VT)          ,BLACK RIVER                        ,VT
+7888,COMTU FALLS                        ,6/30/26,7/18/86,Active,460,COMTU FALLS ASSOCIATES         (VT),BLACK RIVER                        ,VT
+9648,FELLOWS DAM                        ,6/30/26,7/18/86,Active,150,"ONE HUNDRED RIVER STREET, LLC.     ",BLACK RIVER                        ,VT
+8546,PINE CREEK                         ,6/30/36,7/25/86,Active,373,ALLEN RAE CARTER                   ,PINE CREEK                         ,MT
+9649,LOVEJOY DAM                        ,6/30/26,7/29/86,Active,150,LOVEJOY TOOL CO INC            (VT),BLACK RIVER                        ,VT
+5376,HORSESHOE BEND                     ,6/30/36,7/30/86,Active,7850,HORSESHOE BEND HYDROELEC CO    (ID),PAYETTE RIVER                      ,ID
+9028,HALIFAX                            ,7/31/26,8/27/86,Active,1785,BANISTER HYDRO INC             (MD),BANISTER RIVER                     ,VA
+308,WALLOWA FALLS                      ,2/28/16,8/28/86,Active,1100,PACIFICORP                     (OR),ROYAL PURPLE CREEK                 ,OR
+7931,29 MILE CREEK                      ,7/31/36,8/28/86,Active,30,EUGENE MARK SOUZA                  ,UNNAMED TRIBUTARY OF               ,CA
+3947,TERMINUS                           ,7/31/36,8/29/86,Active,17000,KAWEAH RIVER POWER AUTHORITY   (CA),TERMINUS DAM (CORPS)               ,CA
+6015,ROCK CREEK NO. 2                   ,7/31/36,8/29/86,Active,1900,ROCK CREEK HYDROPOWER INC      (ID),SNAKE RIVER                        ,ID
+2428,PIEDMONT                           ,12/31/17,9/9/86,Active,1000,"AQUENERGY SYSTEMS, LLC             ",SALUDA RIVER                       ,SC
+9842,WARD MILL DAM                      ,8/31/16,9/9/86,Active,168,WARD RAY F                         ,WATAUGA RIVER                      ,NC
+7120,KEKAWAKA CREEK                     ,8/31/36,9/10/86,Active,4950,STS HYDROPOWER LTD             (IL),KEKAWAKA CREEK                     ,CA
+9088,LOWER VILLAGE                      ,8/31/26,9/10/86,Active,1350,LOWER VILLAGE HYDRO. ASSOC. LP (ME),SUGAR RIVER                        ,NH
+9195,TESLA                              ,8/31/36,9/17/86,Active,26850,COLORADO SPRINGS CITY OF       (CO),WEST MONUMENT CREEK                ,CO
+2302,LEWISTON FALLS                     ,8/31/26,9/29/86,Active,36354,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",ANDROSCOGGIN RIVER                 ,ME
+7352,KINGS FALLS                        ,8/31/36,9/30/86,Active,1636,"TUGHILL ENERGY, INC.               ",DEER RIVER                         ,NY
+2611,HYDRO-KENNEBEC                     ,9/30/36,10/15/86,Active,15433,HYDRO KEENEBEC LLC                 ,KENNEBEC RIVER                     ,ME
+8296,MUCK VALLEY                        ,11/30/36,12/2/86,Active,29900,JUNIPER RIDGE RANCHES INC      (CA),PIT RIVER                          ,CA
+3865,CANYON DAM                         ,11/30/36,12/4/86,Active,6070,GUADALUPE BLANCO RIVER AUTH    (TX),GUADALUPE RIVER                    ,TX
+6281,FIVE BEARS                         ,11/30/36,12/23/86,Active,935,FIVE BEARS HYDRO INC           (CA),WARD CREEK                         ,CA
+7447,PORTNEUF                           ,11/30/36,12/29/86,Active,900,COMMERCIAL ENERGY MANAGE'T INC (ID),PORTNEUF RIVER                     ,ID
+6896,FORKS OF BUTTE                     ,11/30/36,12/30/86,Active,14500,"HYPOWER, INC.                      ",BUTTE CREEK                        ,CA
+4644,DAHOWA                             ,11/30/26,12/30/86,Active,10500,STEVENS & THOMPSON PAPER CO    (NY),BATTEN KILL RIVER                  ,NY
+3407,MAGIC DAM                          ,12/31/26,1/15/87,Active,9000,MAGIC RESERVOIR HYDROELEC INC  (ID),BIG WOOD RIVER                     ,ID
+9074,WARRENSBURG                        ,12/31/26,1/30/87,Active,2900,WARRENSBURG HYDRO PWR LTD PART (NY),SCHROON RIVER                      ,NY
+9029,GRASSHOPPER FLAT                   ,2/28/37,3/11/87,Active,1100,NELSON CREEK POWER INC         (CA),NELSON CREEK-EAST AND WEST FORKS   ,CA
+5062,QUINEBAUG-FIVE MILE POND           ,2/28/27,3/19/87,Active,2181,QUINEBAUG PARTNERSHIP          (CT),QUINEBAUG RIVER                    ,CT
+8405,GLEN                               ,2/28/27,3/19/87,Active,1485,MASCOMA HYDRO                  (NJ),MASCOMA RIVER                      ,NH
+4900,FORESTPORT                         ,2/28/27,3/20/87,Active,3300,TRAFALGAR POWER INC            (NH),BLACK RIVER                        ,NY
+9202,STAGECOACH                         ,2/28/37,3/31/87,Active,800,UPPER YAMPA WATER CONSERV DIST (CO),YAMPA RIVER                        ,CO
+8361,OLSEN                              ,3/31/37,4/7/87,Active,5000,OLSEN POWER PARTNERS           (MD),SACRAMENTO RIVER                   ,CA
+8436,SMITH CREEK                        ,3/31/37,4/10/87,Active,24939,EUGENE WATER & ELECTRIC BOARD      ,SMITH CREEK                        ,ID
+3239,KOMA KULSHAN                       ,3/31/37,4/13/87,Active,12000,KOMA KULSHAN ASSOCIATES        (WA),SULPHUR CREEK                      ,WA
+9709,HERKIMER                           ,3/31/27,4/22/87,Active,1680,"ECOSPONSIBLE, LLC                  ",WEST CANADA CREEK                  ,NY
+9985,MILL POND                          ,3/31/27,4/23/87,Active,1000,RIVERS ELECTRIC COMPANY OF NY      ,CATSKILL CR                        ,NY
+9685,CRANBERRY LAKE                     ,3/31/27,4/27/87,Active,595,"AMPERSAND CRANBERRY LAKE HYDRO, LLC",OSWEGATCHIE RIVER                  ,NY
+9951,FRENCH LANDING                     ,4/30/27,5/5/87,Active,1650,STS HYDROPOWER LTD             (IL),HURON RIVER                        ,MI
+4684,STILLWATER                         ,4/30/27,5/20/87,Active,3500,"GR CATALYST ONE, LLC               ",STILLWATER AND LOCK NO. 4 DAMS     ,NY
+8909,DIETRICH DROP                      ,4/30/37,5/22/87,Active,4770,CHI-IDAHO INC.(ID)                 ,MILNER GOODING CANAL               ,ID
+5130,LOST CREEK NO 2                    ,4/30/37,5/29/87,Active,455,SNOW MOUNTAIN HYDRO LLC            ,LOST CREEK                         ,CA
+9100,RIVERDALE MILLS                    ,5/31/17,6/15/87,Active,150,KNOTT JAMES M                      ,BLACKSTONE RIVER                   ,MA
+9821,OGDENSBURG                         ,5/31/27,6/15/87,Active,3675,"AMPERSAND OGDENSBURG HYDRO, LLC    ",OSWEGATCHIE RIVER                  ,NY
+4114,LOWER SARANAC                      ,5/31/27,6/26/87,Active,9300,"LOWER SARANAC HYDRO PARTNERS, LLC  ",LOWER SARANAC RIVER                ,NY
+8914,TAYLOR DRAW                        ,6/30/37,7/6/87,Active,2000,RIO BLANCO WATER CONSERV DIST  (CO),WHITE RIVER                        ,CO
+7342,MANTI CANYON LOWER                 ,6/30/37,7/14/87,Active,1200,MANTI CITY OF                  (UT),MANTI CREEK                        ,UT
+9399,KINGS RIVER SIPHON                 ,6/30/37,7/29/87,Active,1388,ORANGE COVE IRRIGATION DIST    (CA),FRIANT-KERN CANAL                  ,CA
+2381,ASHTON                             ,12/31/27,8/3/87,Active,6850,PACIFICORP                     (OR),HENRY'S FORK SNAKE RIVER           ,ID
+14552,ST. ANTHONY                        ,12/31/27,8/3/87,Active,500,ST ANTHONY HYDRO LLC.              ,HENRY'S FORK SNAKE RIVER           ,ID
+2457,EASTMAN FALLS                      ,12/31/17,8/25/87,Active,6400,PUBLIC SERVICE CO OF NH        (NH),PEMIGEWASSET RIVER                 ,NH
+6842,WYNOOCHEE DAM                      ,8/31/37,9/9/87,Active,11100,ABERDEEN CITY OF               (WA),WYNOOCHEE R                        ,WA
+9310,PLEASANT CREEK                     ,8/31/37,9/17/87,Active,1800,MT PLEASANT CITY OF            (UT),PLEASANT CREEK                     ,UT
+9654,MICRO HYDRO                        ,8/31/37,9/25/87,Active,23,"SEE, BRENDA WIRKKALA               ",SOUTH FORK NASELLE RIVER           ,WA
+8810,SOUTH BEND T. L.                   ,8/31/37,9/29/87,Active,0,PACIFICORP                     (OR),South Bend,OR
+3571,CENTRAL OREGON SIPHON              ,8/31/37,9/29/87,Active,5500,CENTRAL OREGON IRRIGATION DIST (OR),DESCHUTES RIVER                    ,OR
+7481,NEW YORK STATE DAM                 ,9/30/37,10/13/87,Active,10830,NYSD LTD PARTNERSHIP           (NY),MOHAWK RIVER                       ,NY
+6764,SIX MILE CREEK                     ,9/30/37,10/16/87,Active,650,BMB ENTERPRISES INC            (UT),SIXMILE CREEK                      ,UT
+9282,PINE VALLEY                        ,9/30/27,10/16/87,Active,525,"PVC COMMERICAL CENTER, LLC.        ",SOUHEGAN RIVER                     ,NH
+8369,LAKE FLOWER DAM                    ,9/30/27,10/27/87,Active,165,SARANAC LAKE VILLAGE OF        (NY),SARANAC RIVER                      ,NY
+2785,SANFORD                            ,9/30/28,12/1/87,Active,3300,"BOYCE HYDRO POWER, LLC.            ",TITTABAWASSEE                      ,MI
+2343,MILLVILLE                          ,12/31/17,12/10/87,Active,2840,"PE HYDRO GENERATION, LLC.          ",SHENANDOAH RIVER                   ,WV
+2512,HAWKS NEST & GLEN FERRIS           ,12/31/17,12/11/87,Active,108159,HAWKS NEST HYDRO LLC.              ,NEW RIVER                          ,WV
+9886,VALATIE FALLS                      ,11/30/27,12/14/87,Active,364,VALATIE FALLS HYDRO POWER INC  (NY),KINDERHOOK CR                      ,NY
+10253,PELZER MILLS LOWER HYDRO           ,11/30/17,12/24/87,Active,3300,"CONSOLIDATED HYDRO SOUTHEAST, LLC  ",SALUDA RIVER                       ,SC
+2727,ELLSWORTH GRAHAM                   ,12/31/17,12/28/87,Active,8900,"BLACK BEAR HYDRO PARTNERS, LLC     ",UNION RIVER                        ,ME
+10254,PELZER MILLS UPPER HYDRO           ,11/30/17,12/29/87,Active,1950,"CONSOLIDATED HYDRO SOUTHEAST, LLC  ",SALUDA RIVER                       ,SC
+7076,DALLES DAM NORTH FISHWAY           ,11/30/37,12/31/87,Active,4900,NORTHERN WASCO COUNTY P U D    (OR),COLUMBIA RIVER                     ,WA
+5223,INTERNATIONAL FALLS                ,11/30/27,12/31/87,Active,14450,INTERNATIONAL FALLS POWER      (OR),RAINY RIVER                        ,MN
+2335,WILLIAMS                           ,12/31/17,1/22/88,Active,13000,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",KENNEBEC RIVER                     ,ME
+2531,WEST BUXTON                        ,12/31/17,1/29/88,Active,7812,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",SACO RIVER                         ,ME
+5251,LEE CREEK                          ,2/28/38,3/24/88,Active,1500,FORT SMITH CITY OF             (AR),LEE CREEK                          ,OK
+1966,GRANDFATHER FALLS                  ,3/31/18,4/14/88,Active,17240,WISCONSIN PUBLIC SERVICE CORP  (WI),WISCONSIN RIVER                    ,WI
+10198,PELICAN                            ,9/16/26,4/27/88,Active,700,"CITY OF PELICAN, AK                ",PELICAN CREEK                      ,AK
+3863,LOST CREEK HYDROELECTRIC NO 1      ,4/30/38,5/18/88,Active,1100,SNOW MOUNTAIN HYDRO LLC            ,LOST CREEK                         ,CA
+9260,SISSONVILLE                        ,4/30/28,5/20/88,Active,2300,SISSONVILLE LIMITED PARTNERSHIP    ,RAQUETTE RIVER                     ,NY
+8632,KANKAKEE                           ,4/30/28,5/27/88,Active,1200,KANKAKEE CITY OF               (IL),KANKAKEE RIVER                     ,IL
+8377,ISABELLA                           ,4/30/38,5/31/88,Active,11950,ISABELLA PARTNERS              (CA),KERN RIVER                         ,CA
+4031,STARVED ROCK                       ,5/31/38,6/24/88,Active,7600,PERU CITY OF                   (IL),ILLINOIS RIVER                     ,IL
+6641,SMITHLAND LOCK AND DAM             ,5/31/38,6/30/88,Active,72000,"AMERICAN MUNICIPAL POWER, INC      ",OHIO RIVER                         ,KY
+10441,MAROON CREEK                       ,6/30/28,7/20/88,Active,450,CITY OF ASPEN       (CO)           ,MAROON CREEK                       ,CO
+6221,BLACK CREEK                        ,6/30/38,7/29/88,Active,3700,BLACK CREEK HYDRO INC.         (WA),BLACK CREEK                        ,WA
+2307,SALMON CREEK                       ,8/31/18,8/31/88,Active,10300,ALASKA ELECTRIC LIGHT&POWER CO (AK),LOWER SALMON CREEK                 ,AK
+10489,RIVER FALLS                        ,8/31/23,9/27/88,Active,375,RIVER FALLS CITY OF            (WI),KINNICKINNIC RIVER                 ,WI
+6780,DEADWOOD CREEK                     ,8/31/38,9/28/88,Active,1963,"HYDRO SIERRA ENERGY, LLC           ",DEADWOOD CREEK                     ,CA
+2388,HOLYOKE NO 3                       ,2/20/19,9/28/88,Active,450,HOLYOKE CITY OF                (MA),HOLYOKE CANAL                      ,MA
+2387,HOLYOKE N0 2                       ,8/31/18,9/28/88,Active,800,HOLYOKE CITY OF                (MA),HOLYOKE CANAL                      ,MA
+2520,MATTACEUNK                         ,8/31/18,9/30/88,Active,19200,GREAT LAKES HYDRO AMERICA. LLC.    ,PENOBSCOT RIVER                    ,ME
+2973,ISLAND PARK                        ,9/30/38,10/19/88,Active,4800,FALL RIVER RURAL ELEC COOP INC (ID),HENRY'S FORK OF SNAKE RIVER        ,ID
+8889,HUMPBACK CREEK                     ,9/30/38,10/21/88,Active,1250,CORDOVA ELECTRIC COOP INC      (AK),HUMPBACK CREEK                     ,AK
+2756,CHACE MILL                         ,10/31/28,11/3/88,Active,7455,"CITY OF BURLINGTON, VERMONT        ",WINOOSKI RIVER                     ,VT
+2899,MILNER                             ,11/30/38,12/15/88,Active,59448,IDAHO POWER CO                 (ID),TWIN FALLS MAIN CANAL/SNAKE RIVER  ,ID
+1250,AZUSA                              ,12/31/18,1/5/89,Active,3000,PASADENA CITY OF               (CA),SAN  GABRIEL RIVER                 ,CA
+943,ROCK ISLAND                        ,12/31/28,1/18/89,Active,421255,PUD NO 1 OF CHELAN COUNTY      (WA),COLUMBIA RIVER                     ,WA
+2484,GRESHAM                            ,12/31/15,1/24/89,Expired,275,GRESHAM VILLAGE OF             (WI),RED RIVER                          ,WI
+1510,KAUKAUNA                           ,3/31/19,1/30/89,Active,4800,KAUKAUNA CITY OF               (WI),FOX RIVER                          ,WI
+848,TROUT CREEK                        ,12/31/18,1/30/89,Active,125,WELLS RURAL ELECTRIC CO        (NV),TROUT CREEK                        ,NV
+2337,PROSPECT NO 3                      ,12/31/18,1/30/89,Active,7200,PACIFICORP                     (OR),SOUTH FORK ROGUE RIVER             ,OR
+10505,GRAEAGLE GOLF COURSE               ,1/31/39,2/23/89,Active,90,GRAEAGLE LAND & WATER CO       (CA),FRAZIER CREEK                      ,CA
+190,UINTAH                             ,1/31/19,2/24/89,Active,1200,MOON LAKE ELECTRIC ASSN INC    (UT),UINTAH RIVER                       ,UT
+2386,HOLYOKE NO 1                       ,1/31/19,2/28/89,Active,1056,HOLYOKE CITY OF                (MA),HOLYOKE CANAL                      ,MA
+4656,ARROWROCK DAM                      ,2/28/39,3/27/89,Active,15000,BIG BEND IRRIGATION DISTRICT   (OR),S FK  BOISE R                      ,ID
+9194,LITTLE FALLS                       ,2/28/29,3/31/89,Active,2400,PASSAIC VALLEY WATER COMM      (NJ),PASSAIC RIVER                      ,NJ
+9482,WISCONSIN NOBLE                    ,3/31/39,4/21/89,Active,500,WISCONSIN CREEK LTD PARTNERS   (MT),WISCONSIN CREEK                    ,MT
+9967,SHOSHONE                           ,4/30/39,5/25/89,Active,945,SHOROCK HYDRO INC              (ID),LITTLE WOOD RIVER                  ,ID
+9885,FALLS RIVER                        ,4/30/29,5/25/89,Active,9100,MARYSVILLE HYDRO PARTNERS      (ID),FALLS RIVER                        ,ID
+1235,RADFORD                            ,5/30/19,5/31/89,Active,1185,RADFORD CITY OF                (VA),LITTLE RIVER                       ,VA
+2771,NONOTUCK MILL                      ,2/28/21,6/29/89,Active,500,CITY OF HOLYOKE GAS & ELECTRIC DEPT,HOLYOKE CANAL                      ,MA
+2768,ALBION MILL (A WHEEL)              ,2/28/21,6/29/89,Active,312,CITY OF HOLYOKE GAS & ELECTRIC DEPT,HOLYOKE CANAL                      ,MA
+2528,CATARACT                           ,11/30/29,6/29/89,Active,6650,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",SACO RIVER                         ,ME
+2766,ALBION MILL (D WHEEL)              ,2/28/21,6/29/89,Active,500,CITY OF HOLYOKE GAS & ELECTRIC DEPT,HOLYOKE CANAL                      ,MA
+5264,STONE CREEK                        ,8/31/39,9/15/89,Active,12000,CITY OF EUGENE                     ,STONE CREEK                        ,OR
+6939,BELLEVILLE                         ,8/31/39,9/27/89,Active,42000,"AMERICAN MUNICIPAL POWER, INC      ",OHIO RIVER                         ,WV
+6902,WILLOW ISLAND L & D                ,8/31/39,9/27/89,Active,35000,"AMERICAN MUNICIPAL POWER, INC      ",OHIO RIVER                         ,WV
+1957,OTTER RAPIDS                       ,6/30/30,10/24/89,Active,700,WISCONSIN PUBLIC SERVICE CORP  (WI),WISCONSIN RIVER                    ,WI
+10468,MARSH VALLEY                       ,11/30/39,12/1/89,Active,1650,MARSH VALLEY DEVELOPMENT INC.  (ID),PORTNEUF RIVER                     ,ID
+2610,SAXON FALLS                        ,12/31/24,12/22/89,Active,1250,NORTHERN STATES POWER CO       (WI),MONTREAL RIVER                     ,MI
+10773,BURNETT RIVER HATCHERY             ,12/31/39,1/31/90,Active,80,SOUTHERN  SOUTHEAST REGIONAL AGRICU,BURNETT RIVER                      ,AK
+10821,CAMP FAR WEST T. L.                ,6/30/21,4/19/90,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+10888,KOMA KULSHAN T. L.                 ,3/31/37,4/25/90,Active,0,"PUGET SOUND ENERGY, INC.(WA)       ",ROCKY CREEK                        ,WA
+8722,LANDIS-HARDE                       ,3/31/40,4/27/90,Active,100,HARDE DAVID O                      ,PERRY CREEK                        ,CA
+1432,DRY SPRUCE BAY                     ,5/31/20,6/11/90,Active,75,"PB ENERGY, INC.                    ",DRY SPRUCE BAY                     ,AK
+10800,ROSS CREEK                         ,5/31/40,6/19/90,Active,450,ROSS CREEK HYDRO L.C.          (ID),ROSS CREEK                         ,MT
+1744,WEBER                              ,5/31/20,6/28/90,Active,3850,PACIFICORP                     (OR),WEBER RIVER                        ,UT
+10806,STATION NO.5                       ,5/31/30,6/29/90,Active,790,CITY OF HOLYOKE GAS & ELECTRIC DEPT,CONNECTICUT RIVER                  ,MA
+10502,LOWER BOULDER CREEK                ,5/31/40,6/29/90,Active,700,"GARKANE ENERGY COOPERATIVE, INC.   ",BOULDER CREEK                      ,UT
+2622,TURNERS FALLS                      ,2/28/21,6/29/90,Active,937,"TURNERS FALLS HYDRO, LLC           ",CONNECTICUT CANAL                  ,MA
+10102,SPRINGER HYDRO NO. 1               ,8/31/23,6/29/90,Active,45,SPRINGER FRANKLIN                  ,MCFADDEN & MORRISON CREEKS         ,CO
+9340,KEZAR FALLS LOWER                  ,9/30/30,10/24/90,Active,1000,"KEZAR FALLS HYDRO, LLC.            ",OSSIPEE RIVER                      ,ME
+18,TWIN FALLS                         ,12/31/40,1/18/91,Active,42217,IDAHO POWER CO                 (ID),SNAKE RIVER                        ,ID
+10021,BEAVER                             ,12/31/40,1/22/91,Active,650,BEAVER CITY CORP               (UT),BEAVER RIVER                       ,UT
+10882,THREE FORKS                        ,12/31/40,1/28/91,Active,1300,BURGESS NORMAN & MARY              ,ROCK CREEK                         ,CA
+11006,UPPER ANDROSCOGGIN                 ,8/31/26,2/26/91,Active,1695,LEWISTON CITY OF               (ME),ANDROSCOGGIN RIVER                 ,ME
+10624,FRENCH PAPER                       ,2/28/21,2/28/91,Active,1300,FRENCH PAPER CO                (MI),ST. JOSEPH RIVER                   ,MI
+6731,CONEROSS                           ,2/28/21,3/28/91,Active,889,AQUENERGY SYSTEMS INC          (SC),CONEROSS CREEK                     ,SC
+10898,SWEETWATER                         ,2/28/31,3/28/91,Active,900,"SWEETWATER HYDROELECTRIC, LLC      ",SUGAR RIVER                        ,NH
+10934,SUGAR RIVER II                     ,4/30/21,5/9/91,Active,200,RUGER JR WILLIAM B                 ,SUGAR RIVER                        ,NH
+11068,FISHWATER RELEASE                  ,8/31/32,5/16/91,Active,2310,ORANGE COVE IRRIGATION DIST    (CA),BOR FRIANT DAM ON SAN JOAQUIN RIVER,CA
+10896,PINNACLES                          ,4/30/31,5/28/91,Active,10670,CITY OF DANVILLE                (VA,DAN RIVER                          ,VA
+10228,CANNELTON                          ,5/31/41,6/21/91,Active,84000,"AMERICAN MUNICIPAL POWER, INC      ",OHIO RIVER                         ,KY
+3701,TIETON DAM                         ,5/31/41,6/27/91,Active,13600,SOUTHERN CALIFORNIA PUBLIC PWR AUTH,TIETON RIVER                       ,WA
+663,RIO BLANCO                         ,8/19/21,8/20/91,Active,5000,PUERTO RICO ELECTRIC PWR AUTH  (PR),RIO BLANCO                         ,PR
+10674,KIMBERLY                           ,9/30/21,9/27/91,Active,2013,KAUKAUNA UTILITIES                 ,FOX RIVER                          ,WI
+10204,MCNARY DAM FISH ATTRACTION         ,8/31/41,9/30/91,Active,9690,NORTHERN WASCO COUNTY P U D    (OR),COLUMBIA RIVER                     ,WA
+1953,DuBAY                              ,6/30/26,10/24/91,Active,7200,CONSOLIDATED WATER POWER CO    (WI),WISCONSIN RIVER                    ,WI
+10887,CARTHAGE PAPER MAKERS MILL         ,10/31/21,11/22/91,Active,800,CLIMAX MANUFACTURING CO        (NY),BLACK RIVER                        ,NY
+10551,HIGH DAM                           ,10/31/31,11/22/91,Active,10192,"OSWEGO, CITY OF (NY)               ",OSWEGO RIVER                       ,NY
+2368,SQUA PAN                           ,12/3/21,12/4/91,Active,1500,ALGONQUIN NORTHERN MAINE GEN.CO.   ,SQUA PAN STREAM                    ,ME
+10853,OTTER TAIL RIVER                   ,11/30/21,12/5/91,Active,3450,OTTER TAIL POWER CO            (MN),OTTER TAIL RIVER                   ,MN
+10522,WHITTELSEY DAM                     ,11/30/31,12/24/91,Active,420,MALONE'S NEXT GEN LLC.             ,SALMON RIVER                       ,NY
+298,KAWEAH                             ,12/31/21,1/31/92,Active,6850,SOUTHERN CALIFORNIA EDISON CO  (CA),"KAWEAH R.(EAST,MARBLE & MIDDLE FKS.",CA
+9222,YALEVILLE                          ,1/31/22,2/10/92,Active,700,"ERIE BOULEVARD HYDROPOWER, L.P.    ",RAQUETTE RIVER                     ,NY
+9840,APPOMATTOX RIVER                   ,1/31/32,2/10/92,Active,2850,APPOMATTOX RIVER ASSOCIATES L. P.  ,APPOMATTOX R                       ,VA
+11197,COLLIERVILLE & SPICER MEADOW T. L. ,1/31/32,2/12/92,Active,0,NORTHERN CALIFORNIA POWER AGNY (CA),,CA
+11143,GLEN FALLS                         ,2/29/32,3/2/92,Active,250,"GLENN FALLS HYDRO, LLC.            ",MOOSUP RIVER                       ,CT
+10721,BIG CREEK                          ,2/28/22,3/27/92,Active,22,BIG CREEK LODGE & OUTFITTERS INC ID,MCCORKLE CREEK                     ,ID
+2221,OZARK BEACH                        ,2/28/22,3/31/92,Active,16000,EMPIRE DISTRICT ELECTRIC CO    (MO),WHITE RIVER                        ,MO
+10481,MONGAUP FALLS                      ,3/31/22,4/14/92,Active,4000,"EAGLE CREEK HYDRO POWER, LLC       ",MONGAUP RIVER                      ,NY
+10482,SWINGING BRIDGE                    ,3/31/22,4/14/92,Active,11750,"EAGLE CREEK HYDRO POWER, LLC       ",MONGAUP RIVER                      ,NY
+9690,RIO                                ,3/31/22,4/14/92,Active,10000,"EAGLE CREEK HYDRO POWER, LLC       ",MONGAUP RIVER                      ,NY
+1494,PENSACOLA                          ,3/31/22,4/24/92,Active,105176,GRAND RIVER DAM AUTHORITY      (OK),GRAND(NEOSHO) RIVER                ,OK
+10359,YOUNGS CREEK                       ,4/30/42,5/5/92,Active,7500,PUD NO 1 OF SNOHOMISH COUNTY   (WA),YOUNGS CREEK                       ,WA
+2423,RIVERSIDE                          ,12/31/33,5/12/92,Active,7900,GREAT LAKES HYDRO AMERICA. LLC.    ,ANDROSCOGGIN RIVER                 ,NH
+539,MOTHER ANN LEE                     ,4/30/22,5/26/92,Active,2209,"LOCK 7 HYDRO PARTNERS, LLC.        ",KENTUCKY RIVER                     ,KY
+11168,DAYVILLE POND                      ,5/31/32,6/29/92,Active,100,SUMMIT HYDROPOWER              (CT),FIVE MILE RIVER                    ,CT
+11169,AVALON DAM                         ,6/30/32,7/28/92,Active,1275,"AVALON HYDRO, LLC                  ",MAYO RIVER                         ,NC
+10552,MILE 28                            ,7/31/42,8/12/92,Active,1500,CONTRACTORS POWER GROUP INC    (ID),MILNER-GOODING CANAL               ,ID
+10813,SUMMERSVILLE                       ,9/1/42,9/25/92,Active,80000,SUMMERSVILLE CITY OF           (WV),GAULEY RIVER                       ,WV
+2641,FEEDER DAM T. L.                   ,12/31/23,9/29/92,Active,0,"ERIE BOULEVARD HYDROPOWER, L.P.    ",,NY
+1061,PHOENIX                            ,8/31/22,9/30/92,Active,1800,PACIFIC GAS AND ELECTRIC CO      (C,SOUTH FORK STANISLAUS RIVER        ,CA
+1773,YELLOWSTONE                        ,9/30/22,10/15/92,Active,900,MOON LAKE ELECTRIC ASSN INC    (UT),YELLOWSTONE RIVER                  ,UT
+11217,STILL RIVER                        ,10/31/32,11/18/92,Active,37,"MACKOWIAK, RICHARD G.              ",STILL RIVER                        ,CT
+5461,SOUTH GLENS FALLS                  ,11/30/42,12/2/92,Active,15700,NIAGARA MOHAWK POWER CORP      (NY),HUDSON RIVER                       ,NY
+5276,HUDSON FALLS                       ,11/30/42,12/2/92,Active,44000,NIAGARA MOHAWK POWER CORP      (NY),HUDSON RIVER                       ,NY
+1403,NARROWS                            ,1/31/23,2/11/93,Active,12000,PACIFIC GAS AND ELECTRIC CO      (C,YUBA RIVER                         ,CA
+2362,GRAND RAPIDS                       ,1/31/23,2/26/93,Active,2100,"ALLETE, INC                        ",MISSISSIPPI RIVER                  ,MN
+2533,BRAINERD                           ,2/28/23,3/2/93,Active,3160,"CITY OF BRAINERD, PUB UTILITIES COM",MISSISSIPPI RIVER                  ,MN
+11219,MAYO                               ,2/28/33,3/2/93,Active,952,"MAYO HYDROPOWER, LLC               ",MAYO RIVER                         ,NC
+2336,LLOYD SHOALS                       ,12/31/23,3/22/93,Active,18000,GEORGIA POWER CO               (GA),OCMULGEE RIVER                     ,GA
+1858,BEAVER CITY                        ,7/31/23,3/26/93,Active,625,BEAVER CITY CORP               (UT),BEAVER RIVER                       ,UT
+2441,GREENVILLE/TENTH STREET            ,12/31/43,3/31/93,Active,2200,NORWICH CITY OF                (CT),SHETUCKET RIVER                    ,CT
+2445,CENTER RUTLAND                     ,12/31/23,3/31/93,Active,275,GREEN MOUNTAIN POWER CORP      (VT),OTTER CREEK                        ,VT
+2509,SHENANDOAH                         ,12/31/23,4/9/93,Active,862,"PE HYDRO GENERATION, LLC.          ",SOUTH FORK SHENANDOH RIVER         ,VA
+2391,WARREN                             ,12/31/23,4/12/93,Active,750,"PE HYDRO GENERATION, LLC.          ",SHENANDOAH  RIVER                  ,VA
+2341,LANGDALE                           ,12/31/23,5/24/93,Active,1040,GEORGIA POWER CO               (GA),CHATTAHOCHEE RIVER                 ,GA
+2350,RIVERVIEW                          ,12/31/23,5/24/93,Active,480,GEORGIA POWER CO               (GA),CHATTAHOOCHEE RIVER                ,GA
+6032,MECHANICVILLE                      ,5/31/43,6/9/93,Active,4500,ALBANY ENGINEERING CORP            ,HUDSON RIVER                       ,NY
+2425,LURAY AND NEWPORT                  ,12/31/23,6/9/93,Active,3000,"PE HYDRO GENERATION, LLC.          ",SOUTH FORK OF THE SHENANDOAH RIVER ,VA
+2361,PRAIRIE RIVER                      ,12/31/23,9/30/93,Active,1084,"ALLETE, INC                        ",PRAIRIE RIVER                      ,MN
+2373,ROCKTON                            ,12/31/23,9/30/93,Active,1100,"MIDWEST HYDRO, LLC                 ",ROCK RIVER                         ,IL
+10661,CONSTANTINE                        ,9/30/23,10/20/93,Active,1200,INDIANA MICHIGAN POWER CO      (IN),ST. JOSEPH RIVER                   ,MI
+2532,LITTLE FALLS                       ,12/31/23,10/27/93,Active,4720,"ALLETE, INC                        ",MISSISSIPPI RIVER                  ,MN
+2454,SYLVAN                             ,12/31/23,10/29/93,Active,1800,"ALLETE, INC                        ",GULL RIVER                         ,MN
+10440,BLACK BEAR LAKE                    ,10/31/43,11/9/93,Active,4500,B B L HYDRO INC.               (AK),BLACK BEAR LAKE                    ,AK
+11426,BLACKSTONE MILL                    ,10/31/23,11/18/93,Active,65,"KECK, T. A. AND H. S.              ",EAST MAHANTANGO CREEK              ,PA
+2519,NORTH GORHAM                       ,12/31/34,11/22/93,Active,2190,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",PRESUMPSCOT R                      ,ME
+2544,MEYERS FALLS                       ,12/31/23,12/10/93,Active,1200,"HYDRO TECHNOLOGY SYSTEM, INC.      ",COLVILLE RIVER                     ,WA
+2367,AROOSTOOK RIVER                    ,12/31/43,12/13/93,Active,800,ALGONQUIN NORTHERN MAINE GEN.CO.   ,MILLINOCKET STREAM                 ,ME
+2446,DIXON                              ,12/31/23,12/28/93,Active,3200,STS HYDROPOWER LTD             (IL),ROCK RIVER                         ,IL
+1333,TULE RIVER                         ,7/31/33,12/30/93,Active,6750,PACIFIC GAS AND ELECTRIC CO      (C,TULE RIVER NORTH & MIDDLE FORKS    ,CA
+10684,Moores Park                        ,12/31/23,1/5/94,Active,600,"LANSING, CITY OF               (MI)",GRAND RIVER                        ,MI
+2440,CHIPPEWA FALLS                     ,12/31/33,1/14/94,Active,21600,NORTHERN STATES POWER CO       (WI),CHIPPEWA RIVER                     ,WI
+2407,YATES AND THURLOW                  ,1/31/34,2/3/94,Active,125600,ALABAMA POWER CO               (AL),TALLAPOOSA RIVER                   ,AL
+2376,REUSENS                            ,2/29/24,3/18/94,Active,12500,APPALACHIAN POWER CO           (VA),JAMES RIVER                        ,VA
+2466,NIAGARA                            ,2/29/24,3/25/94,Active,2400,APPALACHIAN POWER CO           (VA),ROANOKE RIVER                      ,VA
+2514,BYLLESBY & BUCK                    ,2/29/24,3/28/94,Active,30100,APPALACHIAN POWER CO           (VA),NEW RIVER                          ,VA
+2392,GILMAN                             ,3/31/24,4/13/94,Active,4850,"AMPERSAND GILMAN HYDRO, LP         ",CONNECTICUT RIVER                  ,VT
+2420,CUTLER                             ,3/31/24,4/29/94,Active,30000,PACIFICORP                     (OR),BEAR RIVER                         ,UT
+2689,OCONTO FALLS                       ,4/30/24,5/11/94,Active,1810,"N.E.W. HYDRO, LLC.                 ",OCONTO RIVER                       ,WI
+10615,TOWER AND KLEBER                   ,4/30/24,5/12/94,Active,1760,TOWER KLEBER LIMITED PARTNERSHIP   ,BLACK RIVER                        ,MI
+2711,TREGO                              ,11/30/25,6/2/94,Active,1200,NORTHERN STATES POWER CO       (MN),NAMEKAGON RIVER                    ,WI
+2348,BELOIT                             ,5/31/24,6/23/94,Active,480,"MIDWEST HYDRO, LLC                 ",ROCK RIVER                         ,WI
+2561,NIANQUA                            ,6/1/24,6/30/94,Active,3000,SHO-ME POWER ELECTRIC COOP    (MO) ,NIANGUA RIVER                      ,MO
+2599,HODENPYL                           ,6/30/34,7/15/94,Active,17025,CONSUMERS ENERGY CO           (MI) ,MANISTEE R                         ,MI
+2580,TIPPY                              ,6/30/34,7/15/94,Active,20100,CONSUMERS ENERGY CO           (MI) ,MANISTEE RIVER                     ,MI
+2453,FIVE CHANNELS                      ,6/30/34,7/15/94,Active,6000,CONSUMERS ENERGY CO           (MI) ,AUSABLE RIVER                      ,MI
+2452,HARDY                              ,6/30/34,7/15/94,Active,29600,CONSUMERS ENERGY CO           (MI) ,MUSKEGON                           ,MI
+2451,ROGERS                             ,6/30/34,7/15/94,Active,5418,CONSUMERS ENERGY CO           (MI) ,MUSKEGON RIVER                     ,MI
+2449,LOUD                               ,6/30/34,7/15/94,Active,4000,CONSUMERS ENERGY CO           (MI) ,AUSABLE RIVER                      ,MI
+2448,MIO                                ,6/30/34,7/15/94,Active,3885,CONSUMERS ENERGY CO           (MI) ,AUSABLE RIVER                      ,MI
+2468,CROTON                             ,6/30/34,7/15/94,Active,7473,CONSUMERS ENERGY CO           (MI) ,MUSKEGON RIVER                     ,MI
+2436,FOOTE                              ,6/30/34,7/15/94,Active,9000,CONSUMERS ENERGY CO           (MI) ,AUSABLE RIVER                      ,MI
+2450,COOKE                              ,6/30/34,7/15/94,Active,9000,CONSUMERS ENERGY CO           (MI) ,AU SABLE R                         ,MI
+2447,ALCONA                             ,6/30/34,7/15/94,Active,8000,CONSUMERS ENERGY CO           (MI) ,AUSABLE RIVER                      ,MI
+1394,BISHOP CREEK                       ,6/30/24,7/19/94,Active,28565,SOUTHERN CALIFORNIA EDISON CO  (CA),BISHOP CR                          ,CA
+2422,SAWMILL                            ,7/31/24,8/1/94,Active,3174,GREAT LAKES HYDRO AMERICA. LLC.    ,ANDROSCOGGIN RIVER                 ,NH
+2288,GORHAM                             ,7/31/24,8/1/94,Active,2150,PUBLIC SERVICE CO OF NH        (NH),ANDROSCOGGIN RIVER                 ,NH
+2327,CASCADE                            ,7/31/24,8/1/94,Active,7920,GREAT LAKES HYDRO AMERICA. LLC.    ,ANDROSCOGGIN R                     ,NH
+2326,CROSS POWER                        ,7/31/24,8/1/94,Active,3220,GREAT LAKES HYDRO AMERICA. LLC.    ,ANDROSCOGGIN R                     ,NH
+2311,GORHAM                             ,7/31/24,8/1/94,Active,4800,GREAT LAKES HYDRO AMERICA. LLC.    ,ANDROSCOGGIN RIVER                 ,NH
+2300,SHELBURNE                          ,7/31/24,8/1/94,Active,3720,GREAT LAKES HYDRO AMERICA. LLC.    ,ANDROSCOGGIN RIVER                 ,NH
+2287,J. BRODIE SMITH                    ,7/31/24,8/1/94,Active,15000,PUBLIC SERVICE CO OF NH        (NH),ANDROSCOGGIN R                     ,NH
+2411,SCHOOLFIELD                        ,7/31/24,8/26/94,Active,4550,CITY OF DANVILLE                (VA,DAN RIVER                          ,VA
+2490,TAFTSVILLE                         ,8/31/24,9/20/94,Active,500,GREEN MOUNTAIN POWER CORP      (VT),OTTAUQUECHEE RIVER                 ,VT
+2347,CENTRAL                            ,8/31/24,9/28/94,Active,500,"MIDWEST HYDRO, LLC                 ",ROCK RIVER                         ,WI
+2333,RUMFORD FALLS                      ,9/30/24,10/18/94,Active,44500,"RUMFORD FALLS HYDRO, LLC.          ",ANDROSCOGGIN RIVER                 ,ME
+2608,WEST SPRINGFIELD                   ,9/30/34,10/24/94,Active,1400,A & D HYDRO INC                (MA),WESTFIELD RIVER                    ,MA
+432,WALTERS                            ,10/31/34,11/4/94,Active,108600,"DUKE ENERGY PROGRESS, LLC.         ",PIGEON RIVER                       ,NC
+2489,CAVENDISH                          ,10/31/24,11/4/94,Active,1440,GREEN MOUNTAIN POWER CORP      (VT),BLACK RIVER                        ,VT
+1922,BEAVER FALLS                       ,10/31/24,11/7/94,Active,7100,KETCHIKAN CITY OF              (AK),BEAVER FALLS CR                    ,AK
+2399,ARNOLD FALLS                       ,11/30/34,12/8/94,Active,350,GREEN MOUNTAIN POWER CORP      (VT),PASSUMPSIC R                       ,VT
+2400,PASSUMPSIC                         ,11/30/34,12/8/94,Active,700,GREEN MOUNTAIN POWER CORP      (VT),PASSUMPSIC RIVER                   ,VT
+2396,PIERCE MILLS                       ,11/30/34,12/8/94,Active,250,GREEN MOUNTAIN POWER CORP      (VT),PASSUMPSIC RIVER                   ,VT
+2397,GAGE                               ,11/30/34,12/8/94,Active,700,GREEN MOUNTAIN POWER CORP      (VT),PASSUMPSIC RIVER                   ,VT
+2459,LAKE LYNN                          ,11/30/24,12/27/94,Active,51200,"LAKE LYNN GENERATION, LLC.         ",MONONGAHELA RIVER                  ,WV
+2587,SUPERIOR FALLS                     ,12/31/24,1/19/95,Active,1650,NORTHERN STATES POWER CO       (WI),MONTREAL RIVER                     ,WI
+2513,ESSEX NO 19                        ,2/28/25,3/30/95,Active,8050,GREEN MOUNTAIN POWER CORP      (VT),WINOOSKI R                         ,VT
+553,SKAGIT RIVER                       ,4/30/25,5/16/95,Active,689400,SEATTLE CITY OF                (WA),SKAGIT R                           ,WA
+2442,WATERTOWN                          ,5/31/35,6/16/95,Active,7020,WATERTOWN CITY OF              (NY),BLACK RIVER                        ,NY
+2506,ESCANABA                           ,6/30/35,7/13/95,Active,8985,UPPER PENINSULA POWER CO       (MI),ESCANABA R                         ,MI
+2360,ST LOUIS                           ,6/30/35,7/13/95,Active,87600,"ALLETE, INC                        ",ST LOUIS R                         ,MN
+2607,SPENCER MOUNTAIN                   ,6/30/25,7/13/95,Active,640,"ADVANTAGE INVESTMENT GROUP, LLC    ",SOUTH FORK CATAWBA R               ,NC
+2363,CLOQUET                            ,6/30/25,7/13/95,Active,6500,"SAPPI CLOQUET, LLC.                ",ST LOUIS R                         ,MN
+11264,COOLEEMEE                          ,7/31/35,8/11/95,Active,1400,"SOUTH YADKIN POWER,INC.        (NC)",SOUTH YADKIN RIVER                 ,NC
+11322,COLUMBIA WATER SUPPLY              ,7/31/25,8/28/95,Active,350,TUOLUMNE UTILITIES DISTRICT    (CA),COLUMBIA DITCH                     ,CA
+2444,WHITE RIVER                        ,7/31/25,8/29/95,Active,1000,NORTHERN STATES POWER CO       (WI),WHITE RIVER                        ,WI
+2431,BRULE                              ,7/31/40,8/29/95,Active,5335,WISCONSIN ELECTRIC POWER CO    (WI),BRULE R                            ,WI
+2402,PRICKETT                           ,7/31/35,8/29/95,Active,2200,UPPER PENINSULA POWER CO       (MI),STURGEON R                         ,MI
+2417,HAYWARD                            ,11/30/25,9/1/95,Active,168,NORTHERN STATES POWER CO       (WI),NAMEKAGON R                        ,WI
+11313,APTHORP                            ,9/30/35,10/17/95,Active,425,"CLARK, EDWARD M.                   ",AMMONOOSUC RIVER                   ,NH
+11402,CRYSTAL FALLS                      ,9/30/25,10/18/95,Active,1000,"CRYSTAL FALLS, CITY OF         (MI)",PAINT R                            ,MI
+2535,STEVENS CREEK                      ,10/31/25,11/22/95,Active,17300,SOUTH CAROLINA ELECTRIC&GAS CO (SC),STEVENS CR                         ,SC
+1267,BUZZARDS ROOST                     ,11/30/35,12/18/95,Active,15000,GREENWOOD COUNTY               (SC),SALUDA RIVER                       ,SC
+2486,PINE                               ,11/30/25,12/19/95,Active,3600,WISCONSIN ELECTRIC POWER CO    (WI),PINE RIVER                         ,WI
+11408,SALMON RIVER                       ,1/31/36,2/21/96,Active,36250,"ERIE BOULEVARD HYDROPOWER, L.P.    ",SALMON R                           ,NY
+2582,STATION NO 2                       ,1/31/36,2/22/96,Active,14800,ROCHESTER GAS & ELECTRIC CORP  (NY),GENESEE R                          ,NY
+2583,STATION NO 5                       ,1/31/36,2/22/96,Active,45652,ROCHESTER GAS & ELECTRIC CORP  (NY),GENESEE R                          ,NY
+2187,GEORGETOWN                         ,5/30/36,2/28/96,Active,1440,PUBLIC SERVICE CO OF COLORADO  (CO),SOUTH CLEAR CREEK                  ,CO
+5984,OSWEGO FALLS                       ,2/29/36,3/15/96,Active,7360,"ERIE BOULEVARD HYDROPOWER, L.P.    ",OSWEGO RIVER                       ,NY
+1951,SINCLAIR                           ,4/30/36,3/19/96,Active,45000,GEORGIA POWER CO               (GA),OCONEE RIVER                       ,GA
+2456,AYERS ISLAND                       ,3/31/36,4/29/96,Active,8400,PUBLIC SERVICE CO OF NH        (NH),PEMIGEWASSET RIVER                 ,NH
+2332,GASTON SHOALS                      ,5/31/36,6/12/96,Active,8500,"DUKE ENERGY CAROLINAS, LLC.        ",BROAD RIVER                        ,SC
+2315,NEAL SHOALS                        ,5/31/36,6/17/96,Active,4400,SOUTH CAROLINA ELECTRIC&GAS CO (SC),BROAD RIVER                        ,SC
+2331,NINETY-NINE ISLANDS                ,5/31/36,6/17/96,Active,20000,"DUKE ENERGY CAROLINAS, LLC.        ",BROAD RIVER                        ,SC
+11077,GOAT LAKE                          ,6/30/46,7/15/96,Active,4000,ALASKA POWER AND TELEPHONE CO.     ,PITCHFORK FALLS                    ,AK
+1999,WAUSAU                             ,6/30/26,7/18/96,Active,5400,WISCONSIN PUBLIC SERVICE CORP  (WI),WISCONSIN RIVER                    ,WI
+2113,WISCONSIN VALLEY (RESERVOIRS)      ,6/30/26,7/18/96,Active,0,WISCONSIN VALLEY IMPROVEM'T CO (WI),WISCONSIN RIVER & HEADWATER TRIBU. ,WI
+2212,ROTHSCHILD                         ,6/30/26,7/18/96,Active,3708,"DOMTAR PAPER COMPANY, LLC.         ",WISCONSIN R                        ,WI
+2239,KINGS DAM                          ,6/30/26,7/18/96,Active,2509,TOMAHAWK POWER & PULP CO       (WI),WISCONSIN RIVER                    ,WI
+2255,CENTRALIA                          ,6/30/26,7/18/96,Active,3324,DOMTAR WISCONSIN CORP              ,WISCONSIN R                        ,WI
+2256,WISCONSIN RAPIDS                   ,6/30/26,7/18/96,Active,9230,CONSOLIDATED WATER POWER CO    (WI),WISCONSIN R                        ,WI
+2291,PORT EDWARDS                       ,6/30/26,7/18/96,Active,3443,DOMTAR WISCONSIN CORP              ,WISCONSIN R                        ,WI
+2590,WHITING                            ,6/30/26,7/18/96,Active,6368,CONSOLIDATED WATER POWER CO    (WI),WISCONSIN RIVER                    ,WI
+2292,NEKOOSA                            ,6/30/26,7/18/96,Active,3535,DOMTAR WISCONSIN CORP              ,WISCONSIN R                        ,WI
+2476,JERSEY                             ,6/30/26,7/18/96,Active,512,WISCONSIN PUBLIC SERVICE CORP  (WI),TOMAHAWK R                         ,WI
+2645,BEAVER RIVER                       ,7/31/26,8/2/96,Active,44800,"ERIE BOULEVARD HYDROPOWER, L.P.    ",BEAVER R                           ,NY
+2354,NORTH GEORGIA                      ,9/30/36,10/3/96,Active,168400,GEORGIA POWER CO               (GA),TUGALO RIVER                       ,SC
+2572,RIPOGENUS                          ,9/30/26,10/22/96,Active,37530,GREAT LAKES HYDRO AMERICA. LLC.    ,W BR PENOBSCOT R                   ,ME
+2458,PENOBSCOT MILLS                    ,9/30/26,10/22/96,Active,70810,GREAT LAKES HYDRO AMERICA. LLC.    ,W BR PENOBSCOT R                   ,ME
+2579,TWIN BRANCH                        ,11/30/36,12/23/96,Active,4800,INDIANA MICHIGAN POWER CO      (IN),ST JOSEPH RIVER                    ,IN
+2290,KERN RIVER NO 3                    ,11/30/26,12/24/96,Active,40200,SOUTHERN CALIFORNIA EDISON CO  (CA),KERN RIVER                         ,CA
+2538,BEEBEE ISLAND                      ,11/30/26,12/24/96,Active,8000,"ERIE BOULEVARD HYDROPOWER, L.P.    ",BLACK RIVER                        ,NY
+2569,BLACK RIVER                        ,11/30/26,12/24/96,Active,29600,"ERIE BOULEVARD HYDROPOWER, L.P.    ",BLACK RIVER                        ,NY
+11530,MITCHELL MILL DAM                  ,11/30/36,12/27/96,Active,900,MITCHELL COUNTY                (IA),CEDAR River                        ,IA
+2550,WEYAUWEGA                          ,11/30/26,12/27/96,Active,400,"N.E.W. HYDRO, LLC.                 ",WAUPACA RIVER                      ,WI
+11132,EUSTIS                             ,11/30/26,12/27/96,Active,250,KEI (MAINE) POWER MGMT (I) LLC     ,N.BR.DEAD RIVER                    ,ME
+2551,BUCHANAN                           ,11/30/36,12/31/96,Active,4105,INDIANA MICHIGAN POWER CO      (IN),ST. JOSEPH RIVER                   ,MI
+1389,RUSH CREEK                         ,1/31/27,2/4/97,Active,11850,SOUTHERN CALIFORNIA EDISON CO  (CA),RUSH CREEK                         ,CA
+1388,LEE VINING                         ,1/31/27,2/4/97,Active,11250,SOUTHERN CALIFORNIA EDISON CO  (CA),LEE VINING CREEK                   ,CA
+2390,BIG FALLS                          ,1/31/37,2/5/97,Active,9139,NORTHERN STATES POWER CO       (WI),FLAMBEAU RIVER                     ,WI
+2473,CROWLEY                            ,1/31/37,2/5/97,Active,1500,FLAMBEAU HYDRO LLC.                ,FLAMBEAU NORTH FORK                ,WI
+2395,PIXLEY                             ,1/31/37,2/5/97,Active,960,FLAMBEAU HYDRO LLC.                ,NORTH FORK FLAMBEAU RIVER          ,WI
+2421,LOWER HYDRO                        ,1/31/37,2/5/97,Active,1200,FLAMBEAU HYDRO LLC.                ,NORTH FORK FLAMBEAU RIVER          ,WI
+2640,UPPER HYDRO                        ,1/31/37,2/5/97,Active,900,FLAMBEAU HYDRO LLC.                ,NORTH FORK FLAMBEAU RIVER          ,WI
+2475,THORNAPPLE                         ,1/31/37,2/5/97,Active,1400,NORTHERN STATES POWER CO       (WI),FLAMBEAU RIVER                     ,WI
+10854,CATARACT                           ,1/31/27,2/7/97,Active,2000,"UP HYDRO, LLC                      ",MIDDLE BRANCH OF ESCANABA RIVER    ,MI
+2705,NEWHALEM CREEK                     ,1/31/27,2/7/97,Active,2125,SEATTLE CITY OF                (WA),NEWHALEM CREEK                     ,WA
+2438,WATERLOO & SENECA FALLS            ,2/28/37,2/13/97,Active,7440,SENECA FALLS POWER CORPORATION     ,SENECA RIVER                       ,NY
+1862,NISQUALLY RIVER                    ,2/28/37,3/7/97,Active,115687,CITY OF TACOMA                (WA) ,NISQUALLY RIVER                    ,WA
+10703,YELM                               ,2/28/37,3/7/97,Active,12000,CENTRALIA CITY OF              (WA),NISQUALLY RIVER                    ,WA
+2496,LEABURG-WALTERVILLE                ,2/28/37,3/24/97,Active,23200,EUGENE WATER & ELECTRIC BOARD      ,MCKENZIE RIVER                     ,OR
+2334,GARDNERS FALLS                     ,3/31/37,4/4/97,Active,3580,"ESSENTIAL POWER MASSACHUSETTS, LLC.",DEERFIELD                          ,MA
+2323,DEERFIELD RIVER                    ,3/31/37,4/4/97,Active,76910,TRANSCANADA HYDRO NORTHEAST INC.   ,DEERFIELD RIVER                    ,VT
+2394,CHALK HILL                         ,4/30/37,5/7/97,Active,7800,WISCONSIN ELECTRIC POWER CO    (WI),MENOMINEE  RIVER                   ,WI
+2536,LITTLE QUINNESEC                   ,4/30/37,5/7/97,Active,9100,"NORTHBROOK WISCONSIN, LLC.         ",MENOMINEE RIVER                    ,WI
+2275,SALIDA HYDRO NOS. 1 & 2            ,4/30/27,5/7/97,Active,1310,PUBLIC SERVICE CO OF COLORADO  (CO),SOUTH FORK ARKANSAS RIVER          ,CO
+2357,WHITE RAPIDS                       ,4/30/37,5/7/97,Active,8000,WISCONSIN ELECTRIC POWER CO    (WI),MENOMINEE RIVER                    ,WI
+2433,GRAND RAPIDS                       ,4/30/37,5/7/97,Active,7150,WISCONSIN PUBLIC SERVICE CORP  (WI),MENOMINEE RIVER                    ,WI
+10805,HATFIELD                           ,4/30/37,5/8/97,Active,7200,"MIDWEST HYDRAULIC COMPANY, LLC     ",BLACK RIVER                        ,WI
+710,SHAWANO                            ,4/30/37,5/16/97,Active,700,WOLF RIVER HYDRO LMT PARTNERSHIP   ,WOLF RIVER                         ,WI
+3574,TIBER DAM                          ,5/31/47,6/2/97,Active,7500,"TIBER MONTANA, LLC                 ","TIBER DAM, MARIAS RIVER            ",MT
+2595,HIGH FALLS                         ,5/31/37,6/26/97,Active,7000,WISCONSIN PUBLIC SERVICE CORP  (WI),PESHTIGO RIVER                     ,WI
+2522,JOHNSON FALLS                      ,5/31/37,6/26/97,Active,3500,WISCONSIN PUBLIC SERVICE CORP  (WI),PESHTIGO RIVER                     ,WI
+2525,CALDRON FALLS                      ,5/31/37,6/26/97,Active,6400,WISCONSIN PUBLIC SERVICE CORP  (WI),PESHTIGO RIVER                     ,WI
+11437,JORDAN DAM                         ,5/31/47,6/26/97,Active,4400,JORDAN HYDROELECTRIC L.P.          ,HAW RIVER                          ,NC
+10856,Au-Train                           ,5/31/37,6/26/97,Active,900,"UP HYDRO, LLC                      ",UPPER AU TRAIN RIVER               ,MI
+2581,PESHTIGO                           ,5/31/37,6/26/97,Active,600,WISCONSIN PUBLIC SERVICE CORP  (WI),PESHTIGO RIVER                     ,WI
+2546,SANDSTONE RAPIDS                   ,5/31/37,6/26/97,Active,3840,WISCONSIN PUBLIC SERVICE CORP  (WI),PESHTIGO RIVER                     ,WI
+2560,POTATO RAPIDS                      ,5/31/37,6/26/97,Active,1400,WISCONSIN PUBLIC SERVICE CORP  (WI),PESHTIGO RIVER                     ,WI
+11482,MARCAL                             ,6/30/37,7/17/97,Active,1310,KEI (MAINE) POWER MGMT (IV) LLC    ,LITTLE ANDROSCOGGIN RIVER          ,ME
+1517,UPPER MONROE                       ,7/31/27,8/29/97,Active,250,MONROE CITY CITY OF            (UT),SHINGLE CREEK                      ,UT
+2584,STATION 26                         ,9/30/37,10/17/97,Active,3000,ROCHESTER GAS & ELECTRIC CORP  (NY),GENESEE RIVER                      ,NY
+2523,OCONTO FALLS                       ,11/20/27,11/20/97,Active,1320,"N.E.W. HYDRO, LLC.                 ",OCONTO RIVER                       ,WI
+2325,WESTON                             ,10/31/36,11/25/97,Active,15980,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",KENNEBEC RIVER                     ,ME
+2329,WYMAN                              ,10/31/36,11/25/97,Active,83700,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",KENNEBEC RIVER                     ,ME
+2671,MOOSEHEAD LAKE (STORAGE)           ,10/31/36,11/25/97,Active,0,KENNEBEC WATER POWER CO        (ME),KENNEBEC RIVER                     ,ME
+11163,SOUTH BERWICK                      ,11/30/37,12/9/97,Active,1200,"SALMON FALLS HYDRO, LLC            ",SALMON FALLS RIVER                 ,NH
+1651,SWIFT CREEK                        ,11/30/47,12/19/97,Active,1537,"LOWER VALLEY ENERGY, INC.(WY)      ",SWIFT CREEK                        ,WY
+11286,ABBEVILLE                          ,11/30/27,12/24/97,Active,2600,CITY OF ABBEVILLE                  ,ROCKY RIVER                        ,SC
+11243,POWER CREEK                        ,11/30/47,12/24/97,Active,6000,CORDOVA ELECTRIC COOP INC      (AK),POWER CREEK                        ,AK
+11393,MAHONEY LAKE                       ,12/31/47,1/22/98,Active,9600,CITY OF SAXON                      ,UPPER MAHONEY LAKE                 ,AK
+2527,SKELTON                            ,1/31/38,2/26/98,Active,21600,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",SACO RIVER                         ,ME
+2529,BONNY EAGLE                        ,1/31/38,2/26/98,Active,7200,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",SACO RIVER                         ,ME
+2712,STILLWATER                         ,3/31/48,4/20/98,Active,4179,"BLACK BEAR DEVELOPMENT HOLDINGS,LLC",STILLWATER BRANCH PENOBSCOT RIVER  ,ME
+2534,MILFORD                            ,3/31/38,4/20/98,Active,8000,"BLACK BEAR HYDRO PARTNERS, LLC     ",STILLWATER                         ,ME
+2403,VEAZIE                             ,3/31/38,4/20/98,Active,8400,PENOBSCOT RIVER RESTORATION TRUST  ,PENOBSCOT RIVER                    ,ME
+2663,PILLAGER                           ,3/31/28,4/27/98,Active,1520,"ALLETE, INC                        ",MISSISSIPPI RIVER                  ,MN
+1930,KERN RIVER NO 1                    ,5/31/28,6/16/98,Active,26300,SOUTHERN CALIFORNIA EDISON CO  (CA),KERN RIVER                         ,CA
+11617,VARICK-HIGH DAM #21 T.L.           ,10/31/31,7/8/98,Active,0,NIAGARA MOHAWK POWER CORP      (NY),,NY
+1417,KINGSLEY DAM                       ,6/30/38,7/29/98,Active,105900,CENTRAL NEBRASKA PUB P&I DIST  (NE),PLATTE RIVER                       ,NE
+1835,NORTH PLATTE/KEYSTONE DIVERSION    ,6/30/38,7/29/98,Active,26000,NEBRASKA PUBLIC POWER DISTRICT (NE),CANAL FROM N&S PLATTE RIVERS       ,NE
+460,CUSHMAN                            ,6/30/58,7/30/98,Active,131000,CITY OF TACOMA                (WA) ,NORTH FORK SKOKOMISH RIVER         ,WA
+10819,DWORSHAK                           ,7/31/48,8/4/98,Active,2500,IDAHO WATER RESOURCE BOARD         ,NORTH FORK OF CLEARWATER RIVER     ,ID
+8277,OTIS                               ,9/15/48,9/16/98,Active,10350,"ANDRO HYDRO, LLC.                  ",ANDROSCOGGIN RIVER                 ,ME
+2375,RILEY-JAY-LIVERMORE                ,9/15/48,9/16/98,Active,19725,"ANDRO HYDRO, LLC.                  ",ANDROSCOGGIN RIVER                 ,ME
+11546,MUNICIPAL POWER DAM                ,8/31/28,9/16/98,Active,550,CITY OF THIEF RIVER FALLS UTILITIES,RED LAKE RIVER                     ,MN
+10810,SMALLWOOD                          ,9/30/28,10/16/98,Active,1200,"BOYCE HYDRO POWER, LLC.            ",TITTABAWASSEE RIVER                ,MI
+10809,SECORD                             ,9/30/28,10/16/98,Active,1200,"BOYCE HYDRO POWER, LLC.            ",TITTABAWASSEE RIVER                ,MI
+10808,EDENVILLE                          ,9/30/28,10/16/98,Active,4800,"BOYCE HYDRO POWER, LLC.            ",TITTABAWASSEE & TABACCO RIVERS     ,MI
+11509,"CITY OF ALBANY,OREGON HYDRO        ",9/30/48,10/23/98,Active,500,"CITY OF ALBANY, OREGON             ",SOUTH SANTIAM RIVER                ,OR
+2404,THUNDER BAY RIVER                  ,11/30/38,12/11/98,Active,8050,"THUNDER BAY POWER, LLC             ",UPPER BRANCH                       ,MI
+11060,SAHKO WATER POWER                  ,1/31/49,2/12/99,Active,500,J M MILLER ENTERPRISES INC     (ID),SNAKE RIVER                        ,ID
+1390,LUNDY                              ,2/28/29,3/3/99,Active,3000,SOUTHERN CALIFORNIA EDISON CO  (CA),MILL CREEK                         ,CA
+11175,CROWN MILL                         ,2/28/49,3/19/99,Active,3400,CROWN HYDRO. LLC                   ,MISSISSIPPI RIVER                  ,MN
+2666,MEDWAY                             ,3/31/29,3/29/99,Active,3440,"BLACK BEAR HYDRO PARTNERS, LLC     ",West Branch Penobscot River        ,ME
+1994,SNAKE CREEK                        ,4/30/29,5/7/99,Active,800,HEBER LIGHT & POWER CO         (UT),SNAKE CREEK                        ,UT
+1991,MOYIE RIVER                        ,5/31/29,6/9/99,Active,3938,BONNERS FERRY CITY OF          (ID),MOYIE RIVER                        ,ID
+2556,MESSALONSKEE                       ,6/30/36,7/28/99,Active,5900,"MESSALONSKEE STREAM HYDRO,LLC.     ",MESSALONSKEE STREAM                ,ME
+2555,AUTOMATIC                          ,6/30/36,7/28/99,Active,800,KENNEBEC WATER DISTRICT        (ME),MESSALONSKEE STREAM                ,ME
+2674,VERGENNES                          ,5/31/29,7/30/99,Active,2600,GREEN MOUNTAIN POWER CORP      (VT),OTTER CREEK                        ,VT
+2004,HOLYOKE                            ,8/31/39,8/20/99,Active,43840,CITY OF HOLYOKE GAS & ELECTRIC DEPT,CONNECTICUT RIVER                  ,MA
+11574,OCCUM                              ,8/31/39,9/29/99,Active,800,NORWICH CITY OF                (CT),SHETUCKET RIVER                    ,CT
+597,STAIRS                             ,6/30/30,9/30/99,Active,1200,PACIFICORP                     (OR),BIG COTTONWOOD CREEK               ,UT
+2620,LOCKHART                           ,3/31/40,9/30/99,Active,17124,LOCKHART POWER CO (SC)             ,BROAD RIVER                        ,SC
+1218,FLINT RIVER                        ,10/31/39,9/30/99,Active,5400,GEORGIA POWER CO               (GA),FLINT RIVER                        ,GA
+2058,CLARK FORK                         ,2/28/46,2/23/00,Active,751000,AVISTA CORPORATION                 ,CLARK FORK RIVER                   ,MT
+2588,LITTLE CHUTE                       ,3/31/50,4/11/00,Active,3300,KAUKAUNA CITY OF               (WI),FOX RIVER                          ,WI
+2609,CURTIS/PALMER FALLS                ,4/30/40,4/27/00,Active,58800,CURTIS/PALMER HYDROELECTRIC CO (NY),HUDSON RIVER                       ,NY
+2487,HOOSICK FALLS                      ,4/30/40,5/1/00,Active,830,"HYDRO POWER, INC.  (NJ)            ",HOOSIC RIVER                       ,NY
+2722,PIONEER                            ,8/31/30,5/26/00,Active,5000,PACIFICORP                     (OR),OGDEN RIVER                        ,UT
+420,KETCHIKAN LAKES                    ,7/31/30,8/29/00,Active,4200,KETCHIKAN CITY OF              (AK),KETCHIKAN CREEK                    ,AK
+2032,STRAWBERRY CREEK                   ,8/31/30,9/14/00,Active,1500,"LOWER VALLEY ENERGY, INC.(WY)      ",STRAWBERRY CREEK                   ,WY
+2188,MISSOURI-MADISON                   ,8/31/40,9/27/00,Active,334290,NORTHWESTERN CORPORATION           ,MISSOURI RIVER                     ,MT
+11480,HIILANGAAY PROJECT                 ,9/30/50,10/24/00,Active,5000,"HAIDA ENERGY, INC.                 ",REYNOLDS CR                        ,AK
+2866,LOCKPORT                           ,11/30/31,11/2/00,Active,13500,METROPOLITAN WATER RECLAMATION DIST,ILLINOIS WATERWAY                  ,IL
+11685,STOCKPORT MILL COUNTRY INN         ,11/30/40,12/7/00,Active,235,"STOCKPORT MILL INN, LLC            ",MUSKINGUM RIVER                    ,OH
+2651,ELKHART                            ,12/31/31,1/11/01,Active,3440,INDIANA MICHIGAN POWER CO      (IN),ST JOSEPH RIVER                    ,IN
+2131,KINGSFORD                          ,7/31/40,1/12/01,Active,7200,WISCONSIN ELECTRIC POWER CO    (WI),MENOMINEE RIVER                    ,WI
+2073,MICHIGAMME FALLS                   ,7/31/40,1/12/01,Active,9600,WISCONSIN ELECTRIC POWER CO    (WI),MICHIGAMME RIVER                   ,MI
+2072,LOWER PAINT                        ,7/31/40,1/12/01,Active,100,WISCONSIN ELECTRIC POWER CO    (WI),PAINT RIVER                        ,MI
+1980,QUINNESEC FALLS                    ,7/31/40,1/12/01,Active,19750,WISCONSIN ELECTRIC POWER CO    (WI),MENOMINEE RIVER                    ,WI
+11830,PEAVY FALLS                        ,7/31/40,1/12/01,Active,12000,WISCONSIN ELECTRIC POWER CO    (WI),Michigamme River                   ,MI
+2074,HEMLOCK FALLS                      ,7/31/40,1/12/01,Active,2800,WISCONSIN ELECTRIC POWER CO    (WI),MICHIGAMME RIVER                   ,MI
+1759,WAY DAM &  MICHIGAMME  RESERVOIR   ,7/31/40,1/12/01,Active,1800,WISCONSIN ELECTRIC POWER CO    (WI),MICHIGAMME RIVER                   ,MI
+11831,TWIN FALLS                         ,7/31/40,1/12/01,Active,6144,WISCONSIN ELECTRIC POWER CO    (WI),Menominee River                    ,WI
+1988,HAAS-KINGS RIVER                   ,2/28/41,3/6/01,Active,193160,PACIFIC GAS AND ELECTRIC CO      (C,N FK KINGS R                       ,CA
+2035,GROSS RESERVOIR                    ,2/28/41,3/16/01,Active,7598,DENVER CITY & COUNTY OF        (CO),SOUTH BOULDER CREEK                ,CO
+2566,WEBBER                             ,5/31/41,6/20/01,Active,3250,CONSUMERS ENERGY CO           (MI) ,GRAND RIVER                        ,MI
+11616,PORTLAND MUNICIPAL                 ,5/31/41,6/30/01,Active,375,"CITY OF PORTLAND, MICHIGAN         ",GRAND RIVER                        ,MI
+2737,MIDDLEBURY LOWER                   ,7/31/31,8/1/01,Active,2250,GREEN MOUNTAIN POWER CORP      (VT),OTTER CREEK                        ,VT
+2731,WEYBRIDGE                          ,7/31/31,8/1/01,Active,3000,GREEN MOUNTAIN POWER CORP      (VT),OTTER CREEK                        ,VT
+11150,SMITHVILLE & MIX                   ,7/31/41,8/23/01,Active,702,CAMERON GAS & ELECTRIC CO      (MI),Grand River                        ,MI
+137,MOKELUMNE RIVER                    ,9/30/31,10/11/01,Active,206004,PACIFIC GAS AND ELECTRIC CO      (C,NORTH FORK MOKELUMNE RIVER         ,CA
+2901,HOLCOMB ROCK                       ,9/30/31,10/12/01,Active,1875,HOLCOMB ROCK COMPANY               ,JAMES RIVER                        ,VA
+2902,BIG ISLAND                         ,9/30/31,10/12/01,Active,480,"GP BIG ISLAND, LLC.                ",JAMES RIVER                        ,VA
+1962,ROCK CREEK-CRESTA                  ,9/30/34,10/24/01,Active,195750,PACIFIC GAS AND ELECTRIC CO      (C,NORTH FORK FEATHER RIVER           ,CA
+2385,GLENS FALLS                        ,10/31/41,11/20/01,Active,12100,"FINCH HYDRO HOLDING, LLC.          ",HUDSON RIVER                       ,NY
+11428,MUNICIPAL  DAM                     ,10/31/41,11/29/01,Active,425,"CITY OF ST.LOUIS, MICHIGAN         ",PINE RIVER                         ,MI
+11730,ALVERNO                            ,11/30/41,12/4/01,Active,1100,BLACK RIVER LIMITED PARTNERSHIP    ,Black River                        ,MI
+1984,PETENWELL AND CASTLE ROCK          ,11/30/31,12/7/01,Active,35000,WISCONSIN RIVER POWER CO       (WI),WISCONSIN RIVER                    ,WI
+2103,Cedar Creek                        ,7/31/52,12/7/01,Active,0,COMINCO AMERICAN INC (WA)          ,PEND OREILLE RIVER (CANADA)        ,WA
+2724,CITY OF HAMILTON                   ,11/30/31,12/21/01,Active,1940,HAMILTON CITY OF               (OH),GREAT MIAMI RIVER                  ,OH
+2060,CARRY FALLS                        ,12/31/33,2/13/02,Active,0,"ERIE BOULEVARD HYDROPOWER, L.P.    ",RAQUETTE RIVER                     ,NY
+2330,LOWER RAQUETTE RIVER               ,12/31/33,2/13/02,Active,14080,"ERIE BOULEVARD HYDROPOWER, L.P.    ",RAQUETTE RIVER                     ,NY
+2320,MIDDLE RAQUETTE RIVER              ,12/31/33,2/13/02,Active,48323,"ERIE BOULEVARD HYDROPOWER, L.P.    ",RAQUETTE RIVER                     ,NY
+2084,UPPER RAQUETTE RIVER               ,12/31/33,2/13/02,Active,102389,"ERIE BOULEVARD HYDROPOWER, L.P.    ",RAQUETTE RIVER                     ,NY
+2016,COWLITZ RIVER                      ,4/11/37,3/13/02,Active,466000,CITY OF TACOMA                (WA) ,COWLITZ RIVER                      ,WA
+11516,IRVING                             ,2/28/42,3/27/02,Active,600,COMMONWEALTH POWER COMPANY         ,Thornapple River                   ,MI
+11300,LaBarge                            ,2/28/42,3/27/02,Active,800,COMMONWEALTH POWER COMPANY         ,Thornapple River                   ,MI
+11120,MIDDLEVILLE                        ,2/28/42,3/27/02,Active,350,COMMONWEALTH POWER COMPANY         ,THORNAPPLE RIVER                   ,MI
+3052,BLACK RIVER FALLS                  ,2/28/42,3/27/02,Active,920,BLACK RIVER FALLS CITY OF      (WI),BLACK RIVER                        ,WI
+2694,QUEENS CREEK                       ,2/28/32,3/28/02,Active,1440,"DUKE ENERGY CAROLINAS, LLC.        ",QUEENS CREEK                       ,NC
+2416,WARE SHOALS                        ,3/31/32,4/4/02,Active,6200,"AQUENERGY SYSTEMS, LLC             ",SALUDA RIVER                       ,SC
+2077,FIFTEEN MILE FALLS                 ,3/31/42,4/8/02,Active,319960,TRANSCANADA HYDRO NORTHEAST INC.   ,CONNECTICUT RIVER                  ,VT
+2631,WORONOCO                           ,3/31/42,4/30/02,Active,2700,"WORONOCO HYDRO, LLC                ",WESTFIELD RIVER                    ,MA
+11541,ATLANTA POWER STATION              ,4/30/32,5/9/02,Active,187,ATLANTA POWER COMPANY INC.     (ID),Middle Fork Boise River            ,ID
+1895,COLUMBIA                           ,4/30/42,5/30/02,Active,10600,"CITY OF COLUMBIA, SC               ",CONGAREE RIVER                     ,SC
+11162,PRAIRIE DU SAC                     ,5/31/32,6/27/02,Active,27337,WISCONSIN POWER & LIGHT CO     (WI),WISCONSIN RIVER                    ,WI
+2318,E. J. WEST                         ,8/31/42,9/25/02,Active,20000,"ERIE BOULEVARD HYDROPOWER, L.P.    ",SACANDAGA RIVER                    ,NY
+12252,GREAT SACANDAGA LAKE               ,8/31/42,9/25/02,Active,0,HUDSON/BLACK RIVERS REG DIST (NY)  ,SACANDAGA RIVER                    ,NY
+2047,STEWARTS BRIDGE                    ,8/31/42,9/25/02,Active,30000,"ERIE BOULEVARD HYDROPOWER, L.P.    ",SACANDAGA RIVER                    ,NY
+2554,FEEDER DAM                         ,8/31/42,9/25/02,Active,6000,"ERIE BOULEVARD HYDROPOWER, L.P.    ",HUDSON RIVER                       ,NY
+2482,HUDSON RIVER                       ,8/31/42,9/25/02,Active,81600,"ERIE BOULEVARD HYDROPOWER, L.P.    ",HUDSON RIVER                       ,NY
+10461,WEST BRANCH ST. REGIS RIVER        ,8/31/42,9/27/02,Active,6800,"ERIE BOULEVARD HYDROPOWER, L.P.    ",WEST BRANCH ST. REGIS RIVER        ,NY
+2589,MARQUETTE                          ,9/30/42,10/4/02,Active,3900,MARQUETTE CITY OF              (MI),DEAD RIVER                         ,MI
+10855,DEAD RIVER                         ,9/30/42,10/4/02,Active,11200,UPPER PENINSULA POWER CO       (MI),DEAD RIVER                         ,MI
+11588,KASIDAYA CREEK                     ,9/30/52,10/15/02,Active,3000,ALASKA POWER AND TELEPHONE CO.     ,KASIDAYA CREEK                     ,AK
+6059,FOWLER #7                          ,10/31/32,10/30/02,Active,900,"FOWLER HYDRO, LLC                  ",OSWEGATCHIE RIVER                  ,NY
+6058,HAILESBORO NO 4                    ,12/31/32,10/30/02,Active,1900,"HYDRO DEV GROUP ACQUISITION, LLC.  ",OSWEGATCHIE RIVER                  ,NY
+2661,HAT CREEK                          ,10/31/32,11/4/02,Active,20000,PACIFIC GAS AND ELECTRIC CO      (C,HAT CREEK                          ,CA
+2616,HOOSIC                             ,10/30/42,11/6/02,Active,18500,"ERIE BOULEVARD HYDROPOWER, L.P.    ",HOOSIC R                           ,NY
+2031,BARTHOLOMEW                        ,11/30/32,12/17/02,Active,2000,CITY OF SPRINGVILLE             (UT,HOBBLE CREEK                       ,UT
+11834,UPPER & MIDDLE DAMS STORAGE        ,11/30/52,12/19/02,Active,0,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",RAPID RIVER                        ,ME
+271,CARPENTER-REMMEL                   ,2/28/53,12/30/02,Active,65300,"ENTERGY, ARKANSAS, INC.        (AR)",OUACHITA RIVER                     ,AR
+2670,DELLS                              ,9/30/33,12/31/02,Active,11600,NORTHERN STATES POWER CO       (WI),CHIPPEWA RIVER                     ,WI
+2567,WISSOTA                            ,9/30/33,12/31/02,Active,40380,NORTHERN STATES POWER CO       (WI),CHIPPEWA RIVER                     ,WI
+1982,HOLCOMBE                           ,9/30/33,12/31/02,Active,33750,NORTHERN STATES POWER CO       (WI),CHIPPEWA RIVER                     ,WI
+6418,A J ALLEN                          ,7/31/33,1/2/03,Active,8,BURFORD JUDITH A                   ,EAST BRUSH CREEK                   ,CO
+3410,WOODS LAKE                         ,1/31/33,2/20/03,Active,45,WOODS LAKE HYDRO CO            (CO),LIME CREEK                         ,CO
+1981,STILES                             ,1/31/33,2/26/03,Active,1000,OCONTO ELECTRIC COOP           (WI),OCONTO RIVER                       ,WI
+2687,PIT NO. 1                          ,2/28/43,3/19/03,Active,69300,PACIFIC GAS AND ELECTRIC CO      (C,PIT RIVER                          ,CA
+2782,RED CREEK                          ,3/31/33,4/11/03,Active,500,PAROWAN CITY CORP              (UT),SOUTH FORK RED CREEK               ,UT
+401,MOTTVILLE                          ,9/17/33,4/17/03,Active,1750,INDIANA MICHIGAN POWER CO      (IN),ST JOSEPH RIVER                    ,MI
+346,BLANCHARD                          ,8/24/43,5/29/03,Active,18000,"ALLETE, INC                        ",MISSISSIPPI RIVER                  ,MN
+1932,LYTLE CREEK                        ,5/31/33,6/25/03,Active,500,SOUTHERN CALIFORNIA EDISON CO  (CA),SANTA ANA RIVER                    ,CA
+1933,SANTA ANA RIVER 1 & 3              ,6/30/33,7/8/03,Active,6300,SOUTHERN CALIFORNIA EDISON CO  (CA),SANTA ANA RIVER                    ,CA
+1934,MILL CREEK 2/3                     ,6/30/33,7/22/03,Active,3000,SOUTHERN CALIFORNIA EDISON CO  (CA),MOUNTAIN HOME CREEK                ,CA
+2365,ANSON                              ,4/30/54,7/25/03,Active,9000,MADISON PAPER INDUSTRIES INC   (ME),KENNEBEC RIVER                     ,ME
+2364,ABENAKI                            ,4/30/54,7/25/03,Active,18800,MADISON PAPER INDUSTRIES INC   (ME),KENNEBEC RIVER                     ,ME
+2652,BIGFORK                            ,6/30/53,7/25/03,Active,4150,PACIFICORP                     (OR),SWAN RIVER                         ,MT
+2110,STEVENS POINT                      ,6/30/33,7/30/03,Active,3840,CONSOLIDATED WATER POWER CO    (WI),WISCONSIN RIVER                    ,WI
+2192,BIRON                              ,6/30/33,7/30/03,Active,6232,CONSOLIDATED WATER POWER CO    (WI),WISCONSIN R                        ,WI
+7000,NEWTON FALLS                       ,1/31/44,8/13/03,Active,2220,"ERIE BOULEVARD HYDROPOWER, L.P.    ",OSWEGATCHIE RIVER                  ,NY
+2161,RHINELANDER                        ,7/31/33,8/20/03,Active,2120,"SPECIALTY PAPERS ACQUISITION, LLC  ",WISCONSIN RIVER                    ,WI
+1864,BOND FALLS                         ,7/31/43,8/20/03,Active,12000,UPPER PENINSULA POWER CO       (MI),W BR ONTONAGON R                   ,MI
+201,BLIND SLOUGH                       ,11/12/34,8/27/03,Active,2000,PETERSBURG CITY OF             (AK),CRYSTAL CREEK                      ,AK
+2699,ANGELS                             ,8/31/33,9/3/03,Active,1400,UTICA WATER & POWER AUTHORITY      ,ANGELS CREEK                       ,CA
+11563,UPPER UTICA                        ,8/31/33,9/3/03,Active,0,NORTHERN CALIFORNIA POWER AGNY (CA),SILVER CR                          ,CA
+2019,UTICA                              ,8/31/33,9/3/03,Active,4500,UTICA WATER & POWER AUTHORITY      ,SILVER CREEK                       ,CA
+1354,CRANE VALLEY                       ,8/31/43,9/16/03,Active,28700,PACIFIC GAS AND ELECTRIC CO      (C,WILLOW CREEK                       ,CA
+11797,THREE RIVERS                       ,11/30/36,9/24/03,Active,900,GRANDE POINTE POWER CORPORATION    ,ST. JOSEPH RIVER                   ,MI
+3516,HART                               ,9/30/43,10/2/03,Active,320,HART CITY OF                   (MI),SOUTH BRANCH PENTWATER RIVER       ,MI
+2941,LITTLE FALLS                       ,9/30/43,10/2/03,Active,1000,S D WARREN CO                  (ME),PRESUMPSCOT RIVER                  ,ME
+2897,SACCARAPPA                         ,9/30/43,10/2/03,Active,1350,S D WARREN CO                  (ME),PRESUMPSCOT RIVER                  ,ME
+2942,DUNDEE                             ,9/30/43,10/2/03,Active,2400,S D WARREN CO                  (ME),PRESUMPSCOT RIVER                  ,ME
+2932,MALLISON FALLS                     ,9/30/43,10/2/03,Active,800,S D WARREN CO                  (ME),PRESUMPSCOT RIVER                  ,ME
+2931,GAMBO                              ,9/30/43,10/2/03,Active,1900,S D WARREN CO                  (ME),PRESUMPSCOT RIVER                  ,ME
+5334,FORD LAKE                          ,9/30/33,10/9/03,Active,1920,CHARTER TOWNSHIP OF YPSILANTI      ,HURON RIVER                        ,MI
+2000,ST. LAWRENCE - FDR                 ,9/30/53,10/23/03,Active,912000,NEW YORK POWER AUTHORITY           ,ST. LAWRENCE RIVER                 ,NY
+1273,CENTER CREEK                       ,12/31/34,11/12/03,Active,600,PAROWAN CITY CORP              (UT),CENTER  CREEK (AKA PAROWAN CR)     ,UT
+1927,NORTH UMPQUA                       ,10/31/38,11/18/03,Active,194210,PACIFICORP                     (OR),UMPQUA RIVER                       ,OR
+2306,CLYDE RIVER                        ,10/31/43,11/21/03,Active,4675,GREAT BAY HYDRO CORP               ,CLYDE RIVER                        ,VT
+2964,STURGIS DAM                        ,11/30/36,11/28/03,Active,2720,STURGIS CITY OF                (MI),ST. JOSEPH RIVER                   ,MI
+2017,BIG CREEK NO 4                     ,11/30/39,12/4/03,Active,98822,SOUTHERN CALIFORNIA EDISON CO  (CA),SAN JOAQUIN RIVER                  ,CA
+11566,DAMARISCOTTA MILLS                 ,11/30/33,12/4/03,Active,460,KEI (MAINE) POWER MGMT (IV) LLC    ,DAMARISCOTTA RIVER                 ,ME
+20,BEAR RIVER                         ,11/30/33,12/22/03,Active,77450,PACIFICORP                     (OR),BEAR RIVER                         ,ID
+12379,LAKE DOROTHY                       ,11/30/53,12/24/03,Active,14300,ALASKA ELECTRIC LIGHT&POWER CO (AK),LAKE DOROTHY                       ,AK
+2142,INDIAN POND                        ,10/31/36,1/14/04,Active,76400,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",KENNEBEC RIVER                     ,ME
+2056,ST. ANTHONY FALLS                  ,2/28/34,3/8/04,Active,14245,NORTHERN STATES POWER CO       (MN),MISSISSIPPI RIVER                  ,MN
+3090,VAIL                               ,2/28/34,3/11/04,Active,350,LYNDONVILLE VILLAGE OF         (VT),PASSUMPSIC RIVER                   ,VT
+2612,FLAGSTAFF STORAGE                  ,2/29/36,3/30/04,Active,0,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",DEAD RIVER                         ,ME
+2009,ROANOKE RAPIDS & GASTON            ,2/29/44,3/31/04,Active,329000,VIRGINIA ELECTRIC & POWER CO   (VA),ROANOKE RIVER                      ,VA
+11472,BURNHAM                            ,10/31/36,4/7/04,Active,1050,KEI (MAINE) POWER MGMT (II) LLC    ,SEBASTICOOK RIVER                  ,ME
+469,WINTON                             ,3/31/44,4/15/04,Active,4000,"ALLETE, INC                        ",KAWISHIWI RIVER                    ,MN
+1960,FLAMBEAU                           ,1/31/37,4/15/04,Active,16320,DAIRYLAND POWER COOP           (WI),FLAMBEAU RIVER                     ,WI
+2517,DAM NO. 5 HYDRO STATION            ,4/30/34,5/12/04,Active,1210,"PE HYDRO GENERATION, LLC.          ",POTOMAC RIVER                      ,WV
+2516,DAM NO. 4 HYDRO STATION            ,4/30/34,5/12/04,Active,1900,"PE HYDRO GENERATION, LLC.          ",POTOMAC RIVER                      ,WV
+719,TRINITY                            ,5/31/44,5/27/04,Active,240,TRINITY CONSERVANCY INC        (WA),PHELPS CREEK                       ,WA
+7725,BARTON VILLAGE                     ,10/1/43,6/9/04,Active,1400,BARTON VILLAGE INC             (VT),CLYDE RIVER                        ,VT
+2576,HOUSATONIC RIVER PROJECT (PS&CON)  ,5/31/44,6/23/04,Active,114900,FIRSTLIGHT HYDRO GENERATING CO.    ,HOUSATONIC RIVER                   ,CT
+2493,SNOQUALMIE FALLS                   ,5/31/44,6/29/04,Active,54400,"PUGET SOUND ENERGY, INC.(WA)       ",SNOQUALMIE RIVER                   ,WA
+2778,SHOSHONE FALLS                     ,7/31/34,8/4/04,Active,60875,IDAHO POWER CO                 (ID),SNAKE RIVER                        ,ID
+2061,LOWER SALMON FALLS                 ,7/31/34,8/4/04,Active,60000,IDAHO POWER CO                 (ID),SNAKE RIVER                        ,ID
+2777,UPPER SALMON FALLS                 ,7/31/34,8/4/04,Active,34500,IDAHO POWER CO                 (ID),SNAKE RIVER                        ,ID
+2055,C J STRIKE                         ,7/31/34,8/4/04,Active,82800,IDAHO POWER CO                 (ID),Snake River                        ,ID
+1975,BLISS                              ,7/31/34,8/4/04,Active,68850,IDAHO POWER CO                 (ID),SNAKE RIVER                        ,ID
+2835,RAINBOW FALLS                      ,7/31/44,8/18/04,Active,2640,NEW YORK STATE ELEC & GAS CORP (NY),BLACK BROOK                        ,NY
+309,PINEY                              ,8/31/34,9/3/04,Active,29080,BROOKFIELD POWER PINEY & DEEP CREEK,CLARION RIVER                      ,PA
+372,LOWER TULE RIVER                   ,8/31/34,9/3/04,Active,2520,SOUTHERN CALIFORNIA EDISON CO  (CA),MIDDLE FORK TULE RIVER             ,CA
+11659,FALLS CREEK                        ,9/30/54,10/29/04,Active,800,"ALASKA POWER COMPANY, INC.         ",FALLS CREEK (A.K.A. KAHTAHEENA R.) ,AK
+1413,BUFFALO RIVER                      ,10/31/44,11/5/04,Active,250,FALL RIVER RURAL ELEC COOP INC (ID),HENRY'S FORK RIVER                 ,ID
+362,FORD                               ,10/31/34,11/18/04,Active,17920,"TWIN CITIES HYDRO, LLC.            ",MISSISSIPPI RIVER                  ,MN
+2474,OSWEGO RIVER                       ,10/31/44,11/30/04,Active,18050,"ERIE BOULEVARD HYDROPOWER, L.P.    ",OSWEGO RIVER                       ,NY
+2634,STORAGE                            ,11/30/54,12/22/04,Active,0,GREAT LAKES HYDRO AMERICA. LLC.    ,WEST BRANCH PENOBSCOT RIVER        ,ME
+2177,MIDDLE CHATTAHOOCHEE               ,12/31/34,12/27/04,Active,129300,GEORGIA POWER CO               (GA),CHATTAHOOCHEE RIVER                ,GA
+2720,STURGEON FALLS                     ,12/31/34,1/6/05,Active,5136,NORWAY CITY OF                 (MI),MENOMINEE RIVER                    ,WI
+2180,GRANDMOTHER FALLS                  ,12/31/34,1/6/05,Active,3000,PCA HYDRO INC                  (IL),WISCONSIN RIVER                    ,WI
+2169,BROOKFIELD SMOKY MOUNTAIN HYDRO    ,2/28/45,1/25/05,Active,377700,BROOKFIELD SMOKY MOUNTAIN HYD LLC  ,LITTLE TENNESSEE RIVER             ,TN
+1979,ALEXANDER                          ,2/28/35,3/4/05,Active,4200,WISCONSIN PUBLIC SERVICE CORP  (WI),WISCONSIN RIVER                    ,WI
+2574,LOCKWOOD                           ,10/31/36,3/4/05,Active,6915,MERIMIL LTD PARTNERSHIP        (ME),KENNEBEC RIVER                     ,ME
+4914,DE PERE                            ,2/28/35,3/10/05,Active,1080,"THILMANY, LLC.                     ",FOX RIVER                          ,WI
+2726,UPPER AND LOWER MALAD              ,2/28/35,3/25/05,Active,21770,IDAHO POWER CO                 (ID),MALAD RIVER                        ,ID
+2207,MOSINEE                            ,3/31/35,4/7/05,Active,3050,"SPECIALTY PAPERS ACQUISITION, LLC  ",WISCONSIN RIVER                    ,WI
+12449,BIG FALLS MILLDAM                  ,3/31/35,4/26/05,Active,350,NESHKORO POWER ASSOCIATES      (WI),LITTLE WOLF RIVER                  ,WI
+2697,CEDAR FALLS                        ,4/30/35,5/4/05,Active,6000,NORTHERN STATES POWER CO       (WI),RED CEDAR RIVER                    ,WI
+2181,MENOMONIE                          ,4/30/35,5/25/05,Active,5400,NORTHERN STATES POWER CO       (WI),RED CEDAR RIVER                    ,WI
+287,DAYTON                             ,5/31/35,6/1/05,Active,3680,"MIDWEST HYDRO, LLC                 ",FOX RIVER                          ,IL
+632,LOWER MONROE                       ,1/31/36,6/2/05,Active,250,MONROE CITY CITY OF            (UT),MONROE CREEK                       ,UT
+2205,LAMOILLE                           ,5/31/35,6/20/05,Active,21050,GREEN MOUNTAIN POWER CORP      (VT),LAMOILLE RIVER                     ,VT
+2030,PELTON ROUND BUTTE                 ,5/31/55,6/21/05,Active,370650,CONFED TRIBES OF WARM SPRINGS RES'N,DESCHUTES RIVER                    ,OR
+487,WALLENPAUPACK                      ,6/30/45,7/8/05,Active,44000,"HOLTWOOD,LLC                       ",WALLENPAUPACK CREEK                ,PA
+2042,BOX CANYON                         ,6/30/55,7/11/05,Active,72000,PUD NO 1 OF PEND OREILLE CNTY  (WA),PEND OREILLE RIVER                 ,WA
+2064,WINTER                             ,7/31/45,8/12/05,Active,600,FLAMBEAU HYDRO LLC.                ,EAST FORK CHIPPEWA RIVER           ,WI
+7264,MIDDLE APPLETON DAM                ,7/31/35,8/31/05,Active,1190,"N.E.W. HYDRO, LLC.                 ",LOWER FOX RIVER                    ,WI
+289,OHIO FALLS                         ,10/31/45,10/27/05,Active,100656,LOUISVILLE GAS & ELECTRIC CO   (KY),OHIO RIVER                         ,KY
+7387,PIERCEFIELD                        ,10/31/45,10/27/05,Active,2700,"ERIE BOULEVARD HYDROPOWER, L.P.    ",RAQUETTE RIVER                     ,NY
+2935,ENTERPRISE MILL                    ,10/31/55,11/17/05,Active,1200,"MELAVER/ENTERPRISE MILL, LLC.      ",SAVANNAH RIVER                     ,GA
+5044,SIBLEY MILL                        ,10/31/55,11/17/05,Active,2475,AUGUSTA CANAL AUTHORITY            ,SAVANNAH RIVER                     ,GA
+2710,ORONO                              ,3/31/48,12/8/05,Active,6518,"BLACK BEAR DEVELOPMENT HOLDINGS,LLC",STILLWATER BRANCH PENOBSCOT RIVER  ,ME
+2233,WILLAMETTE FALLS                   ,11/30/35,12/8/05,Active,16680,PORTLAND GENERAL ELECTRIC CO   (OR),WILLAMETTE RIVER                   ,OR
+6514,CITY OF MARSHALL                   ,11/30/35,12/22/05,Active,319,MARSHALL CITY OF               (MI),KALAMAZOO RIVER                    ,MI
+2738,SARANAC RIVER                      ,4/12/46,1/19/06,Active,38910,NEW YORK STATE ELEC & GAS CORP (NY),SARANAC RIVER                      ,NY
+2005,BEARDSLEY/DONNELLS                 ,12/31/46,1/30/06,Active,82500,OAKDALE & SOUTH SAN JOAQUIN IRR DIS,MIDDLE FORK STANISLAUS RIVER       ,CA
+620,CHIGNIK                            ,1/31/36,2/8/06,Active,60,"CITY OF CHIGNIK, AK                ",INDIAN CREEK                       ,AK
+2067,TULLOCH                            ,12/31/46,2/16/06,Active,24100,OAKDALE & SOUTH SAN JOAQUIN IRR DIS,STANISLAUS RIVER                   ,CA
+12451,Lower St. Anthony Falls            ,1/31/56,2/21/06,Active,8980,"SAF HYDROELECTRIC, LLC.            ",MISSISSIPPI RIVER                  ,MN
+2118,DONNELLS-CURTIS T. L.              ,12/31/46,3/3/06,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+382,BOREL                              ,4/30/46,5/17/06,Active,12000,SOUTHERN CALIFORNIA EDISON CO  (CA),KERN RIVER                         ,CA
+2586,CONECUH RIVER                      ,5/31/36,6/22/06,Active,8250,"POWERSOUTH ENERGY COOPERATIVE, INC ",CONECUH RIVER                      ,AL
+7321,MACOMB                             ,11/30/41,6/23/06,Active,1000,"ERIE BOULEVARD HYDROPOWER, L.P.    ",SALMON RIVER                       ,NY
+9185,CLAM RIVER                         ,3/31/37,7/24/06,Active,1200,FLAMBEAU HYDRO LLC.                ,CLAM RIVER                         ,WI
+12598,UPPER TURNBULL DROP                ,6/30/56,7/28/06,Active,5300,"TURNBULL HYDRO, LLC.               ",SPRING VALLEY CANAL                ,MT
+12597,LOWER TURNBULL DROP                ,6/30/56,7/28/06,Active,7700,"TURNBULL HYDRO, LLC.               ",SPRING VALLEY CANAL                ,MT
+2183,MARKHAM FERRY                      ,7/31/36,8/9/06,Active,127500,GRAND RIVER DAM AUTHORITY      (OK),GRAND RIVER                        ,OK
+7758,HOLYOKE NUMBER 4                   ,8/31/39,8/15/06,Active,750,HOLYOKE CITY OF                (MA),HOLYOKE CANAL SYSTEM               ,MA
+9184,DANBURY DAM                        ,6/9/37,9/5/06,Active,1076,FLAMBEAU HYDRO LLC.                ,YELLOW RIVER                       ,WI
+184,EL DORADO                          ,9/30/46,10/18/06,Active,21000,EL DORADO IRRIGATION DISTRICT  (CA),SOUTH FORK OF THE AMERICAN RIVER   ,CA
+637,LAKE CHELAN                        ,10/31/56,11/6/06,Active,59200,PUD NO 1 OF CHELAN COUNTY      (WA),LAKE CHELAN                        ,WA
+2283,GULF ISLAND - DEER RIPS            ,12/31/48,1/19/07,Active,37232,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",ANDROSCOGGIN RIVER                 ,ME
+2539,SCHOOL STREET                      ,1/31/47,2/15/07,Active,38800,"ERIE BOULEVARD HYDROPOWER, L.P.    ",MOHAWK R                           ,NY
+2216,ROBERT MOSES-NIAGARA (PS&CON)      ,8/31/57,3/15/07,Active,2755500,NEW YORK POWER AUTHORITY           ,NIAGARA RIVER                      ,NY
+459,OSAGE                              ,2/28/47,3/30/07,Active,242590,UNION ELECTRIC CO              (MO),OSAGE                              ,MO
+12766,Clay Hill Road Line 66 Transmission,11/30/21,5/15/07,Active,0,GREEN MOUNTAIN POWER CORP      (VT),OTTAUQUECHEE RIVER                 ,VT
+1893,MERRIMACK RIVER                    ,4/30/47,5/18/07,Active,29900,PUBLIC SERVICE CO OF NH        (NH),MERRIMACK RIVER                    ,NH
+233,"PIT 3, 4, & 5                      ",6/30/43,7/2/07,Active,315210,PACIFIC GAS AND ELECTRIC CO      (C,PIT RIVER                          ,CA
+2230,BLUE LAKE                          ,3/31/38,7/10/07,Active,16900,SITKA CITY OF & BOROUGH OF     (AK),SAWMILL CR                         ,AK
+1051,SKAGWAY-DEWEY LAKES                ,8/29/37,8/17/07,Active,943,ALASKA POWER & TELEPHONE CO    (WA),SNYDER CREEK                       ,AK
+2170,COOPER LAKE                        ,7/31/57,8/24/07,Active,19380,CHUGACH ELECTRIC ASSN INC      (AK),KENAI LAKE                         ,AK
+2219,BOULDER CREEK                      ,6/30/40,8/31/07,Active,4300,"GARKANE ENERGY COOPERATIVE, INC.   ",WEST FORK BOULDER CREEK            ,UT
+12514,NORWAY-OAKDALE                     ,9/30/37,10/2/07,Active,16400,NORTHERN INDIANA PUBLIC SERVICE CO.,TIPPECANOE RIVER                   ,IN
+2301,MYSTIC LAKE                        ,12/31/50,12/17/07,Active,12000,NORTHWESTERN CORPORATION           ,WEST ROSEBUD CREEK                 ,MT
+2630,"PROSPECT NOS. 1,2, AND 4           ",3/31/38,4/8/08,Active,41560,PACIFICORP                     (OR),ROGUE RIVER                        ,OR
+2114,PRIEST RAPIDS                      ,3/31/52,4/17/08,Active,1410000,PUD NO 2 OF GRANT COUNTY       (WA),COLUMBIA RIVER                     ,WA
+925,OTTUMWA                            ,4/30/38,4/30/08,Active,3200,OTTUMWA CITY OF                (IA),DES MOINES RIVER                   ,IA
+2237,MORGAN FALLS                       ,2/28/39,5/22/08,Active,16800,GEORGIA POWER CO               (GA),CHATTAHOOCHEE RIVER                ,GA
+906,CUSHAW                             ,6/15/38,6/13/08,Active,7500,VIRGINIA ELECTRIC & POWER CO   (VA),JAMES RIVER                        ,VA
+12667,MELDAHL                            ,5/21/58,6/25/08,Active,105000,"AMERICAN MUNICIPAL POWER, INC      ",OHIO RIVER                         ,OH
+935,MERWIN                             ,5/31/58,6/26/08,Active,136000,PACIFICORP                     (OR),LEWIS RIVER                        ,WA
+2111,SWIFT NO. 1                        ,5/31/58,6/26/08,Active,240000,PACIFICORP                     (OR),NORTH FORK LEWIS RIVER             ,WA
+2071,YALE                               ,5/31/58,6/26/08,Active,134000,PACIFICORP                     (OR),North Fork Lewis River             ,WA
+2213,SWIFT NO 2                         ,5/31/58,6/26/08,Active,66800,PUD NO 1 OF COWLITZ COUNTY     (WA),LEWIS RIVER                        ,WA
+11879,Chester Diversion Dam              ,6/30/48,7/23/08,Active,3300,FALL RIVER RURAL ELEC COOP INC (ID),Henry's Fork River                 ,Id
+946,HYRUM                              ,7/31/38,8/1/08,Active,400,HYRUM CITY CORP                (UT),BLACKSMITH FORK RIVER              ,UT
+2194,BAR MILLS                          ,7/31/48,8/26/08,Active,4000,"BROOKFIELD WHITE PINE HYDRO, LLC.  ",SACO RIVER                         ,ME
+2153,SANTA FELICIA                      ,8/31/48,9/12/08,Active,1420,UNITED WATER CONSERVATION DIST (CA),PIRU CREEK                         ,CA
+2150,BAKER                              ,9/30/58,10/17/08,Active,170030,"PUGET SOUND ENERGY, INC.(WA)       ",BAKER RIVER                        ,WA
+11945,Dorena Lake Dam                    ,9/30/58,10/17/08,Active,7500,"DORENA HYDRO, LLC.                 ",Row River                          ,OR
+659,LAKE BLACKSHEAR                    ,10/31/38,11/28/08,Active,15200,CRISP COUNTY POWER COMM        (GA),FLINT RIVER                        ,GA
+7528,CANAAN                             ,7/31/39,1/16/09,Active,1100,PUBLIC SERVICE CO OF NH        (NH),CONNECTICUT RIVER                  ,VT
+2145,ROCKY REACH                        ,1/31/52,2/19/09,Active,865760,PUD NO 1 OF CHELAN COUNTY      (WA),COLUMBIA RIVER                     ,WA
+11475,CARVER FALLS                       ,1/31/39,2/25/09,Active,2251,GREEN MOUNTAIN POWER CORP      (VT),POULTNEY RIVER                     ,VT
+178,KERN CANYON                        ,1/31/39,2/25/09,Active,11475,PACIFIC GAS AND ELECTRIC CO      (C,KERN RIVER                         ,CA
+11478,SILVER LAKE                        ,1/31/39,2/26/09,Active,2200,GREEN MOUNTAIN POWER CORP      (VT),SUCKER BROOK                       ,VT
+11841,WHITMAN LAKE                       ,2/28/59,3/17/09,Active,4600,KETCHIKAN PUBLIC UTILITIES         ,Whitman Creek                      ,Ak
+2130,SPRING GAP-STANISLAUS              ,3/31/47,4/24/09,Active,90750,PACIFIC GAS AND ELECTRIC CO      (C,STANISLAUS RIVER                   ,CA
+2545,SPOKANE RIVER                      ,5/31/59,6/18/09,Active,146870,AVISTA CORPORATION                 ,SPOKANE RIVER                      ,WA
+2801,GLENDALE                           ,10/31/49,8/19/09,Active,1140,LITTLEVILLE POWER CO INC       (MA),HOUSATONIC RIVER                   ,MA
+733,OURAY                              ,4/12/40,9/2/09,Active,632,JACOBSON ERIC R                    ,UNCOMPAHGRE RIVER                  ,CO
+13301,CULINARY WATER SYSTEM              ,9/30/49,10/9/09,Active,225,"TOWN OF AFTON, WY                  ",CULINARY WATER SUPPY SYSTEM        ,WY
+2210,SMITH MOUNTAIN (PS&CON)            ,3/31/39,12/15/09,Active,636000,APPALACHIAN POWER CO           (VA),ROANOKE(STAUNTON) R                ,VA
+785,CALKINS BRIDGE                     ,4/10/40,1/15/10,Active,2550,CONSUMERS ENERGY CO           (MI) ,KALAMAZOO RIVER                    ,MI
+12589,TACOMA                             ,6/30/50,1/29/10,Active,8000,PUBLIC SERVICE CO OF COLORADO  (CO),CASCADE CREEK                      ,CO
+2165,WARRIOR RIVER                      ,2/28/40,3/31/10,Active,211485,ALABAMA POWER CO               (AL),SIPSEY FORK                        ,AL
+400,AMES                               ,6/30/50,5/19/10,Active,3500,PUBLIC SERVICE CO OF COLORADO  (CO),SAN MIGUEL RIVER                   ,CO
+2281,WOODLEAF KANAKA T. L.              ,5/31/40,6/10/10,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,South Fork Feather River           ,CA
+4851,SLY CREEK T. L.                    ,5/31/40,6/10/10,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,South Fork Feather River           ,CA
+12107,FLINT CREEK                        ,6/30/50,7/8/10,Active,2000,"GRANITE COUNTY, MT                 ",Flint Creek                        ,MT
+6885,CINNAMON RANCH                     ,7/31/40,8/6/10,Active,175,MOSS RICHARD                       ,MIDDLE CREEK                       ,CA
+13569,ARROW CANYON CONDUIT ENERGY RECOVER,7/31/50,8/19/10,Active,500,SOUTHERN NEVADA WATER AUTHORITY    ,COYOTE SPRING VALLEY WELL          ,NV
+13526,EXPANDED KANSAS RIVER              ,7/31/60,8/19/10,Active,6500,BOWERSOCK MILLS & POWER CO (KS)    ,KANSAS RIVER                       ,KS
+2211,MARKLAND                           ,4/30/61,9/7/10,Active,64800,"DUKE ENERGY INDIANA, INC.          ",OHIO RIVER                         ,IN
+12628,CEDAR LAKE                         ,9/30/40,10/27/10,Active,800,"NASHUA, CITY OF                (IA)",CEDAR RIVER                        ,IA
+2195,CLACKAMAS RIVER                    ,2/28/46,12/21/10,Active,137645,PORTLAND GENERAL ELECTRIC CO   (OR),OAK GROVE FORK OF CLACKAMAS RIVER  ,OR
+12555,MAHONING CREEK                     ,2/28/61,3/4/11,Active,6000,"MAHONING CREEK HYDRO COMPANY, LLC. ",MAHONING CREEK                     ,PA
+2594,LAKE CREEK                         ,11/30/41,4/14/11,Active,4500,NORTHERN LIGHTS INC            (ID),LAKE CREEK                         ,MT
+12576,RED ROCK                           ,3/31/61,4/18/11,Active,36400,WESTERN MINNESOTA MUN PWR AGNY     ,DES MOINES RIVER                   ,IA
+12775,SPEARFISH                          ,3/31/41,4/21/11,Active,4000,"CITY OF SPEARFISH, SD              ",SPEARFISH CREEK                    ,SD
+2698,EAST FORK                          ,4/30/41,5/4/11,Active,24280,"DUKE ENERGY CAROLINAS, LLC.        ",WOLF CREEK                         ,NC
+2686,WEST FORK                          ,4/30/41,5/4/11,Active,19525,"DUKE ENERGY CAROLINAS, LLC.        ",WEST FORK TUCKASEGEE RIVER         ,NC
+2677,Badger-Rapide Croche               ,4/30/61,5/18/11,Active,9800,KAUKAUNA CITY OF               (WI),FOX RIVER                          ,WI
+13797,OURAY WATER SUPPLY SMALL CONDUIT   ,6/30/51,7/7/11,Active,20,"CITY OF OURAY, CO                  ",WEEHAWKEN SPRING                   ,CO
+2621,PACOLET                            ,2/1/52,7/20/11,Active,1900,LOCKHART POWER CO (SC)             ,PACOLET RIVER                      ,SC
+2601,BRYSON                             ,6/30/41,7/22/11,Active,980,"DUKE ENERGY CAROLINAS, LLC.        ",OCONALUFTEE RIVER                  ,NC
+12632,LAKE LIVINGSTON                    ,7/31/61,8/26/11,Active,24000,"EAST TEXAS ELECTRIC COOP, INC.     ",LAKE LIVINGSTON & TRINITY RIVER    ,TX
+2157,HENRY M JACKSON (SULTAN)           ,8/31/56,9/2/11,Active,111800,PUD NO 1 OF SNOHOMISH COUNTY   (WA),SULTAN RIVER                       ,WA
+2851,NATURAL DAM                        ,5/1/52,9/6/11,Active,1020,DUNN PAPER                         ,ST. LAWRENCE RIVER                 ,NY
+2603,FRANKLIN                           ,8/31/41,9/7/11,Active,1040,"DUKE ENERGY CAROLINAS, LLC.        ",LITTLE TENNESSEE RIVER             ,NC
+2619,MISSION                            ,9/30/41,10/25/11,Active,1800,"DUKE ENERGY CAROLINAS, LLC.        ",HIWASSEE RIVER                     ,NC
+12492,MINER SHOAL WATERPOWER             ,11/30/41,12/8/11,Active,1200,"HA-BEST, INC.                      ",SOQUE RIVER                        ,GA
+13351,MARSEILLES LOCK & DAM              ,11/30/61,12/15/11,Active,10260,MARSEILLES LAND & WATER COMPANY    ,ILLINOIS RIVER                     ,IL
+739,CLAYTOR                            ,11/30/41,12/27/11,Active,75000,APPALACHIAN POWER CO           (VA),NEW RIVER                          ,VA
+13829,CREASEY                            ,12/31/52,1/5/12,Active,20,DAVID CREASEY                      ,LINCOLN CREEK                      ,ID
+2850,EMERYVILLE                         ,5/31/52,1/6/12,Active,3481,HAMPSHIRE PAPER CO INC         (NY),ST. LAWRENCE RIVER                 ,NY
+12478,GIBSON DAM                         ,12/31/62,1/12/12,Active,15000,"GIBSON DAM HYDROELECTRIC CO.,LLC   ","NORTH FORK, SUN RIVER              ",MT
+12611,ROOSEVELT ISLAND TIDAL ENERGY      ,12/31/22,1/23/12,Active,1050,"VERDANT POWER, LLC.                ",EAST RIVER                         ,NY
+12740,FLANNAGAN                          ,12/31/62,1/27/12,Active,1800,JORDAN HYDROELECTRIC L.P.          ,POUND RIVER                        ,VA
+2692,NANTAHALA                          ,1/31/42,2/8/12,Active,42000,"DUKE ENERGY CAROLINAS, LLC.        ",WHITE OAK CREEK                    ,NC
+12711,COBSCOOK BAY TIDAL ENERGY          ,1/31/22,2/27/12,Active,300,"ORPC MAINE, LLC.                   ",COBSCOOK RIVER                     ,ME
+12737,GATHRIGHT                          ,2/28/62,3/13/12,Active,3700,JORDAN HYDROELECTRIC L.P.          ,JACKSON RIVER                      ,VA
+13368,TOWNSHEND DAM                      ,2/28/62,3/29/12,Active,924,"BLUE HERON HYDRO, LLC.             ",WEST RIVER                         ,VT
+13226,BALL MOUNTAIN DAM                  ,3/31/62,4/12/12,Active,2196,"BLUE HERON HYDRO, LLC.             ",WEST RIVER                         ,VT
+12715,JENNINGS RANDOLPH                  ,3/31/62,4/30/12,Active,14000,"FAIRLAWN HYDROELECTRIC CO,.LLC     ",POTOMAC RIVER                      ,WV
+12642,W. KERR SCOTT                      ,6/30/52,7/17/12,Active,4000,"WILKESBORO HYDROPOWER, LLC.        ",YADKIN RIVER                       ,NC
+2479,FRENCH MEADOWS T. L.               ,2/28/42,7/18/12,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+9988,JOHN P. KING MILL                  ,10/31/55,8/3/12,Active,2125,AUGUSTA CANAL AUTHORITY            ,SAVANAH RIVER                      ,GA
+12713,REEDSPORT OPT WAVE PARK            ,7/31/47,8/13/12,Active,1500,"REEDSPORT OPT WAVE PARK, LLC.      ",PACIFIC OCEAN                      ,OR
+13,GREEN ISLAND                       ,7/31/62,8/17/12,Active,4800,ALBANY ENGINEERING CORP            ,HUDSON R                           ,NY
+2784,ROLLINS T. L.                      ,4/30/43,8/27/12,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+13237,CROCKER                            ,8/31/52,9/5/12,Active,145,"WHITMAN RIVER DAM, INC.            ",WHITMAN RIVER                      ,MA
+176,ESCONDIDO                          ,6/24/74,9/25/12,Expired,1500,ESCONDIDO CITY OF              (CA),SAN LUIS REY R                     ,CA
+503,SWAN FALLS                         ,8/31/42,9/28/12,Active,25000,IDAHO POWER CO                 (ID),SNAKE RIVER                        ,ID
+2149,WELLS                              ,10/31/52,11/9/12,Active,774250,PUD NO 1 OF DOUGLAS COUNTY (WA)    ,COLUMBIA RIVER                     ,WA
+2713,OSWEGATCHIE RIVER                  ,12/31/52,11/26/12,Active,28560,"ERIE BOULEVARD HYDROPOWER, L.P.    ",OSWEGATCHIE R                      ,NY
+13417,ANGELO DAM                         ,11/30/52,12/28/12,Active,205,WESTERN TECHNICAL COLLEGE          ,LA CROSSE RIVER                    ,WI
+14066,GARTINA FALLS                      ,12/31/62,1/29/13,Active,450,INSIDE PASSAGE ELECTRIC COOPERATIVE,GARTINA CREEK                      ,AK
+2144,BOUNDARY                           ,2/28/55,3/20/13,Active,1003253,SEATTLE CITY OF                (WA),PEND OREILLE RIVER                 ,WA
+2696,STUYVESANT FALLS                   ,3/31/43,4/5/13,Active,4320,ALBANY ENGINEERING CORP            ,KINDERHOOK CR                      ,NY
+14154,LITTLE WOOD RIVER RANCH ll         ,3/31/63,4/16/13,Active,1230,WILLIAM ARKOOSH                    ,LITTLE WOOD RIVER                  ,ID
+14308,VERMONT TISSUE MILL                ,3/31/43,4/25/13,Active,360,"CARBON ZERO, LLC                   ",WALLOOMSAC RIVER                   ,VT
+2309,YARDS CREEK PUMPED STORAGE         ,4/30/53,5/9/13,Active,364500,JERSEY CENTRAL POWER&LIGHT CO  (NJ),YARDS CREEK                        ,NJ
+2146,COOSA RIVER                        ,5/31/43,6/20/13,Active,960900,ALABAMA POWER CO               (AL),COOSA RIVER                        ,GA
+12569,ENLOE PROJECT                      ,6/30/63,7/9/13,Active,9000,PUD NO 1 OF OKANOGAN COUNTY    (WA),SIMILKAMEEN RIVER                  ,WA
+13124,ALLISON CREEK                      ,7/31/63,8/1/13,Active,6500,COPPER VALLEY ELECTRIC ASSN.       ,ALLISON LAKE                       ,AK
+2662,SCOTLAND                           ,10/31/53,11/21/13,Active,3026,FIRSTLIGHT HYDRO GENERATING CO.    ,SHETUCKET RIVER                    ,CT
+1175,LONDON/MARMET                      ,1/31/64,12/20/13,Active,28800,APPALACHIAN POWER CO           (VA),KANAWHA RIVER                      ,WV
+1290,WINFIELD                           ,1/31/64,1/31/14,Active,14760,APPALACHIAN POWER CO           (VA),KANAWHA RIVER                      ,WV
+14327,HUMBOLDT RIVER                     ,12/31/64,1/31/14,Active,750,PERSHING CNTY WATER CONSERVATION DI,HUMBOLDT RIVER                     ,NV
+13160,OVERTON LOCK & DAM                 ,3/31/64,4/2/14,Active,78000,"RED RIVER HYDRO, LLC.              ",RED RIVER                          ,LA
+12756,RED RIVER LOCK & DAM No. 3         ,3/31/64,4/14/14,Active,36200,BOST3 HYDROELECTRIC LLC            ,RED RIVER                          ,LA
+13011,LAKE SHELBYVILLE                   ,3/31/64,4/18/14,Active,6800,"SHELBYVILLE HYDRO, LLC.            ",KASKASKIA RIVER                    ,IL
+14367,GILBERT PROJECT                    ,4/30/54,5/12/14,Active,90,"DON W. GILBERT HYDRO POWER, LLC.   ",BEAR RIVER                         ,ID
+13287,CANNONSVILLE                       ,4/30/64,5/13/14,Active,14080,CITY OF  NEW YORK             (NY) ,WEST BRANCH DELAWARE RIVER         ,NY
+6597,MONADNOCK PAPER MILLS              ,7/31/44,5/23/14,Active,1889,MONADNOCK PAPER MILLS INC      (NH),CONTOOCOOK RIVER                   ,NH
+2351,CABIN CREEK PUMPED STORAGE         ,4/30/54,5/27/14,Active,336000,PUBLIC SERVICE CO OF COLORADO  (CO),SOUTH CLEAR CREEK                  ,CO
+13123,EAGLE MOUNTAIN PUMPED STORAGE      ,5/31/64,6/19/14,Active,1300000,EAGLE CREST ENERGY CO.             ,CLOSED-LOOP                        ,CA
+2277,TAUM SAUK PUMPED STORAGE           ,6/30/44,7/17/14,Active,442500,AMEREN MISSOURI                    ,EAST FORK BLACK RIVER              ,MO
+2101,UPPER AMERICAN RIVER (PS&CON)      ,6/30/64,7/23/14,Active,1037300,SACRAMENTO MUNICIPAL UTIL DIST (CA),SOUTH FORK AMERICAN R              ,CA
+1992,FIRE MOUNTAIN LODGE                ,7/31/44,8/4/14,Active,50,WILLIS KEN                         ,FERN SPRINGS CREEK                 ,CA
+2155,CHILI BAR                          ,6/30/64,8/20/14,Active,7000,PACIFIC GAS AND ELECTRIC CO      (C,SOUTH FORK AMERICAN RIVER          ,CA
+2305,TOLEDO BEND                        ,7/31/64,8/29/14,Active,82300,SABINE RIVER AUTHORITY-LA & TX (TX),SABINE RIVER                       ,TX
+14537,ANTRIM MICRO                       ,8/31/44,9/3/14,Active,40,ANTRIM TREATMENT TRUST             ,SUSQUEHANNA RIVER                  ,PA
+13346,WILLIAMS DAM                       ,8/31/64,9/8/14,Active,4000,"PAYNEBRIDGE, LLC.                  ",WHITE RIVER                        ,IN
+13953,LAKE MILTON                        ,8/31/64,9/26/14,Active,650,"MAHONING HYDROPOWER, LLC           ",MAHONING RIVER                     ,OH
+12790,POMPERAUG                          ,9/30/54,10/16/14,Active,76,ANDREW PEKLO III                   ,POMPERAUG RIVER                    ,CT
+2558,OTTER CREEK                        ,9/30/54,10/23/14,Active,22807,GREEN MOUNTAIN POWER CORP      (VT),OTTER CREEK                        ,VT
+14345,ROCK RIVER BEACH                   ,10/30/44,11/4/14,Active,8,"ROCK REACH BEACH, INC.             ",ROCK RIVER                         ,MI
+485,BARTLETTS FERRY                    ,11/30/44,12/22/14,Active,173000,GEORGIA POWER CO               (GA),CHATTAHOOCHEE RIVER                ,GA
+2984,EEL WEIR                           ,2/28/55,3/23/15,Active,1800,S D WARREN CO                  (ME),PRESUMPSCOT RIVER                  ,ME
+2206,YADKIN-PEE DEE                     ,3/31/55,4/1/15,Active,108600,"DUKE ENERGY PROGRESS, LLC.         ",PEE DEE R                          ,NC
+13739,BRADDOCK LOCKS AND DAM             ,5/31/65,6/4/15,Active,5250,LOCK+HYDRO FRIENDS FUND XLII       ,MONONGAHELA RIVER                  ,PA
+2678,NARROWS NO. 2-SMARTVILLE T. L.     ,4/30/46,6/4/15,Active,0,PACIFIC GAS AND ELECTRIC CO      (C,,CA
+13994,HANCOCK CREEK                      ,5/31/65,6/19/15,Active,6000,PUD NO 1 OF SNOHOMISH COUNTY   (WA),HANCOCK CREEK                      ,WA
+13948,CALLIGAN CREEK                     ,5/31/65,6/23/15,Active,6000,PUD NO 1 OF SNOHOMISH COUNTY   (WA),CALLIGAN CREEK                     ,WA
+2280,KINZUA PUMPED STORAGE              ,11/30/65,7/22/15,Active,452350,"SENECA GENERATION, LLC             ",ALLEGHENY RIVER                    ,PA
+14657,ZEALAND FALLS                      ,7/31/45,8/12/15,Active,2500,APPALACHIAN MOUNTAIN CLUB          ,WHITEWALL BROOK                    ,NH
+14628,A-MILL ARTIST LOFTS                ,8/31/65,9/4/15,Active,600,MINNEAPOLIS LEASED HOUSING ASSN IV ,MISSISSIPPI RIVER                  ,MN
+12721,Pepperell                          ,8/31/55,9/8/15,Active,22065,"PEPPERELL HYDRO COMPANY, LLC       ",Nashua River                       ,MA
+2524,SALINA PUMPED STORAGE              ,11/30/45,10/16/15,Active,259800,GRAND RIVER DAM AUTHORITY      (OK),NEOSHO RIVER                       ,OK
+7320,CHASM                              ,10/31/45,11/10/15,Active,3350,"ERIE BOULEVARD HYDROPOWER, L.P.    ",SALMON RIVER                       ,NY
+2660,FOREST CITY (STORAGE)              ,10/31/45,11/23/15,Active,0,"WOODLAND PULP, LLC                 ",EAST BRANCH ST. CROIX RIVER        ,ME
+2232,CATAWBA-WATEREE                    ,10/31/55,11/25/15,Active,843102,"DUKE ENERGY CAROLINAS, LLC.        ",WATEREE RIVER                      ,SC
+3030,ELK RAPIDS                         ,11/30/45,12/7/15,Active,700,ANTRIM COUNTY                  (MI),ELK RIVER                          ,MI
+349,MARTIN DAM                         ,11/30/45,12/17/15,Active,182500,ALABAMA POWER CO               (AL),TALLAPOOSA RIVER                   ,AL
+13214,RAVENNA                            ,11/30/55,12/21/15,Active,2064,"LOCK 12 HYDRO PARTNERS, LLC.       ",KENTUCKY RIVER                     ,KY
+13213,HEIDELBERG                         ,11/30/55,12/21/15,Active,2064,"LOCK 14 HYDRO PARTNERS, LLC.       ",KENTUCKY RIVER                     ,KY
+1888,YORK HAVEN                         ,11/30/55,12/22/15,Active,19620,"YORK HAVEN POWER COMPANY, LLC.     ",SUSQUEHANNA RIVER                  ,PA
+2355,MUDDY RUN PUMPED STORAGE           ,11/30/55,12/22/15,Active,828000,EXELON GENERATING COMPANY LLC.     ,ZAVESKY                            ,PA
+13704,ARKABUTLA LAKE                     ,11/30/65,12/28/15,Active,5100,"FFP MISSOURI 2, LLC                ",COLDWATER RIVER                    ,MS
+13703,ENID LAKE                          ,11/30/65,12/28/15,Active,4600,"FFP MISSOURI 2, LLC                ",YOCONA RIVER                       ,MS
+13702,GRENADA LAKE                       ,11/30/65,12/28/15,Active,9000,"FFP MISSOURI 2, LLC                ",YALOBUSHA RIVER                    ,MS
+13701,SARDIS LAKE                        ,11/30/65,12/28/15,Active,14600,"FFP MISSOURI 2, LLC                ",SARDIS LAKE DAM                    ,MS
+13408,PHILO                              ,11/30/65,12/30/15,Active,3000,"CLEAN RIVER POWER MR-7, LLC        ",MUSKINGUM RIVER                    ,OH
+13411,ROKEBY                             ,11/30/65,12/30/15,Active,4000,"CLEAN RIVER POWER MR-6, LLC        ",MUSKINGUM RIVER                    ,OH
+13406,MALTA                              ,11/30/65,12/30/15,Active,4000,"CLEAN RIVER POWER MR-5, LLC        ",MUSKINGUM RIVER                    ,OH
+13404,BEVERLY                            ,11/30/65,12/30/15,Active,3000,"CLEAN RIVER POWER MR-3, LLC        ",MUSKINGUM RIVER                    ,OH
+2090,WATERBURY                          ,1/31/56,2/19/16,Active,5520,GREEN MOUNTAIN POWER CORP      (VT),LITTLE RIVER                       ,VT
+2618,WEST BRANCH (STORAGE)              ,2/28/46,3/15/16,Active,0,"WOODLAND PULP, LLC                 ",WEST BRANCH ST. CROIX RIVER        ,ME
+2492,VANCEBORO (STORAGE)                ,2/28/46,3/22/16,Active,0,"WOODLAND PULP, LLC                 ",EAST BRANCH ST. CROIX RIVER        ,ME
+13407,LOWELL                             ,2/28/66,3/30/16,Active,4800,"CLEAN RIVER POWER MR-2, LLC        ",MUSKINGUM RIVER                    ,OH
+13405,DEVOLA                             ,2/28/66,3/30/16,Active,4000,"CLEAN RIVER POWER MR-1, LLC        ",MUSHINGUM RIVER                    ,OH
+13272,OLD HARBOR                         ,3/31/66,4/29/16,Active,262,ALASKA VILLAGE ELECTRIC COOPERATIVE,MOUNTAIN CREEK                     ,AK
+12613,TYGART DAM                         ,3/31/66,4/29/16,Active,30000,"TYGART,  LLC.                      ",TYGART RIVER                       ,WV
+14276,KENTUCKY RIVER LOCK AND DAM NO. 11 ,1/1/56,5/5/16,Active,5000,"FFP PROJECT 92, LLC                ",KENTUCKY RIVER                     ,KY
