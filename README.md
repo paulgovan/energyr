@@ -1,7 +1,8 @@
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/energyr)](https://CRAN.R-project.org/package=energyr)
-![](http://cranlogs.r-pkg.org/badges/grand-total/energyr)
-![](http://cranlogs.r-pkg.org/badges/energyr)
+[![CRAN checks](https://badges.cranchecks.info/summary/energyr.svg)](https://cran.r-project.org/web/checks/check_results_energyr.html)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/energyr)](https://cran.r-project.org/package=energyr)
+[![](http://cranlogs.r-pkg.org/badges/last-month/energyr)](https://cran.r-project.org/package=energyr)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1145429.svg)](https://doi.org/10.5281/zenodo.1145429)
 <!-- badges: end -->
 
