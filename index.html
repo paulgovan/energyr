@@ -8,8 +8,8 @@
 <title>Data Published by the United States Federal Energy Regulatory Commission • energyr</title>
 <script src="deps/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="deps/bootstrap-5.3.1/bootstrap.min.css" rel="stylesheet">
-<script src="deps/bootstrap-5.3.1/bootstrap.bundle.min.js"></script><link href="deps/font-awesome-6.4.2/css/all.min.css" rel="stylesheet">
-<link href="deps/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet">
+<script src="deps/bootstrap-5.3.1/bootstrap.bundle.min.js"></script><link href="deps/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
+<link href="deps/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet">
 <script src="deps/headroom-0.11.0/headroom.min.js"></script><script src="deps/headroom-0.11.0/jQuery.headroom.min.js"></script><script src="deps/bootstrap-toc-1.0.1/bootstrap-toc.min.js"></script><script src="deps/clipboard.js-2.0.11/clipboard.min.js"></script><script src="deps/search-1.0.0/autocomplete.jquery.min.js"></script><script src="deps/search-1.0.0/fuse.min.js"></script><script src="deps/search-1.0.0/mark.min.js"></script><!-- pkgdown --><script src="pkgdown.js"></script><meta property="og:title" content="Data Published by the United States Federal Energy Regulatory Commission">
 <meta name="description" content="Data published by the United States Federal Energy Regulatory Commission including electric company financial data, natural gas company financial data, hydropower plant data, liquified natural gas plant data, oil company financial data natural gas company financial data, and natural gas storage field data.">
 <meta property="og:description" content="Data published by the United States Federal Energy Regulatory Commission including electric company financial data, natural gas company financial data, hydropower plant data, liquified natural gas plant data, oil company financial data natural gas company financial data, and natural gas storage field data.">
@@ -46,15 +46,24 @@
   </div>
 </nav><div class="container template-home">
 <div class="row">
-  <main id="main" class="col-md-9">
-<div class="section level1">
-<div class="page-header"><h1 id="overview">Overview<a class="anchor" aria-label="anchor" href="#overview"></a>
+  <main id="main" class="col-md-9"><div class="section level1">
+<div class="page-header"><h1 id="energyr">energyr<a class="anchor" aria-label="anchor" href="#energyr"></a>
 </h1></div>
-<p>energyr is an <a href="https://www.r-project.org" class="external-link">R</a> package containing data published by the United States Federal Energy Regulatory Commission (FERC) <a href="https://www.ferc.gov" class="external-link">www.ferc.gov</a>. energyr is also the package used for <a href="https://paulgovan.github.io/eAnalytics/" class="external-link">eAnalytics</a>. To learn more about this project, check out this <a href="https://doi.org/10.5334/jors.144" class="external-link">paper</a>.</p>
+<!-- badges: start -->
+
+<p><code>energyr</code> is an R package containing data published by the United States Federal Energy Regulatory Commission (FERC) <a href="https://www.ferc.gov" class="external-link">ferc.gov</a> from 1996 to 2014. The data includes information on company finances, projects, and facilities for power plants across the United States. The package provides functions to access, manipulate, and analyze this data, making it easier for researchers and analysts to study energy trends.</p>
+<p>To explore the data in a web-based app, check out the <a href="https://paulgovan.github.io/eAnalytics/" class="external-link">eAnalytics</a> project.</p>
+<div class="section level2">
+<h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
+</h2>
+<p>To install <code>energyr</code>:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"energyr"</span>)</span></code></pre></div>
+<p>Or to install the development version:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">'paulgovan/energyr'</span>)</span></code></pre></div>
 </div>
-<div class="section level1">
-<h1 id="data">Data<a class="anchor" aria-label="anchor" href="#data"></a>
-</h1>
+<div class="section level2">
+<h2 id="data">Data<a class="anchor" aria-label="anchor" href="#data"></a>
+</h2>
 <ul>
 <li>
 <code>electric</code>: Electric Company Financial Data</li>
@@ -72,15 +81,7 @@
 <code>storage</code>: Natural Gas Storage Field Data</li>
 </ul>
 </div>
-<div class="section level1">
-<h1 id="getting-started">Getting Started<a class="anchor" aria-label="anchor" href="#getting-started"></a>
-</h1>
-<p>To install energyr in R:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode s"><code class="sourceCode gnuassembler"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a>install.packages<span class="op">(</span><span class="st">"energyr"</span><span class="op">)</span></span></code></pre></div>
-<p>Or to install the development version:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode s"><code class="sourceCode gnuassembler"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a><span class="fu">devtools::</span>install_github<span class="op">(</span><span class="ch">'p</span>aulgovan<span class="op">/</span>energyr<span class="ch">')</span></span></code></pre></div>
 </div>
-
   </main><aside class="col-md-3"><div class="links">
 <h2 data-toc-skip>Links</h2>
 <ul class="list-unstyled">
@@ -93,7 +94,8 @@
 <div class="license">
 <h2 data-toc-skip>License</h2>
 <ul class="list-unstyled">
-<li>Apache License</li>
+<li><a href="LICENSE.html">Full license</a></li>
+<li><small><a href="https://creativecommons.org/licenses/by/4.0" class="external-link">CC BY 4.0</a></small></li>
 </ul>
 </div>
 
@@ -108,7 +110,7 @@
 <div class="developers">
 <h2 data-toc-skip>Developers</h2>
 <ul class="list-unstyled">
-<li>Paul Govan <br><small class="roles"> Author, maintainer, copyright holder </small> <a href="https://orcid.org/0000-0002-1821-8492" target="orcid.widget" aria-label="ORCID" class="external-link"><span class="fab fa-orcid orcid" aria-hidden="true"></span></a> </li>
+<li>Paul Govan <br><small class="roles"> Author, maintainer, copyright holder </small> <a href="https://orcid.org/0000-0002-1821-8492" target="orcid.widget" aria-label="ORCID" class="external-link"><span class="fab fa-orcid orcid" aria-hidden="true"></span></a>  </li>
 </ul>
 </div>
 
@@ -123,7 +125,7 @@
 </div>
 
 <div class="pkgdown-footer-right">
-  <p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.1.0.</p>
+  <p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.2.0.</p>
 </div>
 
     </footer>
