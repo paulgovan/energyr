@@ -16,8 +16,7 @@ Energy Regulatory Commission*.
 R package version 0.1.2, <https://CRAN.R-project.org/package=energyr>.
 
     @Manual{,
-      title = {energyr: Data Published by the United States Federal Energy Regulatory
-    Commission},
+      title = {energyr: Data Published by the United States Federal Energy Regulatory Commission},
       author = {Paul Govan},
       year = {2018},
       note = {R package version 0.1.2},
