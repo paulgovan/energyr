@@ -1,6 +1,8 @@
-#' Natural Gas Storage Field Information
+#' Natural Gas Storage Field Information Data
 #'
-#' Natural Gas Storage Field Information as reported by FERC.
+#' Natural Gas Storage Field Information as reported by FERC. Data includes the
+#' name of the storage company, field, reservoir, type, location, working and total
+#' capacity, and maximum daily delivery. 
 #'
 #' @source http://www.ferc.gov/industries/gas/indus-act/storage.asp
 #' @format Data frame with columns
@@ -20,6 +22,7 @@
 #' \item{lon}{Approximate Longitude of the Field}
 #' }
 #' @examples
-#'   dim(storage)
-#'   head(storage)
+#' data(storage)
+#' dim(storage)
+#' head(storage)
 "storage"

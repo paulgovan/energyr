@@ -1,6 +1,7 @@
-#' Oil Company Rates
+#' Oil Company Rates and Revenue Data
 #'
-#' Oil Company Financial Information as reported by FERC.
+#' Oil Company Financial Information as reported by FERC. Includes annual revenue 
+#' and annual bill data for oil companies from 1996 to 2014.
 #'
 #' @source http://www.ferc.gov/industries/oil/annual-charges.asp
 #' @format Data frame with columns
@@ -11,6 +12,7 @@
 #' \item{Year}{Reporting Year}
 #' }
 #' @examples
-#'   dim(oil)
-#'   head(oil)
+#' data(oil)
+#' dim(oil)
+#' head(oil)
 "oil"

@@ -10,7 +10,7 @@
 #' oil
 #' pipeline
 #' storage
-#' 
+#'
 #' @docType package
 #' @name energyr
 NULL

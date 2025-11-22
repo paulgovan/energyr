@@ -1,6 +1,7 @@
-#' Natural Gas Company Rates
+#' Natural Gas Company Rates Data
 #'
-#' Natural Gas Company Financial Information as reported by FERC.
+#' Natural Gas Company Financial Information as reported by FERC. Includes annual 
+#' revenue and annual bill data for various natural gas companies from 1996 to 2014.
 #'
 #' @source http://www.ferc.gov/industries/gas/annual-charges.asp
 #' @format Data frame with columns
@@ -11,6 +12,7 @@
 #' \item{Year}{Reporting Year}
 #' }
 #' @examples
-#'   dim(gas)
-#'   head(gas)
+#' data(gas)
+#' dim(gas)
+#' head(gas)
 "gas"

@@ -1,6 +1,9 @@
-#' Pipeline Project Information
+#' Pipeline Project Information Data
 #'
-#' Natural Gas Pipeline Project Information as reported by FERC.
+#' Natural Gas Pipeline Project Information as reported by FERC. Data includes
+#' project name, operator, type, status, completion date, states, region, cost,
+#' miles, capacity, diameter, authority, and docket number. Data spans from
+#' 1996 to 2014.
 #'
 #' @source http://www.ferc.gov/industries/gas/indus-act/pipelines.asp
 #' @format Data frame with columns
@@ -18,11 +21,11 @@
 #' \item{Miles}{Miles of Pipeline}
 #' \item{Capacity}{Capacity of the Pipeline in MMcf/d}
 #' \item{Diameter}{Diameter(s) of the Pipeline in Inches}
-#' \item{Pipeline}{Intrastate or Interstate Pipeline}
 #' \item{Authority}{Regulatory Authority for the Project}
 #' \item{Docket}{FERC Docket Number}
 #' }
 #' @examples
-#'   dim(pipeline)
-#'   head(pipeline)
+#' data(pipeline)
+#' dim(pipeline)
+#' head(pipeline)
 "pipeline"

@@ -9,3 +9,7 @@
 ^docs$
 ^pkgdown$
 ^\.github$
+^codemeta\.json$
+^README\.Rmd$
+^LICENSE\.md$
+^codecov\.yml$

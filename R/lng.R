@@ -1,6 +1,6 @@
-#' LNG Plant Information
+#' LNG Plant Information Data
 #'
-#' LNG Plant Information as reported by FERC.
+#' LNG Plant Information as reported by FERC. Includes location, company name, capacity, type, and status.
 #'
 #' @source http://www.ferc.gov/industries/gas/indus-act/lng.asp
 #' @format Data frame with columns
@@ -14,6 +14,7 @@
 #' \item{lon}{Approximate Longitude of the Plant}
 #' }
 #' @examples
-#'   dim(lng)
-#'   head(lng)
+#' data(lng)
+#' dim(lng)
+#' head(lng)
 "lng"
