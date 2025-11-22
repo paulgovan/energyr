@@ -1,5 +1,7 @@
 # energyr
 
+## Introduction
+
 `energyr` is an R package containing data published by the United States
 Federal Energy Regulatory Commission (FERC)
 [ferc.gov](https://www.ferc.gov) from 1996 to 2014. The data includes

@@ -10,6 +10,20 @@
 Source:
 [`inst/CITATION`](https://github.com/paulgovan/energyr/blob/master/inst/CITATION)
 
+Govan P (2025). “Historical US Energy Industry Datasets Compiled from
+FERC Records.”
+[doi:10.21227/4wn5-t259](https://doi.org/10.21227/4wn5-t259),
+<https://dx.doi.org/10.21227/4wn5-t259>.
+
+    @Misc{,
+      author = {Paul Govan},
+      title = {Historical US Energy Industry Datasets Compiled from FERC Records},
+      year = {2025},
+      publisher = {IEEE Dataport},
+      url = {https://dx.doi.org/10.21227/4wn5-t259},
+      doi = {10.21227/4wn5-t259},
+    }
+
 Govan P (2018). *energyr: Data Published by the United States Federal
 Energy Regulatory Commission*.
 [doi:10.32614/CRAN.package.energyr](https://doi.org/10.32614/CRAN.package.energyr),
