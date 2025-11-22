@@ -11,12 +11,12 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 [![CRAN
 status](https://www.r-pkg.org/badges/version/energyr)](https://CRAN.R-project.org/package=energyr)
 [![R-CMD-check](https://github.com/paulgovan/energyr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/paulgovan/energyr/actions/workflows/R-CMD-check.yaml)
-[![Codecov test
-coverage](https://codecov.io/gh/paulgovan/energyr/graph/badge.svg)](https://app.codecov.io/gh/paulgovan/energyr)
 [![](http://cranlogs.r-pkg.org/badges/grand-total/energyr)](https://cran.r-project.org/package=energyr)
 [![](http://cranlogs.r-pkg.org/badges/last-month/energyr)](https://cran.r-project.org/package=energyr)
 [![](https://img.shields.io/badge/doi-10.32614/CRAN.package.energyr-green.svg)](https://doi.org/10.32614/CRAN.package.energyr)
 <!-- badges: end -->
+
+## Introduction
 
 `energyr` is an R package containing data published by the United States
 Federal Energy Regulatory Commission (FERC)

@@ -1,6 +1,16 @@
 citHeader("To cite energyr in publications use:")
 
 bibentry(
+  bibtype = "Misc",
+  author = "Paul Govan",
+  title = "Historical US Energy Industry Datasets Compiled from FERC Records",
+  year = 2025,
+  publisher = "IEEE Dataport",
+  url = "https://dx.doi.org/10.21227/4wn5-t259",
+  doi = "10.21227/4wn5-t259"
+)
+
+bibentry(
   bibtype  = "Manual",
   title    = "energyr: Data Published by the United States Federal Energy Regulatory Commission",
   author   = "Paul Govan",
