@@ -1,9 +1,15 @@
+# energyr 0.2
+
+## Minor Updates 
+
+* Updated documentation
+
 # energyr 0.1.3
 
 ## Minor updates
 
-* Update contact info
-* Update citation
+* Updated contact info
+* Updated citation
 
 # energyr 0.1.2
 
