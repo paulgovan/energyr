@@ -2,6 +2,8 @@
 
 ## energyr 0.2
 
+CRAN release: 2025-11-23
+
 ### Minor Updates
 
 - Updated documentation
