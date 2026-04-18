@@ -3,7 +3,7 @@
 #' Electric Company Financial Information as reported by FERC. Includes annual 
 #' revenue and annual bill data from 1996 to 2014.
 #' 
-#' @source http://www.ferc.gov/industries/electric/annual-charges.asp
+#' @source \url{https://www.ferc.gov/industries-data/electric/general-information/electric-industry-forms/form-1-annual-report-major}
 #' @format Data frame with columns
 #' \describe{
 #' \item{Company}{Electric Company Name}

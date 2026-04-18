@@ -24,7 +24,7 @@ test_that("storage columns have reasonable types", {
   expect_type(storage$Working, "integer")
   expect_type(storage$Total, "integer")
   expect_type(storage$MDD, "integer")
-  expect_type(storage$address, "integer")
+  expect_type(storage$address, "character")
   expect_type(storage$lat, "double")
   expect_type(storage$lon, "double")
 })

@@ -5,7 +5,7 @@
 #' miles, capacity, diameter, authority, and docket number. Data spans from
 #' 1996 to 2014.
 #'
-#' @source http://www.ferc.gov/industries/gas/indus-act/pipelines.asp
+#' @source \url{https://www.ferc.gov/industries-data/natural-gas/overview/natural-gas-pipeline-certificates}
 #' @format Data frame with columns
 #' \describe{
 #' \item{Name}{Name of the Pipeline Project}

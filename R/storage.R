@@ -4,7 +4,7 @@
 #' name of the storage company, field, reservoir, type, location, working and total
 #' capacity, and maximum daily delivery. 
 #'
-#' @source http://www.ferc.gov/industries/gas/indus-act/storage.asp
+#' @source \url{https://www.ferc.gov/industries-data/natural-gas/overview/gas-storage}
 #' @format Data frame with columns
 #' \describe{
 #' \item{Company}{Name of the Storage Company}

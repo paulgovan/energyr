@@ -6,7 +6,7 @@ test_that("hydropower dataset loads correctly", {
 test_that("hydropower has correct columns", {
   expected_cols <- c(
     "Number", "Name", "Expiration", "Issued", "Status",
-    "Capacity", "Company", "Waterway", "lat", "lon"
+    "Capacity", "Company", "Waterway", "State", "address", "lat", "lon"
   )
   expect_true(all(expected_cols %in% names(hydropower)))
 })

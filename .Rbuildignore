@@ -13,3 +13,6 @@
 ^README\.Rmd$
 ^LICENSE\.md$
 ^codecov\.yml$
+^CRAN-SUBMISSION$
+^CLAUDE\.md$
+^data-raw$
