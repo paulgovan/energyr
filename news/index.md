@@ -1,5 +1,15 @@
 # Changelog
 
+## energyr 0.4
+
+### Minor Updates
+
+- Updated all datasets (electric, gas, oil, hydropower, lng, pipeline,
+  storage)
+- Updated data-raw scripts with input validation and improved
+  documentation
+- Updated tests for hydropower and storage datasets
+
 ## energyr 0.2
 
 CRAN release: 2025-11-23
