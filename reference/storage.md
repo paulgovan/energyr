@@ -89,10 +89,10 @@ http://www.ferc.gov/industries/gas/indus-act/storage.asp
 #> 5 Depleted Field    Clare    MI Consuming East 17000000 35722869 400000
 #> 6 Depleted Field    Clare    MI Consuming East 22000000 45710000 860000
 #>        address      lat       lon
-#> 1  Mecosta, MI 43.62031 -85.22642
-#> 2   Otsego, MI 42.46059 -85.69641
-#> 3 Kalkaska, MI 44.73520 -85.18422
-#> 4  Newaygo, MI 43.41974 -85.80005
-#> 5    Clare, MI 43.81947 -84.76863
-#> 6    Clare, MI 43.81947 -84.76863
+#> 1  Mecosta, MI 43.63755 -85.31682
+#> 2   Otsego, MI 45.02441 -84.61368
+#> 3 Kalkaska, MI 44.67805 -85.10025
+#> 4  Newaygo, MI 43.51212 -85.79450
+#> 5    Clare, MI 43.96887 -84.85051
+#> 6    Clare, MI 43.96887 -84.85051
 ```
