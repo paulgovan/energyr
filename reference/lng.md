@@ -58,10 +58,10 @@ http://www.ferc.gov/industries/gas/indus-act/lng.asp
 #> 5      Hackberry, LA                                      Sempra - Cameron LNG
 #> 6       Freeport, TX Freeport LNG Dev/Freeport LNG Expansion/FLNG Liquefaction
 #>   Capacity   Type                 Status      lat       lon
-#> 1      1.0 Import Not under construction       NA        NA
-#> 2      1.4 Import Not under construction       NA        NA
-#> 3      0.4 Import     Under construction 27.80058 -97.39638
-#> 4      2.1 Export     Under construction 31.29742 -93.82482
-#> 5      2.1 Export     Under construction 29.99605 -93.34210
-#> 6      1.8 Export     Under construction 28.95414 -95.35966
+#> 1      1.0 Import Not under construction 25.28345 -89.90662
+#> 2      1.4 Import Not under construction 25.28345 -89.90662
+#> 3      0.4 Import     Under construction 27.76353 -97.40332
+#> 4      2.1 Export     Under construction 31.33255 -93.87222
+#> 5      2.1 Export     Under construction 29.99210 -93.36474
+#> 6      1.8 Export     Under construction 28.94968 -95.34614
 ```
