@@ -1,6 +1,14 @@
 ## R CMD check results
 
-0 errors | 0 warnings | 0 notes
+0 errors | 0 warnings | 1 note
+
+* Found the following (possibly) invalid URLs:
+    URL: https://www.ferc.gov
+      From: README.md
+      Status: 403
+      Message: Forbidden
+      
+* The URL https://www.ferc.gov is accessible.
 
 ## revdepcheck results
 
