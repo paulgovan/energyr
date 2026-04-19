@@ -2,6 +2,8 @@
 
 ## energyr 0.4
 
+CRAN release: 2026-04-19
+
 ### Minor Updates
 
 - Updated all datasets (electric, gas, oil, hydropower, lng, pipeline,

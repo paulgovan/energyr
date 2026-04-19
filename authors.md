@@ -8,7 +8,7 @@
 ## Citation
 
 Source:
-[`inst/CITATION`](https://github.com/paulgovan/energyr/blob/master/inst/CITATION)
+[`inst/CITATION`](https://github.com/paulgovan/energyr/blob/v0.4/inst/CITATION)
 
 Govan P (2025). “Historical US Energy Industry Datasets Compiled from
 FERC Records.”
